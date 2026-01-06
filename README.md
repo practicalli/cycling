@@ -72,53 +72,44 @@ Publish book workflow installs Material for MkDocs version 9
 
 ## Local development
 
-> NOTE: to be updated for Zensical.
+Zensical can be installed locally via vu or pip. Practicalli uses uv for simplicity.  Commands are wrapped in tasks defined within the `Makefile`.
 
-Zensical is a mix of Rust and Python and can be installed locally via vu or pip.
-
-Practicalli creates a common python environment to support all the books and blogs it creates.
+Clone the repository and change into the root of the project.
 
 ```shell
-uv init ~/.local/venv
+git clone https://github.com/practicalli/cycling
 ```
 
-Install mkdocs version 9 using the Python pip package manager
+Set up a Python virtual environment in the project
 
 ```shell
+make docs-init
 ```
 
-Install the plugins used by the Practicalli site using Pip (these are also installed in the GitHub Action workflow)
-
-```shell
-
-```
-
-> pillow and cairosvg python packages are required for [Social Cards](https://squidfunk.github.io/mkdocs-material/setup/setting-up-social-cards/)
-
-Fork the GitHub repository and clone that fork to your computer,
-
-```shell
-git clone https://github.com/<your-github-account>/<repository>.git
-```
-
-Run a local server from the root of the cloned project
+Build the website and serve locally at [http://localhost:8000](http://localhost:8000)
 
 ```shell
 make docs
 ```
 
-If not using make, then run
+---
+
+Specific command if now using make:
+
+Create a virtual python in the root of the project.
 
 ```shell
-source ~/.local/venv/bin/activate && mkdocs serve --dev-addr localhost:7777
+uv venv
 ```
 
-The website will open at <http://localhost:7777>
-
-If making smaller changes, then only rebuild the content that changes, speeding up the local development process
+Activate the Python Virtual Environment.
 
 ```shell
-make docs-changed
+source .venv/bin/activate
 ```
 
-> NOTE: navigation changes may not be correctly reflected without reloading the page in the web browser or carrying out a full `make docs` build
+Build the website and serve locally at [http://localhost:8000](http://localhost:8000)
+
+```shell
+zensical serve
+```
