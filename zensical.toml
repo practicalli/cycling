@@ -320,3 +320,9 @@ code = "Ubuntu Mono"
 #[[project.extra.social]]
 icon = "fontawesome/brands/github"
 link = "https://github.com/practicalli/cycling"
+
+# ---
+# Analytics
+[project.extra.analytics]
+provider = "google"
+property = "G-Q920HX310C"
