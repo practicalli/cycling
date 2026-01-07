@@ -2,7 +2,7 @@
 icon: lucide/wrench
 ---
 
-# Bicycle Maintenance
+# Maintenance
 
 Regular maintenance
 
