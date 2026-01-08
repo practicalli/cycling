@@ -83,7 +83,7 @@ git clone https://github.com/practicalli/cycling
 Set up a Python virtual environment in the project
 
 ```shell
-make docs-init
+make docs-install
 ```
 
 Build the website and serve locally at [http://localhost:8000](http://localhost:8000)
