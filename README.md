@@ -80,7 +80,7 @@ Clone the repository and change into the root of the project.
 git clone https://github.com/practicalli/cycling
 ```
 
-Set up a Python virtual environment in the project
+Set up a Python virtual environment in the project and add Zensical package
 
 ```shell
 make docs-install
