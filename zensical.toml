@@ -50,6 +50,7 @@ nav = [
   { "Training" = "training.md" },
   { "Toolbag" = "toolbag.md" },
   { "Maintenance" = "maintenance.md" },
+  { "First Aid" = "first-aid.md" },
   # { "Markdown in 5min" = "markdown.md" },
 ]
 
