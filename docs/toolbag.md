@@ -53,7 +53,7 @@ TPU Inner tubes are considerably lighter, between 19 to 50 grams. TPU tubes with
 
 
 | Manufacturer | Model | Tyre size | Valve Stem | Weight (grams) | Cost (GBP) |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | [Rider Now ](https://www.ridenowtech.com/?page_id=649) | Race Formula | 23-28 | Plastic | 24 | 6 GBP |
 | [Rider Now ](https://www.ridenowtech.com/?page_id=649) | Race Formula | 28-32 | Aluminium | 36 | 6 GBP |
 | [Schwalbe ](https://www.schwalbe.com/en/Schwalbe-Aerothan-Tube-28-Road-10465463) | Aerothan Tube 28" Road | Aluminium | 23-32 | 51 | 30|
