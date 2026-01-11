@@ -1,3 +1,7 @@
+---
+icon: lucide/heart-pulse
+---
+
 # First Aid
 
 Carry a small first aid kit, especially for long and multi-day rides.
