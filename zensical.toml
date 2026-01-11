@@ -46,13 +46,13 @@ Copyright &copy; 2025 Practicalli
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
   { "Introduction" = "index.md" },
+  { "Toolbag" = "toolbag.md" },
   { "Lights" = "lights.md" },
   { "Computers & Sensors" = "computers-sensors.md" },
+  { "First Aid" = "first-aid.md" },
   { "Route Planning" = "route-planning.md" },
   { "Training" = "training.md" },
-  { "Toolbag" = "toolbag.md" },
   { "Maintenance" = "maintenance.md" },
-  { "First Aid" = "first-aid.md" },
   # { "Markdown in 5min" = "markdown.md" },
 ]
 
