@@ -4,14 +4,21 @@ icon: lucide/wrench
 
 # Maintenance
 
-Regular maintenance
+Regular maintenance of the bike and its components ensures a smooth and efficient riding experience, minimises injuries and mechanical issues during rides and saves money over the longer term.
 
+- cleaning
 - disk brakes
 - rim brakes
 - [Chain](#chain)
 - gears & derailleur
 - bolts
 - bearings (local bike shop)
+
+## Regular cleaning
+
+Keeping the bike clean minimise wear of the components, especially the chain and rear cassette.  A clean chain set will change gear smoothly and cause less mess when maintaining your bike or fixing a puncture.
+
+A clean bike also weighs less, is more aero and looks nicer (especially when taking a break at a coffee shop).
 
 
 ## Chain
