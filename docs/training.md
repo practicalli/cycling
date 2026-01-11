@@ -34,6 +34,24 @@ Building on existing strengths  supports confidence and increases motivation. Ba
 Gradually start working on other aspects, especially when motivation is high.
 
 
+## 80 percent rule
+
+Endurance building should form approximately 80% of the training time, e.g low to moderate effort rides and [recovery rides](#recovery-rides).
+
+Up to 20% of training should be high intensity training to increase aerobic fitness, e.g climbing steep hills or spin sessions.
+
+
+!!! NOTE "Running & Swimming boosts aerobic fitness"
+    Running and swimming can complement cycle training and become part of the 20% high-intensity training.
+
+    Both activities help with cardiovascular fitness, strengthening key muscles, improving lung capacity, and providing low-impact cardio.  Running (and walking) targeting different leg muscles and balance strength in the legs.
+
+    Swimming is a low impact and joint-friendly activity and is a good activity when legs feel strained from running.
+
+    Only hours riding a bicycle will prepare your body for a significant ride or event (and still enjoy it).
+
+
+
 ## Recovery rides
 
 The recovery ride should be enjoyable, such as a ride to a cafe or favourite route. There should be some effort required but not overly taxing your body. You should be able to have a normal day after the ride without feeling tired.
