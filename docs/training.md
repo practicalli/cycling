@@ -6,9 +6,13 @@ icon: lucide/bike
 
 With a good training plan, any ride can be tackled successfully.
 
-Create a rough plan well in advance to avoid rushing your training, which will increase the risk of injury or draining motivation.
+Training should be enjoyable. If you are not enjoying your training, then adjust the way you are training.
 
-With plenty of time to train the plan can start with easy and achievable riding, gradually build up to more challenging rides.
+Create a rough plan well in advance to avoid rushing your training. Without a plan there is an increased risk of injury or draining of motivation by over-training.
+
+With plenty of time to train the plan can start with easy and achievable riding, gradually build up to more challenging rides and ascents.
+
+[Example training plan](#training-plan){target=_blank .md-button}
 
 
 ## Aspects of training
