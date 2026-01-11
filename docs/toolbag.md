@@ -30,22 +30,27 @@ NOTE: when I still used butyl rubber inner tubes I would only be able to fit one
 
 ### My Top Bag
 
-1 x Coospo X1 Mini Electric pump with extension pipe (creates a tight seal)
-1 x Hand pump (when electric pump runs out of battery)
-1 x Rear derailleur hanger, specific to my bicycle frame (highly recommended for long distance riding, multi-day trips)
-1 x Mini Allen key ratchet set (removing thru-axels, adjusting handlebars, seat post, saddle, etc.)
-1 x Quick links (fix a snapped chain) – ensure the links are the right size for your chain.
-1 x Spoke nipple tool (for wobbly wheels, especially if a spoke breaks)
+- 1 x Coospo X1 Mini Electric pump with extension pipe (creates a tight seal)
+- 1 x Hand pump (when electric pump runs out of battery)
+- 1 x Rear derailleur hanger, specific to my bicycle frame (highly recommended for long distance riding, multi-day trips)
+- 1 x Mini Allen key ratchet set (removing thru-axels, adjusting handlebars, seat post, saddle, etc.)
+- 1 x Quick links (fix a snapped chain) – ensure the links are the right size for your chain.
+- 1 x Spoke nipple tool (for wobbly wheels, especially if a spoke breaks)
 
-!!! TIP "Combine hand & electric pump when repairing punctures"
-    Use a hand pump (or your breath for TPU tubes) to put enough air in the new inner tube to make it round.
+??? TIP "Combine hand & electric pump when repairing punctures"
+    Use a hand pump (or your breath for TPU tubes) to put just enough air in the new inner tube to make it round. This makes the inner tube easier to fit inside the tyre and helps avoid pinch flats.
 
-    Inflating the tyre to 20 PSI with a hand pump (the easy bit) makes the Electric pump last much longer, especially on longer rides 🙂
+    Inflating the tyre to 20 PSI with a hand pump (the easy bit) makes an Electric pump last much longer, especially important during all day rides and touring (or if you are the only one in the group with an electric pump) 🙂
 
 
 ## Inner tube
 
 Carry at least one spare inner tube on a ride for an efficient way to repair a puncture.
+
+??? TIP "Tube specific patches"
+    Include patches specific to the material of your tube (TPU, Latex, Butyl) to avoid carrying several spare inner tubes.
+
+    Most tubes can be patched within a few minutes. Inflate the tube enough to find the hole and apply a patch to repair the inner tube.
 
 Butyl rubber inner tubes have been used for decades and are cost effective.  A typical tube weighs around 130 grams.
 
@@ -62,7 +67,6 @@ TPU Inner tubes are considerably lighter, between 19 to 50 grams. TPU tubes with
 
 !!! INFO "Schwalbe Aerothan 28 Road tube available from 2 April 2026"
 
-- 1 x Small box of butyl rubber patches (to support other riders)
 
 !!! TIP "Continental Inner Tubes are very reliable"
 
@@ -122,7 +126,9 @@ How to Find Your Size
 
 ## Longer Rides
 
-- rear derailleur hanger
+- [rear derailleur hanger](#rear-derailleur-hanger)
+- chain splitter
+
 
 ### Rear derailleur hanger
 
@@ -135,29 +141,29 @@ It is highly unlikely that a bike shop will have a spare hanger that fits your b
 Hangers do not take up much space, so carrying a specific hanger will help you get going again should the original hanger become damaged.
 
 
-## Computers & Sensors
-
-- 1 x Wahoo Roam 3 (used to have a Garmin Edge 1030 but the lugs snapped off – newer Garmins have replaceable lugs)
-- 1 x Coospo H9Z Rechargeable Hear Rate Monitor & chest strap (I find a rechargeable unit much easier than coin battery Garmin HR monitor. Coospo glows under your jersey and easy to use – works well with Garmin and Wahoo)
-- 1 x Coospo Cadence Sensor (cheaper replacement for Garmin cadence sensor, works just as well)
-- 1 x Garmin Speed sensor (had since 2019 and still works well)
-
-
 ## Miscellaneous
 
-1 x Bone conducting headphones
+Bone conducting headphones can help with motivation of the toughest part of rides and help keep motivation on long distance rides.
 
-I use to use the Shockz headphones until they just stopped working (after 6 years). I am now trying out the following
+Shockz headphones are the high end brand for bone conducting headphones.  Lower cost alternatives can be found on Amazon, Temu and AliExpress.
 
 – PARAMITA Dv68 Pro New Night Running Sports Headphones (21 GBP AliExpress)
-– Sanag A5X True Bone Conduction Headphones (15 GBP from Tenu)
+– Sanag A5X True Bone Conduction Headphones (15 GBP from Temu)
 
-TIP: I put the headphones on pause before the start of the ride and un-pause when I need some music to help me get up a very big hill.
+
+!!! TIP "Music when needed most"
+    Make the most of of the headphone battery by putting the headphones on pause, only un-pausing when a boost is needed. Select music at starting of a ride to avoid the need to stop during the ride.
+
+    Playing music when approaching the base of an ascent can help with motivation for a significant climb.
+
+
+!!! INFO "Original AfterShocks headphones lasted over 6 years"
+    The original Shockz headphones were called AfterShockz.  My pair were used several times a week and worked flawlessly for over 6 years.
 
 
 ## Tools to avoid
 
-C02 canisters are very ineffective ways to refill tyres and very bad for the environment.
+C02 canisters are very ineffective ways to refill tyres and very bad for the environment.  If used incorrectly a C02 canister can cause physical injuries such as freeze burns. Incorrectly fitted canisters can fly off and cause serious injuries.
 
 A C02 canister can rapidly fill an inner tube but this also means it is harder to manage the resulting air pressure in the tyre.
 
