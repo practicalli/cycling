@@ -12,7 +12,7 @@ Create a rough plan well in advance to avoid rushing your training. Without a pl
 
 With plenty of time to train the plan can start with easy and achievable riding, gradually build up to more challenging rides and ascents.
 
-[Example training plan](#training-plan){target=_blank .md-button}
+[Example training plan](training-plan.md){.md-button}
 
 
 ## Aspects of training
