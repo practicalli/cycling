@@ -47,6 +47,7 @@ Copyright &copy; 2025 Practicalli
 nav = [
   { "Introduction" = "index.md" },
   { "Lights" = "lights.md" },
+  { "Computers & Sensors" = "computers-sensors.md" },
   { "Route Planning" = "route-planning.md" },
   { "Training" = "training.md" },
   { "Toolbag" = "toolbag.md" },
