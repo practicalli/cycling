@@ -4,38 +4,48 @@ icon: lucide/tool-case
 
 # Bicycle Toolbag
 
-Essential tools that should be carried on every ride.
+Carrying essential tools and spares ensures that common bicycle repairs can be completed quickly and easily.
 
-- inner tube
-- pump (hand, electric pump)
+Compact versions of workshop tools are availablw which are smaller and lighter, so more convenient to carry whilst out on a ride.
+
+Recommended tools to carry on every ride include:
+
+- inner tube and patches
+- pump (hand and/or electric)
 - ratchet tool kit or Allen keys
 - spoke wrench tool
 - quick link tool
 
-Extra tools are recommended for [longer rides](#longer-rides).
+Extra tools are recommended for [longer rides](#longer-rides) and a basic [first aid kit](first-aid.md) is especially useful on group rides.
 
 
 ### My Saddle bag
 
-Under seat mini saddle bag is used to keep inner tubes separated, to avoid damage from other tools.  This also makes the tubes easier to find 😄
+A mini saddle bag is useful to keep inner tubes separated from other tools to avoid potential damage and makes tubes are easier to find 😄
 
-- 2 x TPU inner tubes – RiderNow 36G tubes 18C-32C
-- 4 x TPU specific patches (came with tubes)
-- 1 x RideNow Bicycle Tyre Lever – fancy tyre levers to help fit very stubborn tyres
-- 2 x normal tyre lever (as a back up of the fancy ones – maybe superfluous)
-- 2 x Disc break piston wedges (keep disk breaks open when the wheel is off)
+A bag with pockets is useful to keep smaller items like patches and wedges.
 
-NOTE: when I still used butyl rubber inner tubes I would only be able to fit one tube (130 grams), 2 tyre levers and a box of patches.
+- 2 TPU inner tubes – RiderNow 36G tubes which fit 18C-32C tyres
+- 4 TPU specific patches (came with RiderNow tubes)
+- 1 RideNow Bicycle Tyre Lever – fancy tyre lever to help fit very stubborn tyres
+- 2 Standard tyre lever (as a back up of the fancy ones – maybe superfluous)
+- 2 Disc break piston wedges (keep disk brake pads open when the wheel is off)
+
+> Using butyl rubber inner tubes I could only fit one tube (130 grams), 2 tyre levers and a box of patches.
 
 
 ### My Top Bag
 
-- 1 x Coospo X1 Mini Electric pump with extension pipe (creates a tight seal)
-- 1 x Hand pump (when electric pump runs out of battery)
-- 1 x Rear derailleur hanger, specific to my bicycle frame (highly recommended for long distance riding, multi-day trips)
-- 1 x Mini Allen key ratchet set (removing thru-axels, adjusting handlebars, seat post, saddle, etc.)
-- 1 x Quick links (fix a snapped chain) – ensure the links are the right size for your chain.
-- 1 x Spoke nipple tool (for wobbly wheels, especially if a spoke breaks)
+I regularly ride long distance routes, so carry a few more tools in the top bar bag.  This helps distribute the weight to the front of the bicycle.
+
+- Coospo X1 Mini Electric pump with extension pipe (creates a tight seal)
+- Hand pump (when electric pump runs out of battery)
+- Rear derailleur hanger, specific to my bicycle frame (highly recommended for long distance riding, multi-day trips)
+- Mini Allen key ratchet set (removing thru-axels, adjusting handlebars, seat post, saddle, etc.)
+- Quick links (fix a snapped chain)
+- Spoke nipple tool (for wobbly wheels, especially if a spoke breaks)
+- Quick Link Pliers & spare split link  (for the size of my chain).
+
 
 ??? TIP "Combine hand & electric pump when repairing punctures"
     Use a hand pump (or your breath for TPU tubes) to put just enough air in the new inner tube to make it round. This makes the inner tube easier to fit inside the tyre and helps avoid pinch flats.
