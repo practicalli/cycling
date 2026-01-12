@@ -4,9 +4,11 @@ icon: lucide/heart-pulse
 
 # First Aid
 
-Carry a small first aid kit, especially for long and multi-day rides.
+Carry a small first aid kit to assist with physical injuries, especially for group rides or long and multi-day rides.
 
 Take a certified first aid course or at least familiarise yourself with basic first aid.  There are several websites, apps and YouTube videos that provide official advice from health organisations.
+
+[EMT First Aid YouTube channel](https://www.youtube.com/@EMTFirstAid){target=_blank .md-button}
 
 
 ## My first aid kit
@@ -14,6 +16,8 @@ Take a certified first aid course or at least familiarise yourself with basic fi
 A mini first-aid bag is strapped to the front frame of my bicycle for easy access.
 
 Essential items include various bandages, micro tape and resuscitation mask.
+
+[Mini First Aid bag](https://www.aliexpress.com/item/1005007781301446.html){target=_blank .md-button}
 
 
 ## Smart Phone Apps
