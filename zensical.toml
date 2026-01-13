@@ -46,6 +46,7 @@ Copyright &copy; 2025 Practicalli
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
   { "Introduction" = "index.md" },
+  { "Kit" = "kit.md" },
   { "Toolbag" = "toolbag.md" },
   { "Lights" = "lights.md" },
   { "Computers & Sensors" = "computers-sensors.md" },
