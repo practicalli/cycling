@@ -17,18 +17,33 @@ Many companies now produce environmentally friendly kit, using recycled material
 
 ## Types of kit
 
-- bib shorts
-- base layer
-- jersey
-- jacket
-- shoes
-- gloves
-- leg warmers
-- arm warmers
-- socks
-- over-socks
-- over-shoes
-- snood (neck warmer)
+<div class="grid cards" markdown>
+
+-   __Essential kit__
+
+    ---
+
+    - Bib shorts
+    - Base layer
+    - Jersey
+    - Jacket
+    - Shoes
+    - Gloves
+    - Socks
+    - Glasses
+
+-   __Cold & Wet Weather__
+
+    ---
+
+    - Knee & leg warmers
+    - arm warmers
+    - over-socks
+    - over-shoes
+    - snood (neck warmer)
+
+</div>
+
 
 
 ## Recommended brands
