@@ -10,7 +10,10 @@ It is important to understand your current ability, to assess if you should do m
 
 The plan is based on preparing for a 1 day ride, covering 160 km and climbing 2,250 meters (e.g. [Dragon Ride Medio Fondo](https://www.dragonride.co.uk/medio-fondo-157km/))
 
-> NOTE: if running or other high intensity activities are regularly carried out, the training plan can be include less high intensity cycling activities initially.
+[Collection of Training Routes - Ride With GPS](https://ridewithgps.com/collections/8371985){target=_blank .md-button}
+
+> NOTE: running or other high intensity activities can be substituted for some of the high intensity cycling activities, especially in the colder months.
+
 
 ## January
 
