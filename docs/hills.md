@@ -1,5 +1,5 @@
 ---
-icon: lucide/bike
+icon: lucide/mountain-snow
 ---
 
 # Hils
@@ -89,5 +89,6 @@ After the Strava finish the road comes thorugh a small village and towards the e
 
 [Box Hill via Horley](https://ridewithgps.com/routes/52214299){target=_blank .md-button}
 [Ranmore & Box Hill](https://ridewithgps.com/routes/51959693){target=_blank .md-button}
+
 
 ### Leith Hill

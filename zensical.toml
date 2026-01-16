@@ -52,6 +52,7 @@ nav = [
   { "Computers & Sensors" = "computers-sensors.md" },
   { "First Aid" = "first-aid.md" },
   { "Route Planning" = "route-planning.md" },
+  { "Hills" = "hills.md" },
   { "Training" = "training.md" },
   { "Training Plan" = "training-plan.md" },
   { "Maintenance" = "maintenance.md" },
