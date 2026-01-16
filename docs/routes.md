@@ -6,12 +6,14 @@ icon: lucide/map
 
 A curated selection of routes that the Practicalli team recommends.
 
+The current focus covers [South East England](#south-east-england), especially [100km plus rides](#100-km-plus), [Seaside rides](#seaside) and [1 day tours](#one-day-tours)
+
 Routes are all available via the [Ride With GPS website](https://ridewithgps.com/)
 
 
 ## South East England
 
-Routes along the [Kent Alps](#kent-alps), [Surrey Hills National Park]() and trips to the [Seaside](#seaside).
+Routes along the [Kent Alps](#kent-alps), [Surrey Hills National Park](#surrey-hills-national-park) and trips to the [Seaside](#seaside).
 
 All routes depart from the Hayes/Bromley area.
 
@@ -40,6 +42,15 @@ These routes provide a good workout without completely exhausting the body.  The
 [Crowhurst Edenbridge ToysHill SundridgeHill](https://ridewithgps.com/routes/53656540){target=_blank .md-button}
 
 
+### Surrey Hills National Park
+
+Beautiful scenery whist climbing some big hills.
+
+- [Box Hill via Horley](https://ridewithgps.com/routes/52214299){target=_blank .md-button}
+- [Ranmore and Box Hill](https://ridewithgps.com/trips/314043572){target=_blank .md-button}
+- Leith Hill
+
+
 ### 100 km plus
 
 [Aylesford Priory](https://ridewithgps.com/routes/52303874){target=_blank .md-button}
@@ -63,6 +74,16 @@ These routes provide a good workout without completely exhausting the body.  The
 
 [Margate](){target=_blank .md-button} - 250km
 
+
+### One day tours
+
+- [ Isle of Wight ](https://ridewithgps.com/trips/196643416){target=_blank .md-button}
+- [Northern France](){target=_blank .md-button}
+
+
+---
+
+## Route reviews
 
 
 ### Sevenoaks Circular
