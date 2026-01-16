@@ -326,6 +326,11 @@ link = "https://github.com/practicalli/cycling"
 provider = "google"
 property = "G-Q920HX310C"
 
+# Admonitions - Callout boxes
+[project.markdown_extensions.admonition]
+[project.markdown_extensions.pymdownx.details]
+[project.markdown_extensions.pymdownx.superfences]
+
 # Grids - https://zensical.org/docs/authoring/grids/
 [project.markdown_extensions.attr_list]
 [project.markdown_extensions.md_in_html]
