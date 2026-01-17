@@ -69,6 +69,20 @@ Just when you think the hill is over, there is a little bit more to climb :smile
     The decent can also be concerning, especially if traffic is crossing the main road on Pilgrims Way.
 
 
+### Star Hill
+
+Star Hill road is North West from the roundabout connecting the B2211 and A224 roads.  It is the size of an A road and the surface is in good condition.
+
+The gradient starts relatively shallow and quickly increases, more so as the road swings to the left. The gradient reaches 11% as the road turns right for the final streatch, with the gradient easing as you approach the top.
+
+The road flattens and then a gentle decent into the East end of Knockholt.
+
+- Vital statistics
+- Distance: 1.2km
+- Elevation gain: 119 meters
+- Average gradient: Eight per cent
+- Steepest gradient: 11 per cent
+
 
 ## Surrey Hills
 
