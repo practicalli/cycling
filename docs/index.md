@@ -6,8 +6,9 @@ icon: lucide/bike
 
 Practical guides to cycling, covering bicycle maintenance, route planning, bike tools, training plans, etc.
 
-The Practicalli team has been riding for over 30 years, growing experience in long distance and multi-day rides over the last 20 years.
+The Practicalli team has been riding for over 30 years, growing experience in long distance and multi-day rides over the last 20 years.  These experiences shape the advice and opinions offered on this website.
 
+Practicalli is not sponsored by any cycling related companies.
 
 ---
 
