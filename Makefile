@@ -88,7 +88,7 @@ docs-build:  ## Build mkdocs (python venv)
 
 docs-debug:  ## Run mkdocs local server in debug mode (python venv)
 	$(info -- Mkdocs Local Server Debug -------------)
-	. ~/.local/venv/bin/activate; $(DOCS_SERVER) -v
+	. .venv/bin/activate; $(DOCS_SERVER) -v
 
 # docs-staging:  ## Deploy to staging repository
 # 	$(info -- Mkdocs Staging Deploy ---------------)
