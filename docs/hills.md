@@ -43,10 +43,28 @@ The surface of the climb is smooth by Kent road standards.
 
 ### Baileys Hill
 
-A deceptively tough challenge as the road never really looks steep until nearing the top.
+A deceptively tough challenge as the road never really looks steep until nearing the top.  It is a satisfying climb once reaching the top, which is near the east side of Gracious Lane (for a lumpy route back towards London).
 
-A satisfying climb when reaching the top, which is near the east side of Gracious Lane (for a lumpy route back towards London)
+Look to the right for superb view over the Sevenoaks Weald valley.
 
+Vital statistics
+
+- Distance: 1.3km
+- Average gradient: 7 per cent
+- Steepest gradient: 14 per cent
+
+
+### Carters Hill aka One Tree Hill
+
+Known as One Tree Hill from the National Trust site nearby, ironically the road is flurished with trees.
+
+The climb rises straight up the hillside and the gradient increases into double figures, followed by a short ‘plateau’ of six per cent which offers a brief respite. The gradient then jumps up to 13 per cent for the rest of the way to the top.
+
+Vital statistics
+
+- Distance: 0.8km
+- Average gradient: 11 per cent
+- Steepest gradient: 15 per cent
 
 ### Toys Hill
 
@@ -62,11 +80,27 @@ A tough climb even when starting from Pilgrims way, as the gradient quickly gets
 Just when you think the hill is over, there is a little bit more to climb :smile:
 
 
+### Brasted Hill
+
+!!! WARNING "Avoid Brasted Hill"
+
+A narrow single vehicle with road, so not that nice a climb and very challenging if there is traffic comming down the hill.
+
+The hill starts in the small village of Brasted, where it rises gently for the first 1.5km. Once passed the Pilgrims Way the gradient starts to ramp up to 20% for the next 500 meters. The gradient levels for the final 100 meters.
+
+Vital statistics
+
+- Distance: 2.1km
+- Average gradient: 5 per cent
+- Steepest gradient: 19 per cent
+
+### Westerham Hill
 
 ??? WARNING "Avoid Westerham Hill"
-    Not a climb I would recommend as its quite a busy main road and not much room for cars to overtake. Not a hill you can weave on safely if struggling with the gradient.  You should be very comfortable with traffic overtaking you fairly closely.
 
-    The decent can also be concerning, especially if traffic is crossing the main road on Pilgrims Way.
+Not a climb I would recommend as its quite a busy main road and not much room for cars to overtake. Not a hill you can weave on safely if struggling with the gradient.  You should be very comfortable with traffic overtaking you fairly closely.
+
+The decent can also be concerning, especially if traffic is crossing the main road on Pilgrims Way.
 
 
 ### Star Hill
@@ -77,11 +111,15 @@ The gradient starts relatively shallow and quickly increases, more so as the roa
 
 The road flattens and then a gentle decent into the East end of Knockholt.
 
-- Vital statistics
+Vital statistics
+
 - Distance: 1.2km
 - Elevation gain: 119 meters
 - Average gradient: Eight per cent
 - Steepest gradient: 11 per cent
+
+
+### Hogtrough Hill
 
 
 ## Surrey Hills
