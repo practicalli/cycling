@@ -41,6 +41,8 @@ These routes provide a good workout without completely exhausting the body.  The
 
 [Crowhurst Edenbridge ToysHill SundridgeHill](https://ridewithgps.com/routes/53656540){target=_blank .md-button}
 
+[Toys Hill both sides and Hogtrough Hill](https://ridewithgps.com/routes/53756318){target=_blank .md-button}
+
 
 ### Surrey Hills National Park
 
@@ -111,6 +113,16 @@ The rest of the climbing is typical of a club run route, with some challenges bu
 
 [Virgo Hill](https://ridewithgps.com/routes/53739121){target=_blank .md-button}
 
+
+### Toys Hill both sides and Hogtrough Hill
+
+A short and hilly ride up the North side of Toys Hill. Over to Ide Hill village and down Ide Hill and round to the South Side of Toys Hill.
+
+A big challenge up Toys Hill from the south with a chance to catch your breath on the way down the North side.
+
+Up over the M25 straight on up Hogtrough Hill for the last big ascent of the route.
+
+[Toys Hill both sides and Hogtrough Hill](https://ridewithgps.com/routes/53756318){target=_blank .md-button}
 
 <!--
 
