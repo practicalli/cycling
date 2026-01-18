@@ -66,6 +66,54 @@ Vital statistics
 - Average gradient: 11 per cent
 - Steepest gradient: 15 per cent
 
+
+### Ide Hill
+
+The name of this climb is taken from Ide Hill village at the very top.
+
+Resurfaced road in 2025 this is a very nice climbing experience.  It is a 'B' class road (B2042) although there is plenty of room. There is some traffic but its not usually heavy.
+
+The climb is from the South and it is a fairly gradual increase of gradient and then starts to increase.  There is a drop in gradient just before the last 150 meters.
+
+Vital statistics
+
+- Distance: 2.4km
+- Average gradient: Five per cent
+- Steepest gradient: Ten per cent
+
+
+### Boxley Hill
+
+A longer ascent in the East of the Kent Alps.
+
+Boxley Hill has two distinct parts that you’ll want to be prepared for. This is a climb which has it all – length and gradient.
+
+The climb starts with a gentle rise which varies between 3% and 6% for the first 2 km. At the switch-back the gradient rises to a maximum of 17 %.
+
+After the switch-back the climb briefly eases then the gradient quickly rises up to 23 % and will require significant effort to reach the top.
+
+Vital statistics
+
+- Distance: 2.7km
+- Average gradient: Five per cent
+- Steepest gradient: 23 per cent
+
+
+### Devil’s Kneading Trough (Wye Hill)
+
+Spectacular views of the Romney Marsh and Weald await you at the gop of Devil’s Kneading Trough, even able to see the English Channel in the distance on a clear day.
+
+Coldharbour Road rolls up the Wye National Nature Reserve (designated Area of Outstanding Natural Beauty). The main climb is Wye Hill and rises at an average of four per cent over 2.8km, giving you views of the Trough at the summit.
+
+The Southern approach up Brabourne Hill is 0.8km with an average of 7%.  A left at the crossroads at the top and you arrive at the Trough.
+
+Vital statistics
+
+- Distance: 2.8km
+- Average gradient: Four per cent
+- Steepest gradient: Ten per cent
+
+
 ### Toys Hill
 
 The climb from the North is a steady challenge, gradually increasing at a relatively managable pace.
