@@ -1,10 +1,40 @@
+# Exclude all files from root directory
+/*
+
+# ------------------------
+# Common project files
+!CHANGELOG.md
+!README.md
+!LICENSE
+
+# ------------------------
+# Include Zensical files
+!docs/
+!includes/
+!overrides/
+!mkdocs.yml
+!zensical.toml
+!pyproject.toml
+
+# ------------------------
+# Project automation
+!Makefile
+
+# ------------------------
+# Version Control
+!.gitignore
+!.gitattributes
+!.github/
+
+
+
 # Python-generated files
-__pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
+# __pycache__/
+# *.py[oc]
+# build/
+# dist/
+# wheels/
+# *.egg-info
 
 # Virtual environments
-.venv
+# .venv
