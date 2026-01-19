@@ -53,6 +53,20 @@ Vital statistics
 - Average gradient: 7 per cent
 - Steepest gradient: 14 per cent
 
+### Bug Hill
+
+A quiet side road with enough room for cars to overtake in most places.
+
+Turning on to Bug Hill road, there a gentle gradient to start with.  The gradient quickly increases to 7% at the first corner and goes up to 13% for the main part of the climb.  The gradient eases a little as you climb and towards the next corner, where you can push for the top.
+
+Repeating Bug Hill climb only needs 3km to get back to the base. Keep heading towards Warlingham on Leas road. Take a left onto Redvers Road (at the start of a small green) and left again onto Westhall Road. Turn left onto Narrow Lane, continuing down the quite steep Succomb's Hill. Left at the roundabout onto Woldingham road and take the first left onto the base of Bug Hill.
+
+Vital Statistics
+
+- Distance: 0.9km
+- Average gradient: 7%
+- Steepest gradient: 13%
+
 
 ### Carters Hill aka One Tree Hill
 
