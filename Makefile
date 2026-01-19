@@ -68,18 +68,18 @@ python-venv:  ## Create Python Virtual Environment
 	uv venv
 
 python-activate:  ## Activate Python Virtual Environment
-	$(info -- Mkdocs Local Server ----------------)
+	$(info -- Activate Python Virtual Env -----------)
 	. .venv/bin/activate
 
 zensical-install:  python-venv python-activate
-	$(info -- Install Zensical  -------)
+	$(info -- Install Zensical  ---------------------)
 	uv add zensical
 
 docs-install:  python-venv python-activate zensical-install
 	$(info -- Create Venv & Install Zensical  -------)
 
 docs: python-activate  ## Build and run docs in local server (python venv)
-	$(info -- MkDocs Local Server -------------------)
+	$(info -- Local Server --------------------------)
 	$(DOCS_SERVER)
 
 docs-open: python-activate  ## Build docs, run server & open browser
@@ -87,15 +87,15 @@ docs-open: python-activate  ## Build docs, run server & open browser
 	$(DOCS_SERVER) --open
 
 docs-build:  ## Build mkdocs (python venv)
-	$(info -- Mkdocs Build Website ------------------)
+	$(info -- Build Docs Website --------------------)
 	zensical build
 
 docs-debug:  ## Run mkdocs local server in debug mode (python venv)
-	$(info -- Mkdocs Local Server Debug -------------)
+	$(info -- Local Server Debug --------------------)
 	. .venv/bin/activate; $(DOCS_SERVER) -v
 
 # docs-staging:  ## Deploy to staging repository
-# 	$(info -- Mkdocs Staging Deploy ---------------)
+#	 $(info -- Staging Deploy ------------------------)
 # 	source ~/.local/venv/bin/activate && zensical gh-deploy --force --no-history --config-file mkdocs-staging.yml
 # -------------------------------------- #
 
