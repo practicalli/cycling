@@ -12,18 +12,18 @@ Recommended tools to carry on every ride include:
 
 -   __[Inner tube and patches](#inner-tube)__
 -   __[Pump (hand and/or electric)](#pump)__
--   __[Ratchet tool kit or Allen keys](#tool-kit)__
+-   __[Ratchet tool kit or Allen keys](#mini-tool-kit)__
 -   __[Spoke wrench tool](#spoke-wrench)__
 -   __[Quick link tool](#quick-link)__
 
 </div>
 
-[longer rides](#longer-rides) should carry a few extra spares.
+[Longer rides](#longer-rides) should carry a few extra spares.
 
-A basic [first aid kit](first-aid.md) is recommended for any ride, especially a group ride or long distance ride.
+[A first aid kit](first-aid.md) is recommended for any ride, especially a group ride or long distance ride.
 
 
-### My Saddle bag
+## My Saddle bag
 
 A mini saddle bag is useful to keep inner tubes separated from other tools to avoid potential damage and makes tubes are easier to find 😄
 
@@ -35,10 +35,10 @@ A bag with pockets is useful to keep smaller items like patches and wedges.
 - 2 Standard tyre lever (as a back up of the fancy ones – maybe superfluous)
 - 2 Disc break piston wedges (keep disk brake pads open when the wheel is off)
 
-> Using butyl rubber inner tubes I could only fit one tube (130 grams), 2 tyre levers and a box of patches.
+> I could only fit one butyl inner tube in my saddle bag and that tube weighed as much as my mini tool kit.
 
 
-### My Top Bag
+## My Top Bag
 
 I regularly ride long distance routes, so carry a few more tools in the top bar bag.  This helps distribute the weight to the front of the bicycle.
 
@@ -46,15 +46,18 @@ I regularly ride long distance routes, so carry a few more tools in the top bar 
 - Hand pump (when electric pump runs out of battery)
 - Rear derailleur hanger, specific to my bicycle frame (highly recommended for long distance riding, multi-day trips)
 - Mini Allen key ratchet set (removing thru-axels, adjusting handlebars, seat post, saddle, etc.)
-- Quick links (fix a snapped chain)
-- Spoke nipple tool (for wobbly wheels, especially if a spoke breaks)
-- Quick Link Pliers & spare split link  (for the size of my chain).
+- Quick Link Pliers & 2 spare Quick links (fix a snapped chain)
+- Parktool Spoke nipple tool (rebalance a wheel if a spoke breaks or comes loose)
 
 
 ??? TIP "Combine hand & electric pump when repairing punctures"
     Use a hand pump (or your breath for TPU tubes) to put just enough air in the new inner tube to make it round. This makes the inner tube easier to fit inside the tyre and helps avoid pinch flats.
 
-    Inflating the tyre to 20 PSI with a hand pump (the easy bit) makes an Electric pump last much longer, especially important during all day rides and touring (or if you are the only one in the group with an electric pump) 🙂
+    Do not inflate a TPU tube over 5 PSI until it is inside a tyre fully fitted to the wheel.
+
+    Inflate the tyre until it starts to feel firm, then stop for a quick visual inspection to ensure the tube has been correctly fitted.
+
+    Inflating a tyre to 20 PSI with a hand pump (the easy bit) makes an Electric pump last much longer, especially important during all day rides and touring (or if you are the only one in the group with an electric pump) 🙂
 
 
 ## Inner tube
@@ -81,7 +84,6 @@ TPU Inner tubes are considerably lighter, between 19 to 50 grams. TPU tubes with
 
 !!! INFO "Schwalbe Aerothan 28 Road tube available from 2 April 2026"
 
-
 !!! TIP "Continental Inner Tubes are very reliable"
 
 !!! TIP "Take an inner tube even when using tubeless tyres"
@@ -89,17 +91,15 @@ TPU Inner tubes are considerably lighter, between 19 to 50 grams. TPU tubes with
 
 ## Pump
 
-Hand pumps that fit in a top-tube bag or attach securely to the bike are convenient options.
+Hand pumps that fit in a top-tube bag or attach securely to the bike are convenient options.  A jersey or jacket pocket can also be used.
 
 An Electric pump with pressure setting & display are increasing in popularity.  They way a little more than than a typical hand pump, but require very little effort to inflate a tyre to the correct pressure.
-
--
 
 !!! TIP "Carry a small hand pump even with an electric pump"
     A hand pump is a reliable backup for an electric pump, should the battery run out (or was not charged recently).
 
 
-### Mini Tool Kit
+## Mini Tool Kit
 
 A mini tool kit or multi-tool is used to remove wheels (throu-axels), adjust saddle hight, and generally tighten bolts that are loose.
 
@@ -118,6 +118,24 @@ A mini tool kit should include a range of sizes suitable for your bike, typicall
     Tool bits are made with premium quality S2 alloy steel for exceptional strength and CNC-cut for precision engagement.
 
     The toolkit cover is made with abrasion resistance high strength Cordura fabric. A loop strap can be used with a carrier strap.
+
+
+## Longer Rides
+
+- [Rear Derailleur Hanger](#rear-derailleur-hanger)
+- Mini Chain Splitter
+- Quick Link Pliers
+
+
+### Rear Derailleur Hanger
+
+The rear derailleur hanger is designed to bend or break during a serious accident, to prevent the frame or derailleur becoming damaged (which would be harder to repair and a lot more expensive).
+
+Although every bicycle has a hanger, there is little standardisation between bike manufacturers and even models of bicycles.
+
+It is highly unlikely that a bike shop will have a spare hanger that fits your bicycle and ordering a new hanger can take a few days or more.
+
+Hangers do not take up much space, so carrying a specific hanger will help you get going again should the original hanger become damaged.
 
 
 ### Spoke Wrench
@@ -142,22 +160,6 @@ How to Find Your Size
 - Measure: Use digital calipers to measure the flat-to-flat (across flats) dimension of the nipple's square part.
 - Check Gauge: The spoke wire gauge (e.g., 14g, 13g) correlates to nipple size, but variations exist.
 - Consider Brand: Shimano, DT Swiss, and others have specific sizes.
-
-## Longer Rides
-
-- [rear derailleur hanger](#rear-derailleur-hanger)
-- chain splitter
-
-
-### Rear derailleur hanger
-
-The rear derailleur hanger is designed to bend or break during a serious accident, to prevent the frame or derailleur becoming damaged (which would be harder to repair and a lot more expensive).
-
-Although every bicycle has a hanger, there is little standardisation between bike manufacturers and even models of bicycles.
-
-It is highly unlikely that a bike shop will have a spare hanger that fits your bicycle and ordering a new hanger can take a few days or more.
-
-Hangers do not take up much space, so carrying a specific hanger will help you get going again should the original hanger become damaged.
 
 
 ## Miscellaneous
