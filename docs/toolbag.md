@@ -4,23 +4,36 @@ icon: lucide/tool-case
 
 # Bicycle Toolbag
 
-Carry essential tools and spares to ensures common repairs can be completed quickly and easily. Mini versions of workshop tools are available which are smaller and lighter, perfect for carry on a ride.
+Carry essential tools and spares to ensures common repairs can be completed quickly and easily.
 
-Recommended tools to carry on every ride include:
+Mini versions of common workshop tools are perfect for carry on a ride.
 
 <div class="grid cards" markdown>
 
--   __[Inner tube and patches](#inner-tube)__
--   __[Pump (hand and/or electric)](#pump)__
--   __[Ratchet tool kit or Allen keys](#mini-tool-kit)__
--   __[Spoke wrench tool](#spoke-wrench)__
--   __[Quick link tool](#quick-link)__
+-   __Essentials__
+
+    ---
+
+    -  __[Inner tube and patches](#inner-tube)__
+    -  __[Pump (hand and/or electric)](#pump)__
+    -  __[Mini Tool Kit](#mini-tool-kit)__
+    -  __[Quick links](#quick-links)__
+
+
+-   __Long & Multi-day rides__
+
+    ---
+
+    - __[Rear Derailleur Hanger](#rear-derailleur-hanger)__
+    - __[Mini Chain Splitter](#chain-splitter)__
+    - __[Quick Link Pliers](#quick-links)__
+    - __[Spoke wrench](#spoke-wrench)__
 
 </div>
 
-[Longer rides](#longer-rides) should carry a few extra spares.
 
-[A first aid kit](first-aid.md) is recommended for any ride, especially a group ride or long distance ride.
+!!! TIP "First Aid Kit for Injuries"
+    [A first aid kit](first-aid.md) is recommended for any ride, especially a group ride or long distance ride.
 
 
 ## My Saddle bag
@@ -120,14 +133,29 @@ A mini tool kit should include a range of sizes suitable for your bike, typicall
     The toolkit cover is made with abrasion resistance high strength Cordura fabric. A loop strap can be used with a carrier strap.
 
 
-## Longer Rides
+## Quick Links
 
-- [Rear Derailleur Hanger](#rear-derailleur-hanger)
-- Mini Chain Splitter
-- Quick Link Pliers
+Modern chains are joined together with a quick link (also known as a split link).  The quick link allows joining of a chain without the need of tools.
+
+Fit the chain (of correct length) to the bicycle and insert the two parts of the quick link to each end of the chain.  The force of the peddle should be sufficient to fully engage the quick link.
+
+Removing a chain is very easy, with a pair of quick link Pliers (or small tipped pliers).
+
+Quick link pliers can also be used to join a quick link.
 
 
-### Rear Derailleur Hanger
+## Chain Splitter
+
+If a chain should break when riding, then one of the existing links may need removing before joining the chain together with a [quick link](#quick-links).
+
+The chain splitter removes the pin that connects two links.
+
+The chain splitter can also insert a pin in between two links if there isn't a quick link available.  Fitting an existing pin is a very tricky process and the pin has to be lined up accurately.
+
+[ZTTO Mini chain splitter](https://ztto.net/products/ztto-mtb-road-bike-chain-cutter-remove-tool-high-strength-aluminum-alloy-steel-pin-splitter-bicycle-link-breaker-patent-cc01){target=_blank} is a very small tool, although it does require 2 Allen keys or similar shaped tool to work
+
+
+## Rear Derailleur Hanger
 
 The rear derailleur hanger is designed to bend or break during a serious accident, to prevent the frame or derailleur becoming damaged (which would be harder to repair and a lot more expensive).
 
@@ -138,7 +166,7 @@ It is highly unlikely that a bike shop will have a spare hanger that fits your b
 Hangers do not take up much space, so carrying a specific hanger will help you get going again should the original hanger become damaged.
 
 
-### Spoke Wrench
+## Spoke Wrench
 
 A spoke wrench or spoke key is a small wrench or tool used to adjust the tension in the spokes of a tension-spoked wheel. A spoke wrench is sometimes called a nipple wrench, as it is the spoke nipple – not the spoke – that is turned in the process of changing the tension of a spoke.
 
