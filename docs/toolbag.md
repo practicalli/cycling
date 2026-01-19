@@ -4,19 +4,23 @@ icon: lucide/tool-case
 
 # Bicycle Toolbag
 
-Carrying essential tools and spares ensures that common bicycle repairs can be completed quickly and easily.
-
-Compact versions of workshop tools are availablw which are smaller and lighter, so more convenient to carry whilst out on a ride.
+Carry essential tools and spares to ensures common repairs can be completed quickly and easily. Mini versions of workshop tools are available which are smaller and lighter, perfect for carry on a ride.
 
 Recommended tools to carry on every ride include:
 
-- inner tube and patches
-- pump (hand and/or electric)
-- ratchet tool kit or Allen keys
-- spoke wrench tool
-- quick link tool
+<div class="grid cards" markdown>
 
-Extra tools are recommended for [longer rides](#longer-rides) and a basic [first aid kit](first-aid.md) is especially useful on group rides.
+-   __[Inner tube and patches](#inner-tube)__
+-   __[Pump (hand and/or electric)](#pump)__
+-   __[Ratchet tool kit or Allen keys](#tool-kit)__
+-   __[Spoke wrench tool](#spoke-wrench)__
+-   __[Quick link tool](#quick-link)__
+
+</div>
+
+[longer rides](#longer-rides) should carry a few extra spares.
+
+A basic [first aid kit](first-aid.md) is recommended for any ride, especially a group ride or long distance ride.
 
 
 ### My Saddle bag
@@ -95,20 +99,25 @@ An Electric pump with pressure setting & display are increasing in popularity.  
     A hand pump is a reliable backup for an electric pump, should the battery run out (or was not charged recently).
 
 
-### Ratchet tool kit
+### Mini Tool Kit
 
-Granite Rock N Roll Mini Ratchet Tool Kit is a compact bike multi-tool, weighing 136g. The kit contains a mini Ratchet tool, extension rod, and 9-bit kit.
+A mini tool kit or multi-tool is used to remove wheels (throu-axels), adjust saddle hight, and generally tighten bolts that are loose.
 
-- 7 Hex bits (2mm/2.5mm/3mm/4mm/5mm/6mm/8mm),
-- Star bit (T25),
-- Philips bit (PH2)
-- two pockets for spare chain Quick Link.
+A ratchet tool is the easiest to use as it stays in the bolt whilst you tighten or loosen, making the work faster too.
 
-Tool bits are made with premium quality S2 alloy steel for exceptional strength and CNC-cut for precision engagement.
+A mini tool kit should include a range of sizes suitable for your bike, typically 2mm to 8mm Hex shaped tips or Allen keys.
 
-The toolkit cover is made with special abrasion resistance and high strength Cordura fabric. A special loop strap with protective patch at the back of roll is designed to work with Granite Rockband carrier strap.
+??? INFO "Recommended: Granite Rock N Roll Mini Ratchet tool"
+    Granite Rock N Roll Mini Ratchet Tool Kit is a compact bike multi-tool, weighing 136g. The kit contains a mini Ratchet tool, extension rod, and 9 different tool bits.
 
-Easy to carry and can be strapped to your frame with the Granite RockBand.
+    - 7 Hex bits (2mm/2.5mm/3mm/4mm/5mm/6mm/8mm)
+    - Star bit (T25),
+    - Philips bit (PH2)
+    - 2 pockets for spare chain Quick Links
+
+    Tool bits are made with premium quality S2 alloy steel for exceptional strength and CNC-cut for precision engagement.
+
+    The toolkit cover is made with abrasion resistance high strength Cordura fabric. A loop strap can be used with a carrier strap.
 
 
 ### Spoke Wrench
