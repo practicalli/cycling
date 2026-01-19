@@ -82,6 +82,10 @@ docs: python-activate  ## Build and run docs in local server (python venv)
 	$(info -- MkDocs Local Server -------------------)
 	$(DOCS_SERVER)
 
+docs-open: python-activate  ## Build docs, run server & open browser
+	$(info -- Local Server & Browser ----------------)
+	$(DOCS_SERVER) --open
+
 docs-build:  ## Build mkdocs (python venv)
 	$(info -- Mkdocs Build Website ------------------)
 	zensical build
