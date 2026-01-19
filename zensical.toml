@@ -336,3 +336,9 @@ property = "G-Q920HX310C"
 # Grids - https://zensical.org/docs/authoring/grids/
 [project.markdown_extensions.attr_list]
 [project.markdown_extensions.md_in_html]
+
+# Formatting - https://zensical.org/docs/authoring/formatting/
+[project.markdown_extensions.pymdownx.caret]
+[project.markdown_extensions.pymdownx.keys]
+[project.markdown_extensions.pymdownx.mark]
+[project.markdown_extensions.pymdownx.tilde]
