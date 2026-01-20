@@ -10,6 +10,12 @@ The Practicalli team has been riding for over 30 years, growing experience in lo
 
 Practicalli is not sponsored by any cycling related companies.
 
+## About
+
+Practicalli is written by Johnny Rocket, a cyclist currently living in South East of England.
+
+[Strava: Johnny Rocket](https://www.strava.com/athletes/31595960){.md-button .md-button-primary}
+
 ---
 
 Built with [zensical.org](https://zensical.org/docs/).
