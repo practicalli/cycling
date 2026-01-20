@@ -8,7 +8,8 @@ Practical guides to cycling, covering bicycle maintenance, route planning, bike 
 
 The Practicalli team has been riding for over 30 years, growing experience in long distance and multi-day rides over the last 20 years.  These experiences shape the advice and opinions offered on this website.
 
-Practicalli is not sponsored by any cycling related companies.
+Practicalli Cycling is not sponsored by any cycling related companies and all products have been bought at personal expense.
+
 
 ## About
 
