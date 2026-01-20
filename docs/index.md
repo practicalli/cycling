@@ -12,9 +12,11 @@ Practicalli is not sponsored by any cycling related companies.
 
 ## About
 
-<!-- Strava Embedded Stats summary from Strava Profile page -->
-<iframe height='160' width='300' align='right' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/31595960/activity-summary/765645f13ee7c1f9fd2f6d9726e443f62193dc40'></iframe>
-
 Practicalli is written by Johnny Rocket, a cyclist currently living in South East of England.
 
-[Strava: Johnny Rocket](https://www.strava.com/athletes/31595960){.md-button .md-button-primary}
+<!-- [Strava: Johnny Rocket](https://www.strava.com/athletes/31595960){.md-button} -->
+
+<!-- Strava Embedded Stats summary from Strava Profile page -->
+<iframe height='160' width='300' align='left' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/31595960/activity-summary/765645f13ee7c1f9fd2f6d9726e443f62193dc40'></iframe>
+
+<iframe height='454' width='300' align='right' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/31595960/latest-rides/765645f13ee7c1f9fd2f6d9726e443f62193dc40'></iframe>
