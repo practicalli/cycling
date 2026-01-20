@@ -318,7 +318,7 @@ code = "Ubuntu Mono"
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
-#[[project.extra.social]]
+[[project.extra.social]]
 icon = "fontawesome/brands/github"
 link = "https://github.com/practicalli/cycling"
 
