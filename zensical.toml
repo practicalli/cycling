@@ -53,6 +53,7 @@ nav = [
   { "First Aid" = "first-aid.md" },
   { "Route Planning" = "route-planning.md" },
   { "Routes" = "routes.md" },
+  { "Ride experiences" = "experiences.md" },
   { "Hills" = "hills.md" },
   { "Training" = "training.md" },
   { "Training Plan" = "training-plan.md" },
