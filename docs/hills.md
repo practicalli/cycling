@@ -1,11 +1,10 @@
 ---
-icon: lucide/mountain-snow
+icon: lucide/mountain
 ---
 
-# Hils
+# Hills
 
 Challenging hill climbs that can be incorporated into [route planning](route-planning.md).
-
 
 
 ## South East England
