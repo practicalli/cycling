@@ -6,9 +6,18 @@ icon: lucide/bike
 
 Practical guides to cycling, covering bicycle maintenance, route planning, bike tools, training plans, etc.
 
-The Practicalli team has been riding for over 30 years, growing experience in long distance and multi-day rides over the last 20 years.  These experiences shape the advice and opinions offered on this website.
+The Practicalli team has been riding for over 30 years, growing [experience in long distance and multi-day rides](experiences.md) over the last 20 years.
 
-Practicalli Cycling is not sponsored by any cycling related companies and all products have been bought at personal expense.
+- charity rides from London to Oxford and London to Cambridge
+- multiple Audax.uk rides of 50km, 100km, 200km and 300km
+- Oasts & Coasts Audax - an accidental 420km ride round the East coast of Kent
+- British Cycling Sportive, London (Greenwich) to Canterbury. A week before the 2007 Tour de France cyclists.
+- In 2019 a successful 9 day trip from Lands End to John O'Groats was completed.
+
+These experiences shape the advice and opinions offered on this website.
+
+!!! INFO "Opinions in this book are my own"
+    Practicalli Cycling book is not sponsored by any cycling related companies and all products have been bought at personal expense.
 
 
 ## About
