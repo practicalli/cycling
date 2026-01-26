@@ -31,6 +31,7 @@ HELP-DESCRIPTION-SPACING := 24
 # Tool variables
 MEGALINTER_RUNNER := npx mega-linter-runner --flavor documentation --env "'MEGALINTER_CONFIG=.github/config/megalinter.yaml'" --remove-container
 DOCS_SERVER := zensical serve --dev-addr localhost:7777
+PYTHON_VENV_ACTIVATE := . .venv/bin/activate
 OUTDATED_FILE := outdated-$(shell date +%y-%m-%d-%T).md
 # -------------------------------------- #
 
@@ -67,36 +68,25 @@ python-venv:  ## Create Python Virtual Environment
 	$(info -- Create Python Virtual Environment -----)
 	uv venv
 
-python-activate:  ## Activate Python Virtual Environment
-	$(info -- Activate Python Virtual Env -----------)
-	. .venv/bin/activate
-
-zensical-install:  python-venv python-activate
+docs-install:  ## Install Zensical in Python virtual environment
 	$(info -- Install Zensical  ---------------------)
-	uv add zensical
+	$(PYTHON_VENV_ACTIVATE) && uv add zensical
 
-docs-install:  python-venv python-activate zensical-install
-	$(info -- Create Venv & Install Zensical  -------)
-
-docs: python-activate  ## Build and run docs in local server (python venv)
+docs:  ## Build and run docs in local server
 	$(info -- Local Server --------------------------)
-	$(DOCS_SERVER)
+	$(PYTHON_VENV_ACTIVATE) && $(DOCS_SERVER)
 
-docs-open: python-activate  ## Build docs, run server & open browser
+docs-open:  ## Build docs, run server & open browser
 	$(info -- Local Server & Browser ----------------)
-	$(DOCS_SERVER) --open
+	$(PYTHON_VENV_ACTIVATE) && $(DOCS_SERVER) --open
 
-docs-build:  ## Build mkdocs (python venv)
+docs-build:  ## Build docs locally
 	$(info -- Build Docs Website --------------------)
-	zensical build
+	$(PYTHON_VENV_ACTIVATE) && zensical build
 
-docs-debug:  ## Run mkdocs local server in debug mode (python venv)
+docs-debug:  ## Run local server in debug mode
 	$(info -- Local Server Debug --------------------)
-	. .venv/bin/activate; $(DOCS_SERVER) -v
-
-# docs-staging:  ## Deploy to staging repository
-#	 $(info -- Staging Deploy ------------------------)
-# 	source ~/.local/venv/bin/activate && zensical gh-deploy --force --no-history --config-file mkdocs-staging.yml
+	$(PYTHON_VENV_ACTIVATE) &&  $(DOCS_SERVER) -v
 # -------------------------------------- #
 
 # ------- Version Control -------------- #
