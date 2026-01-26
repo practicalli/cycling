@@ -1,4 +1,4 @@
-# -------------------------------------- #
+# ------------------------------------------------ #
 # Practicalli Makefile
 #
 # Consistent set of targets to support local development of Clojure
@@ -12,15 +12,15 @@
 # - clojure & practicalli cli config (dependency check)
 # - docker
 # - mega-linter-runner
-# -------------------------------------- #
+# ------------------------------------------------ #
 
-# -- Makefile task config -------------- #
+# -- Makefile task config ------------------------ #
 # .PHONY: ensures target used rather than matching file name
 # https://makefiletutorial.com/#phony
 .PHONY: all clean dist docs lint pre-commit-check
-# -------------------------------------- #
+# ------------------------------------------------ #
 
-# -- Makefile Variables ---------------- #
+# -- Makefile Variables -------------------------- #
 # run help if no target specified
 .DEFAULT_GOAL := help
 # Column the target description is printed from
@@ -33,9 +33,9 @@ MEGALINTER_RUNNER := npx mega-linter-runner --flavor documentation --env "'MEGAL
 DOCS_SERVER := zensical serve --dev-addr localhost:7777
 PYTHON_VENV_ACTIVATE := . .venv/bin/activate
 OUTDATED_FILE := outdated-$(shell date +%y-%m-%d-%T).md
-# -------------------------------------- #
+# ------------------------------------------------ #
 
-# -- Code Quality ---------------------- #
+# -- Code Quality -------------------------------- #
 pre-commit-check: lint ## Run format, lint and test targets
 
 lint:  ## Run MegaLinter with custom configuration (node.js required)
@@ -61,9 +61,9 @@ dependencies-outdated: ## Report new versions of library dependencies and GitHub
 dependencies-update: ## Update all library dependencies and GitHub action
 	$(info -- Search for outdated libraries ---------)
 	- clojure -T:update/dependency-versions > $(OUTDATED_FILE)
-# -------------------------------------- #
+# ------------------------------------------------ #
 
-# --- Documentation Generation  -------- #
+# --- Documentation Generation  ------------------ #
 python-venv:  ## Create Python Virtual Environment
 	$(info -- Create Python Virtual Environment -----)
 	uv venv
@@ -87,9 +87,9 @@ docs-build:  ## Build docs locally
 docs-debug:  ## Run local server in debug mode
 	$(info -- Local Server Debug --------------------)
 	$(PYTHON_VENV_ACTIVATE) &&  $(DOCS_SERVER) -v
-# -------------------------------------- #
+# ------------------------------------------------ #
 
-# ------- Version Control -------------- #
+# ------- Version Control ------------------------ #
 git-sr:  ## status list of git repos under current directory
 	$(info -- Multiple Git Repo Status --------------)
 	mgitstatus -e --flatten
@@ -97,13 +97,13 @@ git-sr:  ## status list of git repos under current directory
 git-status:  ## status details of git repos under current directory
 	$(info -- Multiple Git Status -------------------)
 	mgitstatus
-# -------------------------------------- #
+# ------------------------------------------------ #
 
-# ------------ Help -------------------- #
+# -- Help ---------------------------------------- #
 # Source: https://nedbatchelder.com/blog/201804/makefile_help_target.html
 
 help:  ## Describe available tasks in Makefile
 	@grep '^[a-zA-Z]' $(MAKEFILE_LIST) | \
 	sort | \
 	awk -F ':.*?## ' 'NF==2 {printf "\033[36m  %-$(HELP-DESCRIPTION-SPACING)s\033[0m %s\n", $$1, $$2}'
-# -------------------------------------- #
+# ------------------------------------------------ #
