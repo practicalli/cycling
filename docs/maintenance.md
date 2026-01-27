@@ -14,6 +14,16 @@ Regular maintenance of the bike and its components ensures a smooth and efficien
 - bolts
 - bearings (local bike shop)
 
+!!! TIP "Add bike components to Strava"
+    Make it easy to track usage and wear of chain, rear cassette and brake pads by adding them as components to your bike on Strava.
+
+    In the **Settings** > **My Gear** page, add your bike with a meaningful name and details of make and model (especially useful if you have multiple bikes).  Once the bike has been added, select that bike and start adding components.
+
+    Essential bike components are tyres, chain, rear cassette and disk brakes.  Also consider adding wheels, front chain rings, clip-in peddles, brake and shifter cables and disc brake rotors (where applicable).
+
+    Unfortunately Strava doesnt let you add cycling shoes, which would allow you to track the wear of both shoes and cleates.  However, its easy to visually inspect wear on the cleates once off the bicycle.
+
+
 ## Regular cleaning
 
 Keeping the bike clean minimise wear of the components, especially the chain and rear cassette.  A clean chain set will change gear smoothly and cause less mess when maintaining your bike or fixing a puncture.
