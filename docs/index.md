@@ -10,7 +10,7 @@ The Practicalli team has been riding for over 30 years, growing [experience in l
 
 - charity rides from London to Oxford and London to Cambridge
 - multiple Audax.uk rides of 50km, 100km, 200km and 300km
-- Oasts & Coasts Audax - an accidental 420km ride round the East coast of Kent
+- [Oasts & Coasts Audax](experiences.md#oasts-and-coasts-300) - an accidental 420km ride round the East coast of Kent
 - British Cycling Sportive, London (Greenwich) to Canterbury. A week before the 2007 Tour de France cyclists.
 - In 2019 a successful 9 day trip from Lands End to John O'Groats was completed.
 
