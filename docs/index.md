@@ -8,11 +8,12 @@ Practical guides to cycling, covering bicycle maintenance, route planning, bike 
 
 The Practicalli team has been riding for over 30 years, growing [experience in long distance and multi-day rides](experiences.md) over the last 20 years.
 
-- charity rides from London to Oxford and London to Cambridge
-- multiple Audax.uk rides of 50km, 100km, 200km and 300km
-- [Oasts & Coasts Audax](experiences.md#oasts-and-coasts-300) - an accidental 420km ride round the East coast of Kent
-- British Cycling Sportive, London (Greenwich) to Canterbury. A week before the 2007 Tour de France cyclists.
-- In 2019 a successful 9 day trip from Lands End to John O'Groats was completed.
+- [Charity rides](experiences.md#charity-rides) from London to Oxford and London to Cambridge
+- [Ride of the Falling Leaves](/docs/experiences.md#ride-of-the-falling-leaves)
+- [Audax.uk rides](experiences.md#audax) of 50km, 100km, 200km and 300km
+  - [Oasts & Coasts Audax](experiences.md#oasts-and-coasts-300) - an accidental 420km ride round the East coast of Kent
+- [British Cycling Sportive](experiences.md#kent-tour-de-france-sportive), London (Greenwich) to Canterbury. A week before the 2007 Tour de France cyclists.
+- [Lands End to John O'Groats](experiences.md#lands-end-to-john-ogroats) a 9 day trip across Britain, covering 16,000 km and climbing 20,000 meters.
 
 These experiences shape the advice and opinions offered on this website.
 
