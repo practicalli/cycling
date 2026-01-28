@@ -6,14 +6,21 @@ icon: lucide/mountain-snow
 
 Notable cycling events ridden by Johnny Rocket over the last few decades.
 
-## London to Oxford
+## Charity Rides
+
+My enthusiasm for long distance cycling started with charity rides.  Raising money for charity helped shape my motivation and ensured I actually turned up for the rides.
+
+Initially I would get the organised transport back to London.  As my endurance grew I rode back home from the events to really push myself.
+
+
+### London to Oxford
 
 A charity ride from West London to central Oxford.
 
 The first time on this ride I took the official transport back.  The second time I rode back to London.
 
 
-## London to Cambridge
+### London to Cambridge
 
 A charity ride from North London to central Cambridge.
 
@@ -21,6 +28,21 @@ On 28 July 2019 my friend and I rode to Cambridge and back in the same day.  We 
 
 - [South London to Cambridge](https://www.strava.com/activities/2569621403){target=_blank}
 - [Cambridge to South London](){target=_blank}
+
+
+## Ride of the falling leaves
+
+A very hilly and challenging ride up and down the Kent Alps.  The route climbs 8 large hills including Woldingham switchback,
+
+The ride started with one lap of the Herne Hill velodrome (an outside banked oval track) which often tripped people up by not going fast enough around the banked corners.
+
+There is no gentle start to this ride as the route climbs to the top of Crystal Palace (via College Road, Fountain Drive), with a little rest as you speed down Anerley Hill (carefully) and head over to West Wickham.
+
+Over Addington Road roundabout and starting the long ascent to the top of the North Kent Downs along Layham Road.
+
+Heading over to Woldingham via a steep s-bend decent down Hallidoo Valley road which if timed well can give a nice run up to a short steep climb right after the decent. and then a lumpy road to the edge of Woldinghame. after which the routes split. The shorter route descends directly towards Westerham, whereas the longer route takes in a Kentish loop featuring Edenbridge and the less-than-playful Toys Hill. From Westerham (where you’ll find the feed station) the routes re-combine, and then tackle the steep slopes of Sundridge Hill before the (mostly) downhill run to home.
+
+[Ride of the Falling Leaves](https://www.dulwichparagon.com/ride-of-the-falling-leaves/){target=_blank .md-button}
 
 
 ## Kent Tour De France Sportive
@@ -47,6 +69,15 @@ Key Details of the 2007 Tour de France in Kent:
     - Sportive: A public "Kent Tour de France sportive" was held in 2007, allowing amateur cyclists to ride the same 117-mile route.
 
     The 2007 stage was a major moment for British cycling, with Mark Cavendish making his Tour debut, as noted by Walk Tonbridge and YouTube.
+
+
+## Lands End to John O'Groats
+
+September 2019 I completed a 9 day ride across Britain, from Lands End in the South West of England to John O'Groats in the North East of Scotland.
+
+The "Ride Across Britain" was an organised event that provides tents each night, showers, massages and lots of delicious food each evening and at pit stops along the route each day.
+
+[Ride Across Britain](https://www.rideacrossbritain.com/){target=_blank .md-button}
 
 
 ## Audax
