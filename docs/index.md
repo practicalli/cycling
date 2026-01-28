@@ -6,16 +6,11 @@ icon: lucide/bike
 
 Practical guides to cycling, covering bicycle maintenance, route planning, bike tools, training plans, etc.
 
-The Practicalli team has been riding for over 30 years, growing [experience in long distance and multi-day rides](experiences.md) over the last 20 years.
+Riding is a highly enjoyable way to keep healthy and explore the countryside (and lots of Cafe').  Joining a local cycling club is an excellent way to socialise with other people who enjoy cycling and support you on rides.
 
-- [Charity rides](experiences.md#charity-rides) from London to Oxford and London to Cambridge
-- [Ride of the Falling Leaves](/docs/experiences.md#ride-of-the-falling-leaves)
-- [Audax.uk rides](experiences.md#audax) of 50km, 100km, 200km and 300km
-  - [Oasts & Coasts Audax](experiences.md#oasts-and-coasts-300) - an accidental 420km ride round the East coast of Kent
-- [British Cycling Sportive](experiences.md#kent-tour-de-france-sportive), London (Greenwich) to Canterbury. A week before the 2007 Tour de France cyclists.
-- [Lands End to John O'Groats](experiences.md#lands-end-to-john-ogroats) a 9 day trip across Britain, covering 16,000 km and climbing 20,000 meters.
+With basic knowledge of bicycle maintenance, good quality clothes & a well fitted bike, many successful and trouble free rides can be enjoyed each and every year.
 
-These experiences shape the advice and opinions offered on this website.
+Your cycling enthusiam may start with cycling to work and with a little investment of time can grow into a passionate hobby that will last you for the rest of your life.
 
 !!! INFO "Opinions in this book are my own"
     Practicalli Cycling book is not sponsored by any cycling related companies and all products have been bought at personal expense.
@@ -23,7 +18,18 @@ These experiences shape the advice and opinions offered on this website.
 
 ## About
 
-Practicalli is written by Johnny Rocket, a cyclist currently living in South East of England.
+Practicalli Cycling is written by Johnny Rocket who has been riding for over 30 years, growing [experience in long distance and multi-day rides](experiences.md) over the last 20 years.
+
+These experiences shape the advice and opinions offered on this website.
+
+Johnny Rocket is currently living in South East of England, so most of the experiences are from that area.
+
+- [Charity rides](experiences.md#charity-rides) from London to Oxford & London to Cambridge
+- [Ride of the Falling Leaves](/docs/experiences.md#ride-of-the-falling-leaves) a challenging 100km around the Kent Alps
+- [Audax.uk rides](experiences.md#audax) of 50km to 600km or more, including [Oasts & Coasts](experiences.md#oasts-and-coasts-300) an accidental 420km ride round the East coast of Kent
+- [British Cycling Sportive](experiences.md#kent-tour-de-france-sportive) London to Canterbury a week before the 2007 Tour de France cyclists
+- [Lands End to John O'Groats](experiences.md#lands-end-to-john-ogroats) 9 day trip covering 16,000 km # climbing 20,000 meters
+
 
 <!-- [Strava: Johnny Rocket](https://www.strava.com/athletes/31595960){.md-button} -->
 
