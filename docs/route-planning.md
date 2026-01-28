@@ -27,7 +27,7 @@ Use the "Route Planner" tool on the website to create a route from scratch, or o
     It can be simpler to create a new route rather than edit a route which has parts that traverses the same roads in different directions.
     Open the original route and new route in separate side-by-side browser windows and create the new route from scratch, using the original route as a visual guide.
 
-### From a cycle ride
+### Create route from a cycle ride
 
 Sharing a ride captured on a cycle computer or other GPS tracking device is a simple way to capture a route.
 
