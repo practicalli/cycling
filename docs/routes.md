@@ -22,7 +22,7 @@ All routes depart from the Hayes/Bromley area.
 
 These routes provide a good workout without completely exhausting the body.  There is usually a nice cafe half way.
 
-[Sevenoaks Circular](https://ridewithgps.com/routes/50763224){target=_blank .md-button} - regular route
+[Sevenoaks Circular](https://ridewithgps.com/routes/50763224){target=_blank .md-button}
 
 [Archive Cafe via BugsHill & Woldingham](https://ridewithgps.com/routes/52785852){target=_blank .md-button}
 
@@ -48,9 +48,11 @@ These routes provide a good workout without completely exhausting the body.  The
 
 Beautiful scenery whist climbing some big hills.
 
-- [Box Hill via Horley](https://ridewithgps.com/routes/52214299){target=_blank .md-button}
-- [Ranmore and Box Hill](https://ridewithgps.com/trips/314043572){target=_blank .md-button}
-- Leith Hill
+[Box Hill via Horley](https://ridewithgps.com/routes/52214299){target=_blank .md-button}
+
+[Ranmore and Box Hill](https://ridewithgps.com/trips/314043572){target=_blank .md-button}
+
+[Leith Hill](https://ridewithgps.com/routes/53747979){target=_blank .md-button}
 
 
 ### 100 km plus
@@ -74,13 +76,13 @@ Beautiful scenery whist climbing some big hills.
 
 [Whitstable](){target=_blank .md-button}
 
-[Margate](){target=_blank .md-button} - 250km
+[Margate Coastal 2026](https://ridewithgps.com/routes/53850183){target=_blank .md-button} - 250km
 
 
 ### One day tours
 
-- [ Isle of Wight ](https://ridewithgps.com/trips/196643416){target=_blank .md-button}
-- [Northern France](){target=_blank .md-button}
+- [Isle of Wight](https://ridewithgps.com/trips/196643416){target=_blank .md-button}
+- [Northern France](https://ridewithgps.com/routes/51574272){target=_blank .md-button}
 
 
 ---
