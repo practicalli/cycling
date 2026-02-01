@@ -8,13 +8,15 @@ Cycle computers are common now and routes can be created and shared easily, via 
 
 Common sites for creating and sharing routes include:
 
-- [Ride With GPS](https://ridewithgps.com/) to view, edit & create new routes.
-- Kommut
+- [Ride With GPS](https://ridewithgps.com/) to view, share, edit & create new routes.
+- [Komoot](https://www.komoot.com/) view, share, edit & create new routes.
 - [Climb Finder](https://climbfinder.com/) to find significant ascents to include in your route planning
 
+??? INFO "Free Accounts or Subscription required for most features"
+    Route planning sites provide basic features without subscription, although to save changes will require a free account.  A subscription is required to access the full range of features for each site.
 
-!!! TIP "RideWithGPS App useful for viewing routes"
-    A subscription to RideWithGPS is required if you wish to save route edits or any other action other than viewing a route.
+!!! TIP "RideWithGPS App useful for viewing & pinning routes"
+    A subscription to RideWithGPS is required if you wish to save route edits or any other action other than viewing and sharing a route.
 
 
 ## Ride With GPS
@@ -36,3 +38,10 @@ It is recommended to edit the route as the GPS may not always line up with the r
 A simple trick is to add control points at strategic places along the route, e.g. just after turns, then slightly move one of the control points an the route will be redrawn to follow the road exactly.
 
 ++ctrl+z++ will undo a change if the route disappears or shrinks unexpectedly (adding more control points should help).
+
+
+### Collections to organise rides
+
+Collections are a simple way to group and share multiple routes.  They provide an simple way to group rides together, e.g. long distance, multiple climbing challenges, seaside trips, Audax rides, etc.
+
+A collection can be pinned to synchronise its routes to your cycling computer.
