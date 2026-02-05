@@ -92,6 +92,12 @@ Build the website and serve locally at [http://localhost:8000](http://localhost:
 make docs
 ```
 
+Update Zensical by editing the version of `zensical` in the `pyproject.toml` file and then running `make docs-install`.  This will clean the Python Virtual environment and install the specified version of zensical and its dependencies in the Virtual Environment.
+
+```shell
+make docs-install
+```
+
 ---
 
 Specific command if now using make:
