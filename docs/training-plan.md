@@ -12,7 +12,7 @@ The plan is based on preparing for a 1 day ride, covering 160 km and climbing 2,
 
 [Collection of Training Routes - Ride With GPS](https://ridewithgps.com/collections/8371985){target=_blank .md-button}
 
-> NOTE: running or other high intensity activities can be substituted for some of the high intensity cycling activities, especially in the colder months.
+> NOTE: running or other high intensity activities can be substituted for some cycling activities, especially during winter months.
 
 
 ## January
@@ -24,8 +24,7 @@ The plan is based on preparing for a 1 day ride, covering 160 km and climbing 2,
 
 ## February
 
-- 4 rides with medium distance and ascents (club rides)
-  - 3 rides to support existing strengths, 1 ride to build new strengths (high intensity)
+- 4 rides with medium distance and ascents (club rides), e.g. 3 rides to support existing strengths, 1 ride to build new strengths (greater intensity)
 - 3 recovery rides
 - regular walks / Yoga / Pilates 3 times a week
 - daily stretching ritual and breathing exercises
