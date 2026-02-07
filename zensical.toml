@@ -59,6 +59,7 @@ nav = [
   { "Training Plan" = "training-plan.md" },
   { "Maintenance" = "maintenance.md" },
   # { "Markdown in 5min" = "markdown.md" },
+  { "Zensical Tips" = "zensical-tips.md" },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
