@@ -9,6 +9,80 @@ A bicycle is made of many small and large components.  Some components require r
 Understanding components can also help when ensuring a correct bicycle fit, choosing a new bike or upgrading an existing bike.
 
 
+## Tyres
+
+Bicycle tyres are fall into several main categories and they all have their strengths and challenges.
+
+The type of riding surface (road, gravel, mountain bike) has a significant influence on tyre choice.  Rider confort and tyre maintenance are other major factors.
+
+- Clincher tyres that require an inner tube to hold the air pressure, used by the vast majority of cyclists.
+- Tubless tyres which use a thick bead on the edges of the tyre to create an air tight seal, use sealant to minimise the effect of punctures
+- Solid tyres that do not use air (no flat tyres)
+
+
+
+### Clincher tyres
+
+The most commonly used tyre with a very long history of effective use.
+
+If the tyre is punctured and also breaches the inner tube, then the air will escape causing a 'flat tyre'.
+
+Repair can be quickly achieved at the road side by replacing the inner tube or repairing it with a patch.
+
+Many models of clincher tyre include enhanced puncture protection within the tyre itself, e.g. thicker rubber or kevlar mesh embedded in the tyre.
+
+
+### Tubuless tyres
+
+A tubless tyre has no inner tube, instead relying on the tyre itself to keep in all the air.
+
+A liquid sealant is added as the tyre is fitted to repair punctures whist the bike is riding. Small punctures should seal before too much air escapes, avoiding the need to stop for a repair.
+
+If a larger puncture occurs that the sealant cannot fix, the rider will need to stop for a repair.  A 'plug' can be inserted into the wheel to help the sealant completely block the hole, allowing the tyre to be fully inflated again.
+
+Tubless tyres run at lower pressures (to avoid blowing off the wheel rim).  A lower pressure can give a more comfortable ride.  A lower pressure is less effective at flicking away flint and other sharp objects that cause punctures, but the sealant should hopefully compensate and keep the need for road-side repair.
+
+**Benefits**
+
+- run at lower pressures for comfort
+- automatically seal punctures (when sealant regularly maintained)
+
+**Challenges**
+
+- slightly harder to remove and fit due to the thicker bead needed on the wheel
+- fitting tyres can be messy if the tyre doesn’t bed correctly when inflating
+- sealant can leak if tyres are deflated when travelling (airlines require tyres to be deflated
+- wheel balancing is harder with sealant in the tyres
+- sealant must be changed regularly to stop it from becoming hard
+- sealant will harden quicker if a bicycle is not regularly used (or sealant replaced more often)
+- require wheels that are designed for tubeless tyres
+
+
+### Solid Airless Tyres
+
+It can take more time to fit a solid tyre initially. Once fitted though, a solid tyre requires no work until the tyre is worn (about 8,000 km).
+
+**Benefits**
+
+- never need to stop for a puncture
+- never need to carry a pump
+
+**Constraints**
+
+- tyres are very hard to remove without damaging them
+- may be difficult to replace a broken spoke if access inside the rim of the wheel is required
+- tyre stiffness cannot be adjusted (no air pressure to adjust), handling may feel different especially when accustom to a different air pressure (PSI)
+
+Tannus Airless tyres are a modern 'solid' tyre that never goes flat. Tannus also has thick amour tyre inserts that prevent punctures.
+
+[Tannus Airless Tyres](https://www.tannus.co.uk/collections/airless-tyres)
+
+
+### Community Reviews
+
+- [Why I'm no longer using Tubless - GCN]()
+
+
 ## Derailleur pulley wheels
 
 The rear derailleur arm contains two small pulley wheels that manage any excess chain length when in smaller diameter gear chain rings.
