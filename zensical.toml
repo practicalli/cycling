@@ -50,6 +50,7 @@ nav = [
   { "Toolbag" = "toolbag.md" },
   { "Lights" = "lights.md" },
   { "Computers & Sensors" = "computers-sensors.md" },
+  { "Components" = "components.md" },
   { "First Aid" = "first-aid.md" },
   { "Route Planning" = "route-planning.md" },
   { "Routes" = "routes.md" },
