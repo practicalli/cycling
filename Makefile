@@ -31,7 +31,6 @@ HELP-DESCRIPTION-SPACING := 24
 # Tool variables
 MEGALINTER_RUNNER := npx mega-linter-runner --flavor documentation --env "'MEGALINTER_CONFIG=.github/config/megalinter.yaml'" --remove-container
 DOCS_SERVER := zensical serve --dev-addr localhost:7777
-PYTHON_VENV_ACTIVATE := . .venv/bin/activate
 OUTDATED_FILE := outdated-$(shell date +%y-%m-%d-%T).md
 # ------------------------------------------------ #
 
@@ -64,29 +63,24 @@ dependencies-update: ## Update all library dependencies and GitHub action
 # ------------------------------------------------ #
 
 # --- Documentation Generation  ------------------ #
-python-venv:  ## Create Python Virtual Environment
-	$(info -- Create Python Virtual Environment -----)
-	uv venv
-
-docs-install:  ## Install Zensical in Python virtual environment
-	$(info -- Install Zensical  ---------------------)
-	$(PYTHON_VENV_ACTIVATE) && uv add zensical
+docs-install:  ## Install or upgrade Zensical in Python virtual environment
+	uv tool install zensical --upgrade
 
 docs:  ## Build and run docs in local server
 	$(info -- Local Server --------------------------)
-	$(PYTHON_VENV_ACTIVATE) && $(DOCS_SERVER)
+	$(DOCS_SERVER)
 
 docs-open:  ## Build docs, run server & open browser
 	$(info -- Local Server & Browser ----------------)
-	$(PYTHON_VENV_ACTIVATE) && $(DOCS_SERVER) --open
+	$(DOCS_SERVER) --open
 
 docs-build:  ## Build docs locally
 	$(info -- Build Docs Website --------------------)
-	$(PYTHON_VENV_ACTIVATE) && zensical build
+	zensical build
 
 docs-debug:  ## Run local server in debug mode
 	$(info -- Local Server Debug --------------------)
-	$(PYTHON_VENV_ACTIVATE) &&  $(DOCS_SERVER) -v
+	$(DOCS_SERVER) -v
 # ------------------------------------------------ #
 
 # ------- Version Control ------------------------ #
