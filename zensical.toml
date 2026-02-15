@@ -354,6 +354,12 @@ quote = "fontawesome/solid/quote-left"
 [[project.extra.social]]
 icon = "fontawesome/brands/github"
 link = "https://github.com/practicalli/cycling"
+[[project.extra.social]]
+icon = "fontawesome/brands/strava"
+link = "https://www.strava.com/athletes/31595960"
+[[project.extra.social]]
+icon = "lucide/bike"
+link = "https://ridewithgps.com/users/1730364"
 
 # ---
 # Analytics
