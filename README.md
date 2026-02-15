@@ -80,7 +80,7 @@ Clone the repository and change into the root of the project.
 git clone https://github.com/practicalli/cycling
 ```
 
-Set up a Python virtual environment in the project and add Zensical package
+Install Zensical as a tool using `uv` (updating if there is a new version).
 
 ```shell
 make docs-install
@@ -92,12 +92,6 @@ Build the website and serve locally at [http://localhost:8000](http://localhost:
 make docs
 ```
 
-Update Zensical by editing the version of `zensical` in the `pyproject.toml` file and then running `make docs-install`.  This will clean the Python Virtual environment and install the specified version of zensical and its dependencies in the Virtual Environment.
-
-```shell
-make docs-install
-```
-
 ---
 
 Specific command if now using make:
@@ -105,17 +99,5 @@ Specific command if now using make:
 Create a virtual python in the root of the project.
 
 ```shell
-uv venv
-```
-
-Activate the Python Virtual Environment.
-
-```shell
-source .venv/bin/activate
-```
-
-Build the website and serve locally at [http://localhost:8000](http://localhost:8000)
-
-```shell
-zensical serve
+uv tool install zensical --upgrade
 ```
