@@ -44,24 +44,84 @@ Copyright &copy; 2026 Practicalli
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
+# nav = [
+#   { "Introduction" = "index.md" },
+#
+#   { "Cycling Clothes" = "clothes.md" },
+#
+#   # Bicycles and components
+#   # { "Choosing a bike" = "choosing-a-bike.md" },
+#   { "Components" = "components.md" },
+#   { "Lights" = "lights.md" },
+#   { "Computers & Sensors" = "computers-sensors.md" },
+#
+#   # Riding
+#   { "Route Planning" = "route-planning.md" },
+#   { "Routes" = "routes.md" },
+#   { "Ride experiences" = "experiences.md" },
+#   # { "Group Riding" = "group-riding.md" },
+#   { "Hills" = "hills.md" },
+#
+#   # Training
+#   { "Training" = "training.md" },
+#   { "Training Plan" = "training-plan.md" },
+#
+#   # Maintenance & Tools
+#   { "Toolbag" = "toolbag.md" },
+#   { "Maintenance" = "maintenance.md" },
+#
+#   { "First Aid" = "first-aid.md" },
+#
+#   # { "Markdown in 5min" = "markdown.md" },
+#   { "Zensical Tips" = "zensical-tips.md" },
+# ]
+
+# Navigation in sections
+
+
 nav = [
   { "Introduction" = "index.md" },
-  { "Kit" = "kit.md" },
-  { "Toolbag" = "toolbag.md" },
-  { "Lights" = "lights.md" },
-  { "Computers & Sensors" = "computers-sensors.md" },
-  { "Components" = "components.md" },
+
+  { "Clothes" = [
+    { "Basic Kit" = "kit.md" }
+  ] },
+
+  # Bicycles & components
+  {"Bicycles & components" = [
+    { "Choosing a bike" = "choosing-a-bike.md" },
+    { "Components" = "components.md" },
+    { "Lights" = "lights.md" },
+    { "Computers & Sensors" = "computers-sensors.md" },
+  ]},
+
+  # Riding
+  { "Riding" = [
+    { "Route Planning" = "route-planning.md" },
+    { "Routes" = "routes.md" },
+    { "Ride experiences" = "experiences.md" },
+    # { "Group Riding" = "group-riding.md" },
+    { "Hills" = "hills.md" },
+  ]},
+
+  # Training
+
+  { "Training" = [
+    { "Training Overview" = "training.md" },
+    { "Training Plan" = "training-plan.md" },
+  ] },
+
+  # Maintenance & Tools
+  { "Maintenance" = [
+    { "Toolbag" = "toolbag.md" },
+    { "Maintenance" = "maintenance.md" },
+  ]},
+
   { "First Aid" = "first-aid.md" },
-  { "Route Planning" = "route-planning.md" },
-  { "Routes" = "routes.md" },
-  { "Ride experiences" = "experiences.md" },
-  { "Hills" = "hills.md" },
-  { "Training" = "training.md" },
-  { "Training Plan" = "training-plan.md" },
-  { "Maintenance" = "maintenance.md" },
+
   # { "Markdown in 5min" = "markdown.md" },
   { "Zensical Tips" = "zensical-tips.md" },
 ]
+
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
@@ -228,7 +288,7 @@ features = [
     # When tabs are enabled, top-level sections are rendered in a menu layer
     # below the header for viewports above 1220px, but remain as-is on mobile.
     # https://zensical.org/docs/setup/navigation/#navigation-tabs
-    #"navigation.tabs",
+    "navigation.tabs",
 
     # When sticky tabs are enabled, navigation tabs will lock below the header
     # and always remain visible when scrolling down.
