@@ -89,6 +89,7 @@ nav = [
   # Bicycles & components
   {"Bicycles & components" = [
     { "Choosing a bike" = "choosing-a-bike.md" },
+    { "Bike Fit" = "bike-fit.md" },
     { "Components" = "components.md" },
     { "Lights" = "lights.md" },
     { "Computers & Sensors" = "computers-sensors.md" },
