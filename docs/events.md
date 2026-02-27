@@ -1,3 +1,8 @@
+---
+icon: lucide/calendar-1
+---
+
+
 # Cycling Events
 
 - [8 March 2026 - Sunday - Kent Invicta Hilly 50 (Otford)](#kent-invicta-hilly-50)
