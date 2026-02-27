@@ -1,7 +1,8 @@
 # Cycling Events
 
 - [8 March 2026 - Sunday - Kent Invicta Hilly 50](#kent-invicta-hilly-50)
-- 10 May 2026 - Sunday - [Hop Gardens 100km]()
+- [8 March 2026 - Sunday - Kent Invicta Grimpeur 100](#kent-invicta-grimpeur-100)
+- 10 May 2026 - Sunday - [Hop Gardens 100km](#hop-gardens-100km-sunday-10-may-2026)
 
 
 ## Kent
@@ -24,7 +25,7 @@
 
 ### Kent Invicta Hilly 50
 
-[Kent Invicta Hilly 50 - Sunday 8 March 2026](https://www.audax.uk/event-details/calendar/14240-kent_invicta_hilly_50){target=_blank .md-button}
+[Signup: Kent Invicta Hilly 50 - Sunday 8 March 2026](https://www.audax.uk/event-details/calendar/14240-kent_invicta_hilly_50){target=_blank .md-button}
 
 An event designed for those who enjoy climbing or want to get better at hills.
 
@@ -57,6 +58,37 @@ Event Information
 - Body: West Kent CTC
 - Audax Points: 0.5
 - Event No: 26-189
+
+
+## Kent Invicta Grimpeur 100
+
+[Signup: Kent Invicta Grimpeur 100 - Sunday 8 March](https://www.audax.uk/event-details/calendar/14239-kent_invicta_grimpeur_100){target=_blank .md-button}
+
+Qualifying ride for the **Brevet des Grimpeurs du Sud** award.
+
+A very challenging hill climbing route for those who love climbing or really want to push themselves. This is the traditional West Kent CTC run up and down the hills around Sevenoaks (two circuits).
+
+Free food and drink available at the start/finish and half-way points.
+
+Event Date and Location
+
+- Date: Sun, 8 Mar 2026 Add Event to my Personal Calendar
+- Entry: 9.00 GBP (plus 3.00 GBP for non-members)
+- Time: 09:30 to finish by 17:50
+- Distance: 100 km (100 km) in 8h20
+- Starting from: Otford, Sevenoaks
+- Closing Date: Enter soon as entries may close early if event is full
+- Entries close at: 120 riders
+
+Event Information
+
+- Speed: 12-25 km/h
+- Climb: 1890m
+- AAA: 2
+- Category: BP
+- Body: West Kent CTC
+- Audax Points: 1
+- Event No: 26-190
 
 
 ### Hop Gardens 100km - Sunday 10 May 2026
