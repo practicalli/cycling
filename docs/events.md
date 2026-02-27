@@ -5,11 +5,13 @@ icon: lucide/calendar-1
 
 # Cycling Events
 
-- [8 March 2026 - Sunday - Kent Invicta Hilly 50 (Otford)](#kent-invicta-hilly-50)
-- [8 March 2026 - Sunday - Kent Invicta Grimpeur 100 (Otford)](#kent-invicta-grimpeur-100)
-- [12 April 2026 - Sunday - The Shark (Grenwich)](#the-shark)
-- 10 May 2026 - Sunday - [Hop Gardens 100km](#hop-gardens-100km-sunday-10-may-2026)
+Events happening soon:
 
+- [8 March 2026 - Sunday - Kent Invicta Hilly 50 ](#kent-invicta-hilly-50) - Otford
+- [8 March 2026 - Sunday - Kent Invicta Grimpeur 100](#kent-invicta-grimpeur-100) - Otford
+- [12 April 2026 - Sunday - The Shark](#the-shark) - Greenwich
+- [25 April 2026 - Oasts & Coasts 300km](#oasts-coasts-300km) - Meopham
+- [10 May 2026 - Sunday - Hop Gardens 100km](#hop-gardens-100km) - Meopham
 
 ## Kent
 
@@ -123,7 +125,32 @@ Event Information
 
 GPX route available from organiser in the run up to the ride.
 
-### Hop Gardens 100km - Sunday 10 May 2026
+
+### Oasts & Coasts 300km
+
+[Signup: Oasts & Coast 25 April 2026](https://www.audax.uk/event-details/calendar/13542-oasts_and_coasts_300km){target=_blank .md-button .md-button--primary}
+
+A long and fun ride around part of the Kent coast.
+
+The route including a ride along the sea wall on the North Kent coast from Herne Bay to Birchington-on-Sea, joining at [Reculver Towers and Roman Fort](https://maps.app.goo.gl/NVuUKkD7Cuk5MnLcA){target=_blank}
+
+[Experience Report: Riding the Oasts & Coasts ride in 2013](experiences.md#oasts-and-coasts-300){target=_blank .md-button}
+
+- Date: Sat, 25 Apr 2026
+- Time: 06:00 to finish by 02:00
+- Distance: 300 km (307 km) in 20h00
+- Starting from: Meopham
+- Distance from Bromley: 30km
+
+
+Event Information
+
+- Speed: 15-30 km/h
+- Climb: 3143m
+- AAA: 0
+- Category: BRM
+- Audax Points: 3
+
 
 - Date: Sun, 10 May 2026
 - Entry: 9.00 GBP (plus 3.00 GBP for non-members)
