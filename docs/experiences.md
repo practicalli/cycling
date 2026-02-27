@@ -145,7 +145,7 @@ As it is early in the season it is used to prepare for greater challenges later 
 
 - Location: Starts and finishes in Otford, Sevenoaks, Kent.
 - Distance/Type: 100 km (Grimpeur/hilly).
-- Timing: Usually held in March (e.g., March 17, 2024; March 9, 2025).
+- Timing: Usually held in early March.
 - Terrain: Known for packing in significant hills around the Sevenoaks area.
 - Entry: Often features on-the-line entries and includes food/drink at the start and finish.
 - Context: It is part of the Audax Altitude Award (AAA) series, designed for those who enjoy climbing.
