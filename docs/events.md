@@ -1,7 +1,8 @@
 # Cycling Events
 
-- [8 March 2026 - Sunday - Kent Invicta Hilly 50](#kent-invicta-hilly-50)
-- [8 March 2026 - Sunday - Kent Invicta Grimpeur 100](#kent-invicta-grimpeur-100)
+- [8 March 2026 - Sunday - Kent Invicta Hilly 50 (Otford)](#kent-invicta-hilly-50)
+- [8 March 2026 - Sunday - Kent Invicta Grimpeur 100 (Otford)](#kent-invicta-grimpeur-100)
+- [12 April 2026 - Sunday - The Shark (Grenwich)](#the-shark)
 - 10 May 2026 - Sunday - [Hop Gardens 100km](#hop-gardens-100km-sunday-10-may-2026)
 
 
@@ -90,6 +91,32 @@ Event Information
 - Audax Points: 1
 - Event No: 26-190
 
+
+### The Shark
+
+[Signup: The Shark - Sunday 12 April 2026](https://www.audax.uk/event-details/calendar/14316-the_shark){target=_blank .md-button}
+
+A hilly ride from the River Thames to The Channel and back, mainly using quiet lanes and B roads.
+
+Starts from Cutty Sark Gardens, heads south out of London and across the North Downs, Greensand Ridge and High Weald to Chiddingly Village Hall for a full ACH-operated control with refreshments included.
+
+A scenic climb over the South Downs leads to the halfway point at the cafe on the beach at Seaford, where you can choose to stop or not.
+
+On the way back there is a 'free' control in the pretty medieval town of Mayfield, where you just need to get a receipt from one of the shops, pubs, etc.
+
+Finishes at the Old Brewery Pub in the grounds of Old Royal Naval College (ORNC).
+
+Event Information
+
+- Distance: 205km
+- Speed: 14.3-28 km/h
+- Climb: 3140m
+- AAA: 3.25
+- Category: BR
+- Body: Audax Club Hackney
+- Audax Points:2
+
+GPX route available from organiser in the run up to the ride.
 
 ### Hop Gardens 100km - Sunday 10 May 2026
 
