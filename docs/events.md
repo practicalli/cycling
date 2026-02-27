@@ -13,7 +13,8 @@ Events happening soon:
 - [25 April 2026 - Oasts & Coasts 300km](#oasts-coasts-300km) - Meopham
 - [10 May 2026 - Sunday - Hop Gardens 100km](#hop-gardens-100km) - Meopham
 
-## Kent
+
+## Kent Rides
 
 - The Kentish Killer: Held by Team De Ver. A challenging early-season 100km+ ride.
 - Hell of the Ashdown (HOTA): A demanding, classic Kentish sportive.
@@ -23,17 +24,17 @@ Events happening soon:
 
 ## Audax Rides
 
+An Audax event is an enjoyable long-distance cycling challenge where participants aim to complete a set distance within a specific time limit, focusing on completion rather than speed. The concept originated from Italian endurance sports.
 
+Rides can vary from 50 km to 600 km (or even longer). Riders can self-organise into groups or head off solo.
 
-[Audax: The Shark - 2026](https://www.audax.uk/event-details/calendar/14316-the_shark){target=_blank .md-button}
+[Audax UK](https://www.audax.uk/) is one of the world's largest long-distance cycling clubs. Individual rides are non-competitive, usually with a generous time limit to complete the ride. Audax UK Rides are included in annual championships and specific rides qualify or contribute to for awards.
 
-[Audax: Oasts & Coasts - 2026](https://www.audax.uk/event-details/calendar/13542-oasts_and_coasts_300km){target=_blank .md-button}
-
-
+The rides are not supported, except for optional refreshments at the start or end of the ride.  Riders should be comfortable fixing minor issues with their bike (e.g. punctures).
 
 ### Kent Invicta Hilly 50
 
-[Signup: Kent Invicta Hilly 50 - Sunday 8 March 2026](https://www.audax.uk/event-details/calendar/14240-kent_invicta_hilly_50){target=_blank .md-button}
+[Signup: Kent Invicta Hilly 50 - Sunday 8 March 2026](https://www.audax.uk/event-details/calendar/14240-kent_invicta_hilly_50){target=_blank .md-button .md-button--primary}
 
 An event designed for those who enjoy climbing or want to get better at hills.
 
@@ -70,7 +71,7 @@ Event Information
 
 ## Kent Invicta Grimpeur 100
 
-[Signup: Kent Invicta Grimpeur 100 - Sunday 8 March](https://www.audax.uk/event-details/calendar/14239-kent_invicta_grimpeur_100){target=_blank .md-button}
+[Signup: Kent Invicta Grimpeur 100 - Sunday 8 March](https://www.audax.uk/event-details/calendar/14239-kent_invicta_grimpeur_100){target=_blank .md-button .md-button--primary}
 
 Qualifying ride for the **Brevet des Grimpeurs du Sud** award.
 
@@ -101,7 +102,7 @@ Event Information
 
 ### The Shark
 
-[Signup: The Shark - Sunday 12 April 2026](https://www.audax.uk/event-details/calendar/14316-the_shark){target=_blank .md-button}
+[Signup: The Shark - Sunday 12 April 2026](https://www.audax.uk/event-details/calendar/14316-the_shark){target=_blank .md-button .md-button--primary}
 
 A hilly ride from the River Thames to The Channel and back, mainly using quiet lanes and B roads.
 
@@ -130,9 +131,9 @@ GPX route available from organiser in the run up to the ride.
 
 [Signup: Oasts & Coast 25 April 2026](https://www.audax.uk/event-details/calendar/13542-oasts_and_coasts_300km){target=_blank .md-button .md-button--primary}
 
-A long and fun ride around part of the Kent coast.
+A long and fun ride around a big part of the Kent coast.
 
-The route including a ride along the sea wall on the North Kent coast from Herne Bay to Birchington-on-Sea, joining at [Reculver Towers and Roman Fort](https://maps.app.goo.gl/NVuUKkD7Cuk5MnLcA){target=_blank}
+The route includes a ride along the sea wall on the North Kent coast from Herne Bay to Birchington-on-Sea.
 
 [Experience Report: Riding the Oasts & Coasts ride in 2013](experiences.md#oasts-and-coasts-300){target=_blank .md-button}
 
@@ -150,7 +151,12 @@ Event Information
 - AAA: 0
 - Category: BRM
 - Audax Points: 3
+- E-Brevet: Yes
 
+
+### Hop Gardens 100km
+
+[Signup: Hop Gardens 100km - Sunday 10 May 2026](https://www.audax.uk/event-details/calendar/13501-hop_garden_100km){target=_blank .md-button .md-button--primary}
 
 - Date: Sun, 10 May 2026
 - Entry: 9.00 GBP (plus 3.00 GBP for non-members)
@@ -167,5 +173,3 @@ Event Information
 - Body: Gravesend CTC
 - Audax Points: 1
 - Event No: 26-205
-
-Audax: [10 May 2026 - Sunday - Hop Gardens 100km](https://www.audax.uk/event-details/calendar/13501-hop_garden_100km){target=_blank .md-button}
