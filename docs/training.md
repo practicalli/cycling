@@ -20,6 +20,9 @@ With plenty of time to train the plan can start with easy and achievable riding,
 - distance (prepping for riding 150 km)
 - ascent (climbing very steep and long hills)
 - endurance & recovery (especially for multi-day rides)
+- [bike fit](bike-fit.md)
+
+
 
 At the beginning of your training these aspects can be focused on separately, especially if one aspect is not a strength.
 Gradually combining more climbs and distances will feel more attainable and keep motivation levels high.
@@ -50,6 +53,22 @@ Up to 20% of training should be high intensity training to increase aerobic fitn
 
     Only hours riding a bicycle will prepare your body for a significant ride or event (and still enjoy it).
 
+
+## Building endurance
+
+Simply riding your bike more often helps build up endurance, especially in all the cycling muscles.  Those muscles become used to the work and eventually start to complain less.
+
+The longer your rides become, the easier it becomes to do even longer rides.
+
+The greater number of hill climbs you do, the easier climbing feels.
+
+Building up the amount of riding by 10-20% each week will grow your strength and confidence.  You can increase distance or climbing, or both together at a lesser extend (e.g. 10% more distance, 5% more hills)
+
+
+!!! TIP "Higher cadence equals less watt loss from gearset"
+    A higher cadence is more power efficient as the watt resistance is higher in smaller cassette gears, due to increased chain friction as it traverses narrow angles - it has to bend more, causing more friction.
+
+    Switching to larger guide wheels in the derailleur (jockey wheels) can also help reduce friction.
 
 
 ## Recovery rides
