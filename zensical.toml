@@ -97,6 +97,7 @@ nav = [
 
   # Riding
   { "Riding" = [
+    { "Events" = "events.md" },
     { "Route Planning" = "route-planning.md" },
     { "Routes" = "routes.md" },
     { "Ride experiences" = "experiences.md" },
