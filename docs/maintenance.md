@@ -61,6 +61,8 @@ Peddle the chain whilst changing gears on the rear cassette, allowing the lubric
 
 Finally wipe all the excess lubricant from the chain, especially on the outside.  Excess lubrication will collect dirt and make lubrication less effective.
 
+[Are you lubricating your chain correctly? - GCN Tech](https://www.youtube.com/watch?v=zyietLL9yNk){target=_blank .md-button}
+
 !!! WARNING "Avoid lubricating the cassette or front rings"
     Adding lubrication to the cassette will collect dirt which will then go onto the chain and cause wear.
 
@@ -115,8 +117,54 @@ It is common to change a chain twice or three times for the life of a cassette.
 
 ## Tyres
 
-- inner tube
-- tubless (sealant)
-- solid
+Clincher & inner tube is the most commonly used tyre for road bikes as they are cheaper, lighter and easier to maintain than other alternatives.
+
+!!! INFO "Lower pressures increase the probability of punctures - its physics"
+
+!!! WARNING "Inflating tyres over there manufacturers recommendation will cause serious injury"
+
+### Removing a tyre
+
+Remove the tyre using tyre levers.  Plastic levers are recommended to avoid damaging the tyre (or making additional holes in the inner tube).
+
+Start opposite the valve stem.
+
+Push the outside wall of the tyre towards the middle of the wheel rim.  The circumference of the wheel is smaller in the centre.
+
+Gently feed the tyre lever into the gap created, underneath the bead of the tyre.  Gently push down on the tyre lever and clip the end on the nearest spoke to keep it in position.
+
+Feed a second tyre lever under the tyre near the first, pushing the tyre wall into the center if there is not a sufficient gap.
+
+Push down on the second lever and
+
+
+### Failed inner tube
+
+Clincher tyres should be inflated to the manufacturers recommended pressure (PSI).  Lower pressures will cause extra wear on the tyre and increase the probability of a deflated tyre through a puncture.
+
+When a deflated tyre occurs due to a puncture, use a spare inner tube to replace the failed tube.  Or find the hole in the failed inner tube and repair with a suitable patch.
+
+!!! TIP "High pressure tyres flick away sharp stones and other debris, greatly reducing the risk of punctures"
+
 
 ### Tubless
+
+A tubless tyre will experience punctures just like any other tyre. A liquid sealant is added to quickly block those punctures before the tyre deflates.
+
+When the sealant is effective, the rider should not need to stop for repair.
+
+If a larger hole is created by a puncture or the sealant has not been maintained, a deflated tyre can still occur.
+
+Riders should carry tubless plug tool to help patch larger holes.
+
+The rider will need to stop, locate the hole in the tyre and insert a plug big enough to fill most of the hole.
+
+The wheel should then be spun for 30 seconds to a minute to activate the sealant and fully block the hole.
+
+Pump up the tyre to the manufacturers recommended pressure.
+
+If a plug and sealant does not fix the puncture, then an inner tube should be fitted (as with a Clincher tyre repair).
+
+The inside of the tyre should be cleaned of sealant so the tyre can be checked for sharp objects that would puncture the inner tube.  Unless tyres are new, there may be many sharp objects embedded within the tyre, covered in hardened sealant.
+
+!!! INFO "Low quality sealant may fail to block punctures"

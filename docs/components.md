@@ -19,17 +19,37 @@ The type of riding surface (road, gravel, mountain bike) has a significant influ
 - Tubless tyres which use a thick bead on the edges of the tyre to create an air tight seal, use sealant to minimise the effect of punctures
 - Solid tyres that do not use air (no flat tyres)
 
+For good road conditions, the performance of Clincher (inner tube) tyres is hard to beat, especially when using TPU inner tubes and the tyre is inflated to the correct manufacturer recommended pressure.
 
+Riders seeking to use lower pressures, 75 PSI or lower, may find comfort benefits with Tubless tyres especially where roads are littered with potholes and very poor surfaces. Greater benefits of Tubless come with Gravel riding and rougher terrains.
 
 ### Clincher tyres
 
 The most commonly used tyre with a very long history of effective use.
 
-If the tyre is punctured and also breaches the inner tube, then the air will escape causing a 'flat tyre'.
+If the tyre is punctured and the object breaches the inner tube, then the air will escape causing a 'flat tyre'.
 
-Repair can be quickly achieved at the road side by replacing the inner tube or repairing it with a patch.
+Repair can be quickly achieved at the road side by replacing the inner tube or repairing it with a patch (use a patch suitable for the material of the inner tube).
 
 Many models of clincher tyre include enhanced puncture protection within the tyre itself, e.g. thicker rubber or kevlar mesh embedded in the tyre.
+
+Common Size Clincher Tyre ranges: 23C to 32C
+
+**Benefits**
+
+- the most widely used tyre by a large margin
+- much simpler maintenance
+- lighter than tubless and solid tyres (especially when used with TPU inner tubes)
+
+**Challenges**
+
+- incorrect tyre pressures lead to increased risk of puncture
+
+
+!!! TIP "Continental tyres mix performance with good puncture protection"
+    Consider Grand Prix 5000 for hight performance.  4 Season if conditions are changable or often wet. Gaterskin for maximum puncture protection, sacrificing a little performance.
+
+    For club rides, any of these tyres would be suitable.
 
 
 ### Tubuless tyres
@@ -41,6 +61,10 @@ A liquid sealant is added as the tyre is fitted to repair punctures whist the bi
 If a larger puncture occurs that the sealant cannot fix, the rider will need to stop for a repair.  A 'plug' can be inserted into the wheel to help the sealant completely block the hole, allowing the tyre to be fully inflated again.
 
 Tubless tyres run at lower pressures (to avoid blowing off the wheel rim).  A lower pressure can give a more comfortable ride.  A lower pressure is less effective at flicking away flint and other sharp objects that cause punctures, but the sealant should hopefully compensate and keep the need for road-side repair.
+
+Common Size tubless tyre ranges: 30C upward (only limited by the size a frame can support)
+
+!!! WARNING "28C Tyres and smaller require too high a pressure for tubless"
 
 **Benefits**
 
@@ -57,6 +81,11 @@ Tubless tyres run at lower pressures (to avoid blowing off the wheel rim).  A lo
 - sealant will harden quicker if a bicycle is not regularly used (or sealant replaced more often)
 - require wheels that are designed for tubeless tyres
 
+!!! INFO "Tubless Compatible Vs Tubless Ready"
+    Tubeless Ready wheels have a solid inner surface (no holes to access spoke nipple heads), with only one hole for the valve stem.
+
+    Tubless compatible wheels require tubless rim tape fitted. Using rim tape for clincher wheels on a tubless compatible wheel will result in air and sealant leaks once the tyre is inflated (quickly leading to a defalted tyre and broken rim tape)
+
 
 ### Solid Airless Tyres
 
@@ -64,11 +93,15 @@ It can take more time to fit a solid tyre initially. Once fitted though, a solid
 
 **Benefits**
 
-- never need to stop for a puncture
+- never need to stop for a flat tyre
+- no maintenance once fitted (except cleaning them of course)
+- tyres seem to last a lot longer (not affected )
 - never need to carry a pump
+- excellent for commuting or touring as no maintenance is required
 
 **Constraints**
 
+- a little more expensive (although prices have come down to near that of tubless)
 - tyres are very hard to remove without damaging them
 - may be difficult to replace a broken spoke if access inside the rim of the wheel is required
 - tyre stiffness cannot be adjusted (no air pressure to adjust), handling may feel different especially when accustom to a different air pressure (PSI)
@@ -76,6 +109,11 @@ It can take more time to fit a solid tyre initially. Once fitted though, a solid
 Tannus Airless tyres are a modern 'solid' tyre that never goes flat. Tannus also has thick amour tyre inserts that prevent punctures.
 
 [Tannus Airless Tyres](https://www.tannus.co.uk/collections/airless-tyres)
+
+!!! INFO "Tannus tyres on Brompton for commuting"
+    I have used Tannus tyres on a 6-speed Bromtop to regularly commute over 40km per day (20km each way). They have been very durable and work well in all conditions.
+
+    I took of my Brompton pump and left in in my bicycle spares draw.
 
 
 ### Community Reviews
