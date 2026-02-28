@@ -35,8 +35,50 @@ A clean bike also weighs less, is more aero and looks nicer (especially when tak
 
 Keep the chain clean and it will last much longer, with less wear on the cassette and front chain rings.
 
-The inner part of the chain is the most important part to clean and lubricate.
+A clean chain can save between 10 to 25 watts compared to a dirty chain, especially in damp or wet conditions.
 
+The inner part of the chain, the rollers, are the most important part to clean and lubricate.
+
+### Cleaning
+
+My recommended approach is to invert the bicycle and use an old toothbrush (or similar) to brush the dirt from the chain.
+
+Apply liquid soap to the brush head (or spray a little on the chain).  Brush across the chain and slowly move the chain with the peddle.  Apply more soap as required until the chain has been brushed all the way around several times.
+
+Place the brush on the exposed side of a guide wheels (jockey wheel). Slowly move the peddle to rotate the guide wheel and start cleaning it.  Repeat for the other guide wheel.
+
+Pour water over the guide wheels whilst peddling slowly to clean the whole chain and guide wheels.  Once the chain looks clean, peddle faster to spin most of the water off the chain.
+
+Repeat this process if the chain still seems unclean.
+
+### Lubricate
+
+Ensure the chain is dry, using a cloth or paper towel.
+
+Use a bicycle lubricant and place a small drop on each roller of the chain.  Move the chain slowly to quickly apply a drop on each roller of the chain.
+
+Peddle the chain whilst changing gears on the rear cassette, allowing the lubricant to move all around each roller.
+
+Finally wipe all the excess lubricant from the chain, especially on the outside.  Excess lubrication will collect dirt and make lubrication less effective.
+
+!!! WARNING "Avoid lubricating the cassette or front rings"
+    Adding lubrication to the cassette will collect dirt which will then go onto the chain and cause wear.
+
+### Lubrication types
+
+A common lubrication oil is suitable for most riders.  Most oils are suitable for dry and wet weather riding.
+
+Wax is a high end approach to lubrication although there are many grades of wax with varying degrees of quality.  A quality wax will prolong the chain life longer than oil, if applied correctly and regularly cleaned and reapplied.
+
+Low quality waxes are no better than oil and may be worse, especially when they start collecting dirt.
+
+Not all waxes are suitable for wet conditions and can cause additional wear to chain and cassette.
+
+
+!!! WARNING "WD40 is a not a bicycle lubricant"
+    WD40 is a solvent that is more useful as a cleaning product than a lubricant.  WD40 strips away grease that would lubricate the chain, evaporating quickly and leaving the chain more vulnerable to corrosion.
+
+### Typical chain weights
 
 | Manufacturer | Model | Speed | Weight (grams) | Cost GBP |
 | --- | --- | --- | --- | --- |
@@ -46,6 +88,12 @@ The inner part of the chain is the most important part to clean and lubricate.
 
 
 !!! TIP "Shimano stamped text should be on the outside of the chain when fitted correctly"
+
+!!! TIP "Cross-chaining adds more wear to a chain - losses 10-20 watts looses many watts of power"
+
+[Lab test of a dirty chain - GCN Tech](https://www.youtube.com/watch?v=aFwkW0CY7qA){target=_blank .md-button}
+
+Keeping a higher cadence is more power efficient as the watt resistance is higher in smaller cassette gears, because of increased friction in the chain as it traverses the cassette.  Using larger guide wheels in the derailleur (jockey wheels) helps to reduce friction.
 
 
 ### Chain Length
@@ -58,8 +106,17 @@ If the chain being replaced was damaged it may not be the right length.  Wrap th
 
 ### Chain wear
 
-The inner rollers are the part of the chain that wears and drives the replacement of the chain.
+The inner rollers are the part of the chain that wears out, causing the chain to effectively 'stretch' in length.
 
-Once a chain has worn 50% then it should be replaced to avoid damaging the rings of the rear cassette and front ring(s).
+Once a chain has worn more than 75% then it should be replaced to avoid damaging the rear cassette and front ring(s).
 
-Timely changing a chain significantly extends the life of the rear cassette.
+It is common to change a chain twice or three times for the life of a cassette.
+
+
+## Tyres
+
+- inner tube
+- tubless (sealant)
+- solid
+
+### Tubless
