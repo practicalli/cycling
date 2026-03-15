@@ -41,7 +41,11 @@ These routes provide a good workout without completely exhausting the body.  The
 
 [Crowhurst Edenbridge ToysHill SundridgeHill](https://ridewithgps.com/routes/53656540){target=_blank .md-button}
 
-[Toys Hill both sides and Hogtrough Hill](https://ridewithgps.com/routes/53756318){target=_blank .md-button}
+[Toys Hill both sides, back via Hogtrough Hill](https://ridewithgps.com/routes/53756318){target=_blank .md-button}
+
+[Toys Hill both sides, back via Star Hill](https://ridewithgps.com/routes/54246962){target=_blank .md-button}
+
+[Toys Hill both sides, back via Pol Hill](https://ridewithgps.com/routes/54234843){target=_blank .md-button}
 
 
 ### Surrey Hills National Park
