@@ -2,53 +2,13 @@
 icon: lucide/shirt
 ---
 
-# Cycling Kit
 
-Well-fitting and appropriate cycling kit makes for a wonderful cycling experience.  Regular cyclists should invest in quality products.
+# Cycling Kit reviews
 
-Make the most out of your kit by layering items, so that the same kit can be worn all year around with help from additional layers on colder and wet days.
+I have worn many different brands over the last two decades, starting with padded shorts from Lidl and gradually investing in quality clothing.
 
-Many companies now produce environmentally friendly kit, using recycled materials.  These are just at good a quality as kit from virgin materials and are far kinder to the planet we all live on.
+Most of the clothing has lasted a long time and has been well worth the investment.
 
-??? TIP "Look for End of season sales"
-    Quality kit can be bought for less from September onward, when the cycling season comes to an end and companies look to sell that years stock before new designs are released the next year.
-
-    Black Friday and winter holiday sales have become more common.
-
-## Types of kit
-
-<div class="grid cards" markdown>
-
--   __Essential kit__
-
-    ---
-
-    - Bib shorts
-    - Base layer
-    - Jersey
-    - Jacket
-    - Shoes
-    - Gloves
-    - Socks
-    - Glasses
-
--   __Cold & Wet Weather__
-
-    ---
-
-    - Knee & leg warmers
-    - arm warmers
-    - over-socks
-    - over-shoes
-    - snood (neck warmer)
-
-</div>
-
-
-
-## Recommended brands
-
-There are numerous brands that sell clothing, from entry level to premium quality kit.  The more you ride the more its worth getting a high level of quality.
 
 ### SpatzWear
 

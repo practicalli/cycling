@@ -83,8 +83,9 @@ nav = [
   { "Introduction" = "index.md" },
 
   { "Clothes" = [
-    { "Basic Kit" = "kit.md" }
-  ] },
+    { "Overview" = "clothes/index.md" },
+    { "Cycling Kit" = "clothes/cycling-kit.md" },
+  ]},
 
   # Bicycles & components
   {"Bicycles & components" = [
