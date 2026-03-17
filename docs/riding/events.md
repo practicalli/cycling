@@ -5,13 +5,11 @@ icon: lucide/calendar-1
 
 # Cycling Events
 
-Events happening soon:
+Joining an organised event or creating your own event is a great way to cycle socially.
 
-- [8 March 2026 - Sunday - Kent Invicta Hilly 50 ](#kent-invicta-hilly-50) - Otford
-- [8 March 2026 - Sunday - Kent Invicta Grimpeur 100](#kent-invicta-grimpeur-100) - Otford
-- [12 April 2026 - Sunday - The Shark](#the-shark) - Greenwich
-- [25 April 2026 - Oasts & Coasts 300km](#oasts-coasts-300km) - Meopham
-- [10 May 2026 - Sunday - Hop Gardens 100km](#hop-gardens-100km) - Meopham
+There are many cycling clubs and cycling event organisations that regularly run events.
+
+Most cycling clubs have social rides that are welcoming to new or less experienced cyclists.
 
 
 ## Kent Rides

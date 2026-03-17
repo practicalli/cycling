@@ -88,34 +88,38 @@ nav = [
 
   # Bicycles & components
   {"Bicycles & components" = [
-    { "Choosing a bike" = "choosing-a-bike.md" },
-    { "Bike Fit" = "bike-fit.md" },
-    { "Components" = "components.md" },
-    { "Lights" = "lights.md" },
-    { "Computers & Sensors" = "computers-sensors.md" },
+    { "Choosing a bike" = "bicycle-components/choosing-a-bike.md" },
+    { "Bike Fit" = "bicycle-components/bike-fit.md" },
+    { "Components" = "bicycle-components/components.md" },
+    { "Lights" = "bicycle-components/lights.md" },
+    { "Computers & Sensors" = "bicycle-components/computers-sensors.md" },
   ]},
 
   # Riding
   { "Riding" = [
-    { "Events" = "events.md" },
-    { "Route Planning" = "route-planning.md" },
-    { "Routes" = "routes.md" },
-    { "Ride experiences" = "experiences.md" },
+    { "Overview" = "riding/index.md" },
+    { "Events" = "riding/events.md" },
+    { "Route Planning" = "riding/route-planning.md" },
+    { "Routes" = "riding/routes.md" },
+    { "Ride experiences" = "riding/experiences.md" },
     # { "Group Riding" = "group-riding.md" },
-    { "Hills" = "hills.md" },
+    { "Hills" = "riding/hills.md" },
   ]},
 
   # Training
 
   { "Training" = [
-    { "Training Overview" = "training.md" },
-    { "Training Plan" = "training-plan.md" },
-  ] },
+    { "Overview" = "training/index.md" },
+    { "Winter-Spring Plan" = "training/plan-winter-spring.md" },
+    { "Hill Climbing" = "training/hill-climbing.md" },
+    { "Long Distance" = "training/long-distance.md" },
+  ]},
 
   # Maintenance & Tools
   { "Maintenance" = [
-    { "Toolbag" = "toolbag.md" },
-    { "Maintenance" = "maintenance.md" },
+    { "Overview" = "maintenance/index.md" },
+    { "Toolbag" = "maintenance/toolbag.md" },
+    { "Workshop Tools" = "maintenance/workshop-tools.md" },
   ]},
 
   { "First Aid" = "first-aid.md" },
