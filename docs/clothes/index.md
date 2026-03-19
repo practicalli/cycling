@@ -16,7 +16,7 @@ Many companies now produce environmentally friendly kit, using recycled material
     Black Friday and winter holiday sales have become more common.
 
 
-[Cycling kit](kit.md){.md-button}
+[Cycling kit](cycling-kit.md){.md-button}
 
 
 ## Wash with care
