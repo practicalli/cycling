@@ -10,7 +10,10 @@ Common sites for creating and sharing routes include:
 
 - [Ride With GPS](https://ridewithgps.com/) to view, share, edit & create new routes.
 - [Komoot](https://www.komoot.com/) view, share, edit & create new routes.
-- [Climb Finder](https://climbfinder.com/) to find significant ascents to include in your route planning
+- [Climb Finder](https://climbfinder.com/) - satistics and visuals for a large collection of hills.
+- [BikeClimbs](https://bikeclimbs.com/) - top bike climbs by country (has links for VeloViewer, Google Street View and Strava)
+- [Strava](https://www.strava.com/) shows routes and ride history, personal bests, etc.
+- [Interactive Hill Climb Calculator](https://www.broleur.com/hill-climb-calculator/) - calculate hill climb time based on assumed effort
 
 ??? INFO "Free Accounts or Subscription required for most features"
     Route planning sites provide basic features without subscription, although to save changes will require a free account.  A subscription is required to access the full range of features for each site.
