@@ -111,6 +111,7 @@ nav = [
 
   { "Training" = [
     { "Overview" = "training/index.md" },
+    { "Breathing" = "training/breathing.md" },
     { "Winter-Spring Plan" = "training/plan-winter-spring.md" },
     { "Hill Climbing" = "training/hill-climbing.md" },
     { "Long Distance" = "training/long-distance.md" },
