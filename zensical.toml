@@ -120,6 +120,7 @@ nav = [
   # Maintenance & Tools
   { "Maintenance" = [
     { "Overview" = "maintenance/index.md" },
+    { "Essentials" = "maintenance/essentials.md" },
     { "Toolbag" = "maintenance/toolbag.md" },
     { "Workshop Tools" = "maintenance/workshop-tools.md" },
   ]},
