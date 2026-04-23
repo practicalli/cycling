@@ -32,13 +32,26 @@ Call outs examples, can use Octocons and Fontawesome icons.
 
 ### Inline Admonitions
 
-!!! info inline end "Sidebar Info"
+!!! INFO inline end "Sidebar Info"
     This admonition floats to the right side of the page, allowing text to flow around it.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa. This text wraps around the inline admonition.
+Add `inline` and either `start` or `end` after the admonition kind.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
 
+The Lorem ipsum text wraps around the inline admonition, set to the end of the line.
+
+
+??? EXAMPLE "Inline Admonition code"
+    ```markdown
+    !!! INFO inline end "Sidebar Info"
+        This admonition floats to the right side of the page, allowing text to flow around it.
+    ```
+
+    ```markdown
+    !!! INFO inline start "Sidebar Info"
+        This admonition floats to the left side of the page, allowing text to flow around it.
+    ```
 
 ## Buttons
 
