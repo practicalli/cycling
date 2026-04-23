@@ -44,9 +44,19 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 Use styled buttons for calls to action:
 
+- `{ .md-button .md-button--primary }` defines a primary button
+- `:material-rocket-launch:` emoji name to include an icon as part of the button name
+
 [Choose A Bike :material-rocket-launch:](choosing-a-bike.md){ .md-button .md-button--primary }
 [GitHub Repository :fontawesome-brands-github:](https://github.com/practicalli/cycling){ .md-button }
 [Practicalli Website](https://practical.li/){ .md-button }
+
+??? EXAMPLE "Styled buttons code"
+    ```markdown
+    [Choose A Bike :material-rocket-launch:](choosing-a-bike.md){ .md-button .md-button--primary }
+    [GitHub Repository :fontawesome-brands-github:](https://github.com/practicalli/cycling){ .md-button }
+    [Practicalli Website](https://practical.li/){ .md-button }
+    ```
 
 
 ## Icons
