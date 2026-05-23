@@ -1,9 +1,22 @@
 name: Documentation
 on:
-  push:
+  # Manually trigger workflow
+  workflow_dispatch:
+
+  workflow_run:
+    workflows:
+      - "MegaLinter"
+    paths:
+      - "docs/**"
+      - "includes/**"
+      - "overrides/**"
+      - "mkdocs.yaml"
+        "zensical.toml"
     branches:
-      - master
       - main
+    types:
+      - completed
+
 permissions:
   contents: read
   pages: write
