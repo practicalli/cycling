@@ -1,10 +1,10 @@
-# ------------------------------------------------ #
-# Practicalli Makefile
+# ------------------------------------------
+# Practicalli: Makefile
 #
-# Consistent set of targets to support local development of Clojure
-# and build the Clojure service during CI deployment
+# Consistent set of targets to support local book development
 #
 # `-` before a command ignores any errors returned
+# ------------------------------------------
 
 # Requirements
 # - python
@@ -81,6 +81,12 @@ docs-build:  ## Build docs locally
 docs-debug:  ## Run local server in debug mode
 	$(info -- Local Server Debug --------------------)
 	$(DOCS_SERVER) -v
+
+mkdocs:  ## Build and run mkdocs in local server
+	$(info --------- Mkdocs Local Server ---------)
+	mkdocs serve --dev-addr localhost:7777
+
+dist: docs-build ## Build mkdocs website
 # ------------------------------------------------ #
 
 # ------- Version Control ------------------------ #
