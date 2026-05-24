@@ -1,21 +1,27 @@
-name: Documentation
-on:
-  # Manually trigger workflow
-  workflow_dispatch:
+# Workflow to conditionally publish a Zensical project
+#
+# Manual trigger
 
-  workflow_run:
+name: Build & Publish Zensical Docs
+
+
+on:
+  workflow_dispatch:  # Manually trigger workflow
+
+  workflow_run:       # After successful Megalinger workflow run
     workflows:
       - "MegaLinter"
-    paths:
-      - "docs/**"
-      - "includes/**"
-      - "overrides/**"
-      - "mkdocs.yaml"
-        "zensical.toml"
-    branches:
-      - main
-    types:
-      - completed
+
+  paths:              # Only if one of the specified paths is changed
+    - "docs/**"
+    - "includes/**"
+    - "overrides/**"
+    - "mkdocs.yaml"
+      "zensical.toml"
+  branches:
+    - main
+  types:
+    - completed
 
 permissions:
   contents: read
