@@ -20,6 +20,7 @@ Changes should be made in small increments and tested before making further chan
 
 > NOTE: consider a professional in-depth bike fit for long distance or high performance riding
 
+
 ## Mini bike fit
 
 A mini bike fit should ensure that a rider is in a good position for the bicycle they ride.
@@ -40,9 +41,14 @@ A bike fit always starts with the feet and peddles, as this is where the body dr
 
 The correct size riding shoe should ensure the foot is not pinched or squashed.  Badly fitting shoes lead to pain, blisters and deformation of the toes.
 
-Wide-fit shoes are available from [Lake]() and [Bolt]().
+A few shoe manufacturers offer more range in sizes:
 
-> NOTE: cycling shoes are notorious for optimising aero efficiently over comfort.
+- [Lake](https://uk.lakecycling.com/) shoes available in standard and wide sizes.
+- [Bont](https://bontcycling.com/) provides wide fit and custom options (different size for each foot, etc.).
+
+
+??? NOTE "Cycling shoes are notorious for optimising aero efficiently over comfort"
+    Consider one or two sizes larger than your normal shoes or wide fit shoe.  Ensure you try out shoes before purchase and break the shoes in before undertaking a significant ride.
 
 
 ## Saddle
