@@ -52,19 +52,25 @@ Common Size Clincher Tyre ranges: 23C to 32C
     For club rides, any of these tyres would be suitable.
 
 
-### Tubuless tyres
+### Tubeless tyres
 
-A tubless tyre has no inner tube, instead relying on the tyre itself to keep in all the air.
+A tubeless tyre has no inner tube, instead relying on the tyre itself to keep in all the air.
 
 A liquid sealant is added as the tyre is fitted to repair punctures whist the bike is riding. Small punctures should seal before too much air escapes, avoiding the need to stop for a repair.
 
 If a larger puncture occurs that the sealant cannot fix, the rider will need to stop for a repair.  A 'plug' can be inserted into the wheel to help the sealant completely block the hole, allowing the tyre to be fully inflated again.
 
-Tubless tyres run at lower pressures (to avoid blowing off the wheel rim).  A lower pressure can give a more comfortable ride.  A lower pressure is less effective at flicking away flint and other sharp objects that cause punctures, but the sealant should hopefully compensate and keep the need for road-side repair.
+Tubeless tyres run at lower pressures (to avoid blowing off the wheel rim).  A lower pressure can give a more comfortable ride.
 
-Common Size tubless tyre ranges: 30C upward (only limited by the size a frame can support)
+A lower pressure is less effective at flicking away flint and other sharp objects that cause punctures, but the sealant should hopefully compensate and keep the need for road-side repair.
 
-!!! WARNING "28C Tyres and smaller require too high a pressure for tubless"
+Common Size tubeless tyre ranges: 30C upward (only limited by the size a frame can support)
+
+??? INFO "How to maintain tubeless tyres"
+    <p style="text-align:center">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/aWdE7b_OwAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </p>
+
 
 **Benefits**
 
@@ -85,6 +91,13 @@ Common Size tubless tyre ranges: 30C upward (only limited by the size a frame ca
     Tubeless Ready wheels have a solid inner surface (no holes to access spoke nipple heads), with only one hole for the valve stem.
 
     Tubless compatible wheels require tubless rim tape fitted. Using rim tape for clincher wheels on a tubless compatible wheel will result in air and sealant leaks once the tyre is inflated (quickly leading to a defalted tyre and broken rim tape)
+
+
+??? INFO "Why I'm no longer using Tubless - GCN"
+
+    <p style="text-align:center">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/3sPBMZaI-yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </p>
 
 
 ### Solid Airless Tyres
@@ -114,11 +127,6 @@ Tannus Airless tyres are a modern 'solid' tyre that never goes flat. Tannus also
     I have used Tannus tyres on a 6-speed Bromtop to regularly commute over 40km per day (20km each way). They have been very durable and work well in all conditions.
 
     I took of my Brompton pump and left in in my bicycle spares draw.
-
-
-### Community Reviews
-
-- [Why I'm no longer using Tubless - GCN]()
 
 
 ## Derailleur pulley wheels
