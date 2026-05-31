@@ -37,6 +37,7 @@ The plan is based on preparing for a 1 day ride, covering 160 km and climbing 2,
 - 4 recovery rides
 - regular walks / Yoga / Pilates 3 times a week
 - daily stretching ritual and breathing exercises
+- yoga and/or general strength training
 
 ## April / May
 
@@ -44,12 +45,22 @@ The plan is based on preparing for a 1 day ride, covering 160 km and climbing 2,
 - 4 recovery rides
 - regular walks / Yoga / Pilates 3 times a week
 - daily stretching ritual and breathing exercises
+- yoga and/or general strength training
+
+## June
+
+Start tapering off training to physically and mentally recover before the ride itself.
+
+Two weeks before the ride:
+
+- 2-3 recovery rides
+- daily stretching ritual and breathing exercises
+
+Week of the ride (rest week)
+
+- daily stretching ritual and breathing exercises
+- light yoga and/or general strength training
+- remove or limit causes of physical and mental stress
 
 
-# Suggested routes
-
-- distance: a long flat ride to Windsor Castle & back (review current route)
-ascent: north downs routes
-- distance & ascents: dymchurch
-- distance & ascents: brighton
-- distance & ascents: Isle of Wight
+!!! TIP "Avoid stress by preparing travel and kit well in advance"
