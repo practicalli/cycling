@@ -2,26 +2,22 @@
 #
 # Manual trigger
 
-name: Build & Publish Zensical Docs
-
+name: Publish Zensical Docs
 
 on:
+  push:
+    paths:              # Only if one of the specified paths is changed
+      - 'docs/**'
+      - 'includes/**'
+      - 'overrides/**'
+      - 'mkdocs.yaml'
+      - 'zensical.toml'
+
   workflow_dispatch:  # Manually trigger workflow
 
   workflow_run:       # After successful Megalinger workflow run
     workflows:
       - "MegaLinter"
-
-  paths:              # Only if one of the specified paths is changed
-    - "docs/**"
-    - "includes/**"
-    - "overrides/**"
-    - "mkdocs.yaml"
-      "zensical.toml"
-  branches:
-    - main
-  types:
-    - completed
 
 permissions:
   contents: read
