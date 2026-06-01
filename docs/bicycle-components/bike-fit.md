@@ -6,34 +6,37 @@ icon: lucide/bike
 
 Having the right sized bicycle that fits in all the right places makes a huge difference to enjoyment and performance when cycling.
 
-A bike fit will check your position of your whole body on your existing bicycle and make adjustments to avoid injury and improve performance.
+A poorly fitting bike can lead to discomfort, pain and even injury.
 
-The bicycle is fitted to a trainer so the rider can peddle the bike, allowing a holistic view of the rider in action.
+A bike fit will check your position of your whole body on your existing bicycle and make adjustments to avoid injury and improve cycling efficiency.
+
+The bicycle is fitted to a trainer or bike fit harness so the rider can peddle the bike, allowing a holistic view of the rider in action.
 
 Changes should be made in small increments and tested before making further changes.  A rider may need time to adapt to changes, so follow-up consultations are be invaluable, especially if significant changes to rider position are identified.
 
-!!! TIP "Have a bike fit before buying a new bike"
-    A bike fit is very useful before buying a new bicycle, to ensure the right frame size is selected cant really change the frame, only the components).
+??? TIP "A bike fit ensures the correct bicycle size"
+    The frame is the most significant part of the bicycle to change, so its important to get the right size and geometry for the type of riding planned.
 
-    A bike fit should be done for each make and model of bicycle, as there is no standard 'size' of bike across the industry. The angle of the seat tube and size of bike frame can vary significantly, afecting the size of frame needed.
+    Manufacturers are continually evolving bicycle design. Although there are many 'standards', there is no standard 'size' of bike frame across the industry.
+
+    The angle of the seat tube, size of tubes in the frame and where the tubes connect together (the geometry) can vary significantly, afecting the size of frame required.
+
+    A mini-bike fit should be done for each make and model of bicycle under consideration.
 
 
-> NOTE: consider a professional in-depth bike fit for long distance or high performance riding
+!!! INFO "Mini bike fit - New bicycle sizing"
 
+    A mini bike fit covers the essentials to ensure that a bicycle is in the 'fit window', determining if the bicycle is appropriate for the rider.
 
-## Mini bike fit
+    - saddle height to ensure legs are not stretching or bending excessively
+    - saddle position and angle, ensuring correct body contact
+    - rider reach to handle bars and controls, ensure a comfortable position
+    - hand positions on handlebars, ensuring comfort remains in various positions
 
-A mini bike fit should ensure that a rider is in a good position for the bicycle they ride.
+    The 'Fit Window' means that adjustments can be made to the bicycle to create the 'ideal fit' for the rider.
 
-- Cleats alighted correctly
-- saddle height to ensure legs are not stretching or bending excessively
-- saddle position and angle, ensuring correct body contact
-- rider reach to handle bars and controls, ensure a comfortable position
-- hand positions on handlebars, ensuring comfort remains in various positions
+    The height and inside leg measurements of the rider are taken to help identify their bike fit window.
 
-Measurements are taken of the existing bike geometry, so any changes can be reset if they prove ineffective.
-
-The height and inside leg measurements of the rider are taken to help identify their bike fit window.
 
 ## Peddles & Shoes
 
@@ -47,8 +50,10 @@ A few shoe manufacturers offer more range in sizes:
 - [Bont](https://bontcycling.com/) provides wide fit and custom options (different size for each foot, etc.).
 
 
-??? NOTE "Cycling shoes are notorious for optimising aero efficiently over comfort"
-    Consider one or two sizes larger than your normal shoes or wide fit shoe.  Ensure you try out shoes before purchase and break the shoes in before undertaking a significant ride.
+??? NOTE "Cycling shoes design comes from a history of optimising aero efficiently over comfort"
+    Consider one or two sizes larger than your normal shoes or a specific wide fit shoe.
+
+    Ensure you try out shoes before purchase and break the shoes in before undertaking a significant ride.
 
 
 ## Saddle
