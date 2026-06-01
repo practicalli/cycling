@@ -38,6 +38,22 @@ Changes should be made in small increments and tested before making further chan
     The height and inside leg measurements of the rider are taken to help identify their bike fit window.
 
 
+## Frame Geometry
+
+Essentially geometry terms
+
+| Term            | Description                                               | Affect on Ride                                                                   |
+| --------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Top Tube Length |	Horizontal distance between the seat post and handlebars  | Influence stretch & reach while riding. Longer = more aggressive position        |
+| Reach           |	Horizontal Distance from bottom bracket to top tube       | Key factor determining how stretched rider is. Important for sizing              |
+| Stack 	      | Vertical distance from the bottom bracket to the top tube | Higher stack creates a more upright posture; good for comfort and endurance      |
+| Head Tube Angle |	Angle of front steering axis                              | Slack angle (small number) = stable at speed; steep angle = responsive handling  |
+| Seat Tube Angle |	Angle of the seat tube in relation to the ground          | Steep angles place rider forward for better power transfer, especially on climbs |
+| Wheelbase       |	Distance between front and rear axles 	                  | Longer = more stability. Shorter = more agility and tighter turning              |
+
+Use reach and stack numbers to determine the correct frame size (over generic size names or seat tube length).
+
+
 ## Peddles & Shoes
 
 A bike fit always starts with the feet and peddles, as this is where the body drives the momentum of the bicycle.
