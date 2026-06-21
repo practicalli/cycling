@@ -18,17 +18,17 @@ Your cycling enthusiam may start with cycling to work and with a little investme
 
 ## About
 
-Practicalli Cycling is written by Johnny Rocket who has been riding for over 30 years, growing [experience in long distance and multi-day rides](experiences.md) over the last 20 years.
+Practicalli Cycling is written by Johnny Rocket who has been riding for over 30 years, growing [experience in long distance and multi-day rides](riding/experiences.md) over the last 20 years.
 
 These experiences shape the advice and opinions offered on this website.
 
 Johnny Rocket is currently living in South East of England, so most of the experiences are from that area.
 
-- [Charity rides](experiences.md#charity-rides) from London to Oxford & London to Cambridge
-- [Ride of the Falling Leaves](/docs/experiences.md#ride-of-the-falling-leaves) a challenging 100km around the Kent Alps
-- [Audax.uk rides](experiences.md#audax) of 50km to 600km or more, including [Oasts & Coasts](experiences.md#oasts-and-coasts-300) an accidental 420km ride round the East coast of Kent
-- [British Cycling Sportive](experiences.md#kent-tour-de-france-sportive) London to Canterbury a week before the 2007 Tour de France cyclists
-- [Lands End to John O'Groats](experiences.md#lands-end-to-john-ogroats) 9 day trip covering 16,000 km # climbing 20,000 meters
+- [Charity rides](riding/experiences.md#charity-rides) from London to Oxford & London to Cambridge
+- [Ride of the Falling Leaves](riding//experiences.md#ride-of-the-falling-leaves) a challenging 100km around the Kent Alps
+- [Audax.uk rides](riding/experiences.md#audax) of 50km to 600km or more, including [Oasts & Coasts](riding/experiences.md#oasts-and-coasts-300) an accidental 420km ride round the East coast of Kent
+- [British Cycling Sportive](riding/experiences.md#kent-tour-de-france-sportive) London to Canterbury a week before the 2007 Tour de France cyclists
+- [Lands End to John O'Groats](riding/experiences.md#lands-end-to-john-ogroats) 9 day trip covering 16,000 km # climbing 20,000 meters
 
 
 <!-- [Strava: Johnny Rocket](https://www.strava.com/athletes/31595960){.md-button} -->

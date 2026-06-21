@@ -18,7 +18,7 @@ The products are pricey but when treated with care they will last years and be w
 
 I love the SpatzWear kit I've bought, it feels so good to cycle in and is very aerodynamic.
 
-Base layers are amazing and I have worn the [Race Layer](wear.com/products/spatzwear-race-layer-short-sleeve-black-baselayer-racelayer){target=_blank} for most of the last 5 years, except for the hottest summer rides.  The base layer does an excellent job of wicking away sweat and is very comfortable on all day rides.
+Base layers are amazing and I have worn the [Race Layer](https://www.spatzwear.com/products/spatzwear-race-layer-short-sleeve-black-baselayer-racelayer){target=_blank} for most of the last 5 years, except for the hottest summer rides.  The base layer does an excellent job of wicking away sweat and is very comfortable on all day rides.
 
 On colder days I also wear the [Basez 2](https://www.spatzwear.com/products/spatzwear-basez-2-black-baselayer-basez2){target=_blank} a long sleeve base layer with high neck line.
 

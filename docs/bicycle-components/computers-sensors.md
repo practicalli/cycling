@@ -4,7 +4,7 @@ icon: lucide/bluetooth
 
 # Computers and Sensors
 
-A bike computer can provide navigation based on [routes](route-planning.md) and present statistics in real time on your ride, e.g. speed, cadence, hill gradients, distance to go, etc.
+A bike computer can provide navigation based on [routes](../riding/route-planning.md) and present statistics in real time on your ride, e.g. speed, cadence, hill gradients, distance to go, etc.
 
 Computers work with sensors fitted to the bike and the rider to provide highly accurate feedback and physical information about the rider (e.g. heart rate).
 

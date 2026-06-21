@@ -33,7 +33,7 @@ Mini versions of common workshop tools are perfect for carry on a ride.
 
 
 !!! TIP "First Aid Kit for Injuries"
-    [A first aid kit](first-aid.md) is recommended for any ride, especially a group ride or long distance ride.
+    [A first aid kit](../first-aid.md) is recommended for any ride, especially a group ride or long distance ride.
 
 
 ## My Saddle bag

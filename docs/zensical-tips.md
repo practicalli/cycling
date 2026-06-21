@@ -60,7 +60,7 @@ Use styled buttons for calls to action:
 - `{ .md-button .md-button--primary }` defines a primary button
 - `:material-rocket-launch:` emoji name to include an icon as part of the button name
 
-[Choose A Bike :material-rocket-launch:](choosing-a-bike.md){ .md-button .md-button--primary }
+[Choose A Bike :material-rocket-launch:](bicycle-components/choosing-a-bike.md){ .md-button .md-button--primary }
 [GitHub Repository :fontawesome-brands-github:](https://github.com/practicalli/cycling){ .md-button }
 [Practicalli Website](https://practical.li/){ .md-button }
 
@@ -95,10 +95,10 @@ The API endpoint processes requests through multiple stages.
 
 ## Hyperlinks
 
-[Link with Preview](bike-fit.md){ data-preview }. by adding `{ data-preview }` style after the URL
+[Link with Preview](bicycle-components/bike-fit.md){ data-preview }. by adding `{ data-preview }` style after the URL
 
 ```markdown
-[Link with Preview](bike-fit.md){ data-preview }
+[Link with Preview](bicycle-components/bike-fit.md){ data-preview }
 ```
 
 
