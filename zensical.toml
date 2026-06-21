@@ -155,9 +155,11 @@ nav = [
 # Section for configuring theme options
 # ----------------------------------------------------------------------------
 [project.theme]
+# https://jonathan343.github.io/catppuccin-zensical/
+name = "catppuccin"
 
 # change this to "classic" to use the traditional Material for MkDocs look.
-#variant = "classic"
+# variant = "classic"
 
 # Zensical allows you to override specific blocks, partials, or whole
 # templates as well as to define your own templates. To do this, uncomment
@@ -342,22 +344,60 @@ features = [
 # - https://zensical.org/docs/setup/colors/
 # ----------------------------------------------------------------------------
 # Palette toggle for light mode
-[[project.theme.palette]]
-scheme = "default"
-media = "(prefers-color-scheme: light)"
-toggle.icon = "lucide/sun"
-toggle.name = "Switch to dark mode"
-primary = "purple"
-accent = "green"
+# [[project.theme.palette]]
+# # scheme = "default"
+# media = "(prefers-color-scheme: light)"
+# toggle.icon = "lucide/sun"
+# toggle.name = "Switch to dark mode"
+# # primary = "purple"
+# # accent = "green"
+#
+# # # Palette toggle for dark mode
+# [[project.theme.palette]]
+# # scheme = "slate"
+# media = "(prefers-color-scheme: dark)"
+# toggle.icon = "lucide/moon"
+# toggle.name = "Switch to light mode"
+# primary = "green"
+# accent = "purple"
 
-# # Palette toggle for dark mode
+
+# ----------------------------------------------------------------------------
+# This site cycles through all four Catppuccin flavors so visitors can see
+# every palette in action. The toggle in the header advances:
+# Mocha -> Macchiato -> Frappé -> Latte -> Mocha.
+#
+# Read more:
+# - https://zensical.org/docs/setup/colors/
+# ----------------------------------------------------------------------------
 [[project.theme.palette]]
-scheme = "slate"
-media = "(prefers-color-scheme: dark)"
+scheme = "catppuccin-mocha"
+primary = "custom"
+accent = "custom"
 toggle.icon = "lucide/moon"
-toggle.name = "Switch to light mode"
-primary = "green"
-accent = "purple"
+toggle.name = "Switch to Macchiato"
+
+[[project.theme.palette]]
+scheme = "catppuccin-macchiato"
+primary = "custom"
+accent = "custom"
+toggle.icon = "lucide/cloud-moon"
+toggle.name = "Switch to Frappé"
+
+[[project.theme.palette]]
+scheme = "catppuccin-frappe"
+primary = "custom"
+accent = "custom"
+toggle.icon = "lucide/cloud-sun"
+toggle.name = "Switch to Latte"
+
+[[project.theme.palette]]
+scheme = "catppuccin-latte"
+primary = "custom"
+accent = "custom"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to Mocha"
+
 
 
 # ----------------------------------------------------------------------------
