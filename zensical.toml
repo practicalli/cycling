@@ -200,21 +200,21 @@ language = "en"
 # of the documentation site.
 features = [
     # Zensical includes an announcement bar. This feature allows users to
-    # dismiss it then they have read the announcement.
+    # dismiss it when they have read the announcement.
     # https://zensical.org/docs/setup/header/#announcement-bar
     "announce.dismiss",
 
-    # If you have a repository configured and turn feature this on, Zensical
+    # If you have a repository configured and turn on this feature, Zensical
     # will generate an edit button for the page. This works for common
     # repository hosting services.
-    # https://zensical.org/docs/setup/repository/#code-actions
-    "content.action.edit",
+    # https://zensical.org/docs/setup/repository/#content-actions
+    #"content.action.edit",
 
-    # If you have a repository configured and turn feature this on, Zensical
+    # If you have a repository configured and turn on this feature, Zensical
     # will generate a button that allows the user to view the Markdown
     # code for the current page.
-    # https://zensical.org/docs/setup/repository/#code-actions
-    "content.action.view",
+    # https://zensical.org/docs/setup/repository/#content-actions
+    #"content.action.view",
 
     # Code annotations allow you to add an icon with a tooltip to your
     # code blocks to provide explanations at crucial points.
@@ -242,7 +242,8 @@ features = [
     # https://zensical.org/docs/authoring/content-tabs/#linked-content-tabs
     "content.tabs.link",
 
-    # TODO: not sure I understand this one? Is there a demo of this in the docs?
+    # With this feature enabled users can add tooltips to links that will be
+    # displayed when the mouse pointer hovers the link.
     # https://zensical.org/docs/authoring/tooltips/#improved-tooltips
     "content.tooltips",
 
@@ -305,7 +306,7 @@ features = [
     # When sticky tabs are enabled, navigation tabs will lock below the header
     # and always remain visible when scrolling down.
     # https://zensical.org/docs/setup/navigation/#sticky-navigation-tabs
-    #"navigation.tabs.sticky",
+    "navigation.tabs.sticky",
 
     # A back-to-top button can be shown when the user, after scrolling down,
     # starts to scroll up again.
@@ -335,32 +336,21 @@ features = [
 ]
 
 # ----------------------------------------------------------------------------
-# In the "palette" subsection you can configure options for the color scheme.
-# You can configure different color # schemes, e.g., to turn on dark mode,
-# that the user can switch between. Each color scheme can be further
-# customized.
+# You can configure your own logo to be shown in the header using the "logo"
+# option in the "theme" subsection. The logo must be a relative path to a file
+# in your "docs_dir", e.g., to use `docs/assets/logo.png` you would set:
+# ----------------------------------------------------------------------------
+# logo = "assets/clojure-logo.png"
+
+# ----------------------------------------------------------------------------
+# If you don't have a dedicated project logo, you can use a built-in icon from
+# the icon sets shipped in Zensical. Please note that the setting lives in a
+# different subsection, and that the above take precedence over the icon.
 #
 # Read more:
-# - https://zensical.org/docs/setup/colors/
+# - https://zensical.org/docs/setup/logo-and-icons
+# - https://github.com/zensical/ui/tree/master/dist/.icons
 # ----------------------------------------------------------------------------
-# Palette toggle for light mode
-# [[project.theme.palette]]
-# # scheme = "default"
-# media = "(prefers-color-scheme: light)"
-# toggle.icon = "lucide/sun"
-# toggle.name = "Switch to dark mode"
-# # primary = "purple"
-# # accent = "green"
-#
-# # # Palette toggle for dark mode
-# [[project.theme.palette]]
-# # scheme = "slate"
-# media = "(prefers-color-scheme: dark)"
-# toggle.icon = "lucide/moon"
-# toggle.name = "Switch to light mode"
-# primary = "green"
-# accent = "purple"
-
 
 # ----------------------------------------------------------------------------
 # This site cycles through all four Catppuccin flavors so visitors can see
@@ -398,7 +388,9 @@ accent = "custom"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to Mocha"
 
-
+[project.theme.icon]
+logo = "lucide/bike"
+repo = "lucide/bike"
 
 # ----------------------------------------------------------------------------
 # In the "font" subsection you can configure the fonts used. By default, fonts
@@ -406,33 +398,19 @@ toggle.name = "Switch to Mocha"
 # of suitably licensed fonts. There are options for a normal text font and for
 # a monospaced font used in code blocks.
 # ----------------------------------------------------------------------------
-#[project.theme.font]
-#text = "Inter"
-#code = "Jetbrains Mono"
-
 [project.theme.font]
 text = "Ubuntu"
 code = "Ubuntu Mono"
 
 # ----------------------------------------------------------------------------
-# You can configure your own logo to be shown in the header using the "logo"
-# option in the "icons" subsection. The logo can be a path to a file in your
-# "docs_dir" or it can be a path to an icon.
-#
-# Likewise, you can customize the logo used for the repository section of the
-# header. Zensical derives the default logo for this from the repository URL.
-# See below...
-#
-# There are other icons you can customize. See the documentation for details.
+# In the "palette" subsection you can configure options for the color scheme.
+# You can configure different color schemes, e.g., to turn on dark mode,
+# that the user can switch between. Each color scheme can be further
+# customized.
 #
 # Read more:
-# - https://zensical.org/docs/setup/logo-and-icons
-# - https://zensical.org/docs/authoring/icons-emojis/#search
+# - https://zensical.org/docs/setup/colors/
 # ----------------------------------------------------------------------------
-#[project.theme.icon]
-logo = "lucide/bike"
-repo = "lucide/bike"
-
 
 [project.theme.icon.admonition]
 
