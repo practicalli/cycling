@@ -29,6 +29,7 @@ Johnny Rocket is currently living in South East of England, so most of the exper
 - [Audax.uk rides](riding/experiences.md#audax) of 50km to 600km or more, including [Oasts & Coasts](riding/experiences.md#oasts-and-coasts-300) an accidental 420km ride round the East coast of Kent
 - [British Cycling Sportive](riding/experiences.md#kent-tour-de-france-sportive) London to Canterbury a week before the 2007 Tour de France cyclists
 - [Lands End to John O'Groats](riding/experiences.md#lands-end-to-john-ogroats) 9 day trip covering 16,000 km # climbing 20,000 meters
+- [Dragon Ride 2026](riding/experiences.md#dragon-ride) 9 day trip covering 16,000 km # climbing 20,000 meters
 
 
 <!-- [Strava: Johnny Rocket](https://www.strava.com/athletes/31595960){.md-button} -->

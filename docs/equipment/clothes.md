@@ -16,17 +16,14 @@ Many companies now produce environmentally friendly kit, using recycled material
     Black Friday and winter holiday sales have become more common.
 
 
-[Cycling kit](cycling-kit.md){.md-button}
-
-
-## Wash with care
+### Wash with care
 
 Wash clothes as soon as possible after a ride to remove sweat that can increase wear.
 
 Use wash bags as cycling kit can be quite delicate or have zips that may cause damage to other clothing.  A diligent use of wash bags for each item (or group of similar material items) will extend the life of your clothes.
 
 
-## Recommended Brands
+### Recommended Brands
 
 There are numerous brands that sell cycle clothing, from entry level to premium quality kit.  The more you ride the more its worth getting a high level of quality.
 

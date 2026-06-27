@@ -205,3 +205,22 @@ After the Strava finish the road comes thorugh a small village and towards the e
 
 
 ### Leith Hill
+
+A tree-lined adventure through the Surrey Hills area of natural beauty (AONB).
+
+
+## Cumbria
+
+### Hardknott Pass
+
+Treat yourself to some of Yorkshire's best views
+
+Hardknott Pass starts with a cattle grid that can dint momentum. Then follows sections of steep hairpin bends, not dissimilar to the Dolomite.
+
+Thanks to the exposed climb, the ascent provides some of the best views of the Cumbrian landscape.
+
+- Location: Cumbria, UK
+- Length: 2.6km
+- Average gradient: 11.5%
+- Maximum gradient: 20.5%
+- Elevation gain: 301m

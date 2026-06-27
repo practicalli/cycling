@@ -82,32 +82,29 @@ Copyright &copy; 2026 Practicalli
 nav = [
   { "Introduction" = "index.md" },
 
-  { "Clothes" = [
-    { "Overview" = "clothes/index.md" },
-    { "Cycling Kit" = "clothes/cycling-kit.md" },
+  { "Equipment" = [
+    { "Overview" = "equipment/index.md" },
+    { "Choosing a bike" = "equipment/choosing-a-bike.md" },
+    { "Clothes" = "equipment/clothes.md" },
+    { "Lights" = "equipment/lights.md" },
+    { "Computers & Sensors" = "equipment/computers-sensors.md" },
+    { "Components" = "equipment/bike-components.md" },
+    { "Bike Fit" = "equipment/bike-fit.md" },
   ]},
 
-  # Bicycles & components
-  {"Bicycles & components" = [
-    { "Choosing a bike" = "bicycle-components/choosing-a-bike.md" },
-    { "Bike Fit" = "bicycle-components/bike-fit.md" },
-    { "Components" = "bicycle-components/components.md" },
-    { "Lights" = "bicycle-components/lights.md" },
-    { "Computers & Sensors" = "bicycle-components/computers-sensors.md" },
-  ]},
+  { "Events" = [
+      { "Upcoming" = "events/index.md" },
+      { "Audax" = "events/audax.md" },
+      { "Sportive" = "events/sportive.md" },
+    ]},
 
-  # Riding
-  { "Riding" = [
-    { "Overview" = "riding/index.md" },
-    { "Events" = "riding/events.md" },
-    { "Route Planning" = "riding/route-planning.md" },
-    { "Routes" = "riding/routes.md" },
-    { "Ride experiences" = "riding/experiences.md" },
-    # { "Group Riding" = "group-riding.md" },
-    { "Hills" = "riding/hills.md" },
+  { "Routes" = [
+    { "Overview" = "routes/index.md" },
+    { "Planning" = "routes/route-planning.md" },
+    { "Curated Routes" = "routes/routes.md" },
+    { "Ride experiences" = "routes/experiences.md" },
+    { "Hill Challenges" = "routes/hills.md" },
   ]},
-
-  # Training
 
   { "Training" = [
     { "Overview" = "training/index.md" },
@@ -115,6 +112,7 @@ nav = [
     { "Winter-Spring Plan" = "training/plan-winter-spring.md" },
     { "Hill Climbing" = "training/hill-climbing.md" },
     { "Long Distance" = "training/long-distance.md" },
+    # { "Group Riding" = "training/group-riding.md" },
   ]},
 
   # Maintenance & Tools

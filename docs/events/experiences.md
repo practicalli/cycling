@@ -6,6 +6,79 @@ icon: lucide/mountain-snow
 
 Notable cycling events ridden by Johnny Rocket over the last few decades.
 
+## Dragon Ride
+
+The Dragon ride is considered one of the most challenging 'sportives' in the United Kingdom.  Not surprisingly as even the least challenging route climbs 2 mountain passes.
+
+Tuesday I organised my kit and necessities for the Dragon Ride trip.
+
+Saturday I was picked up at 3pm from my house and we wired up my bike to the bike rack.
+
+I tactically used protective tubing (from the delivery of the Fulcrum wheels) to wrap points on the bike that might touch or rub together.  There is something about wrapping a bike that I enjoy!
+
+Around 7.30pm we arrived at the Red Rock Wild Camping site and unloaded my bike from the rack.  It was still in excellent condition.
+
+It was gloriously sunny at the camp and I found a nice spot to pitch my tent by the lake.  It only took a few minutes and I was up and running.
+
+The camp was full of other people doing the Dragon Ride.
+
+![Dragon Ride: tent pitched by the lake at Red Rocks Wild Camping in Margam](https://github.com/practicalli/graphic-design/blob/live/cycling/2026-06-13%20dragon%20ride%20-%20redrock-wild-camping-tent-by-lake.jpg?raw=true){loading=lazy}
+
+Sunday morning I fitted the front wheel on my bike (removed to I could sleep with it in the tent).  Unfortunately the brake disc were catching the rotor even when pushing the bike.
+
+I had woken up quite early, so I headed to the Dragon Ride event village early to see if the mechanics can work some magic.  I had to wait about 20 minutes, but they fixed the issue and the bike was running very smoothly.
+
+The ride was tough although the first climb up the Bwlch was not quite as challenging as I thought.  The ascent was hard, but by the time I reached the top I was feeling more confident about the ride.
+
+The decent down the other side of the Bwlch was exhilarating, as was the decent down the Rhegos.
+
+The hardest part was the Devils Elbow.  I ascended at 4km/h, barely going faster than those walking up the climb.  I just focused on putting peddle after another and the next thing I know I am at the top.
+
+I stopped just before the top to take a few photos, so my timed climb was nearly 20 minutes.
+
+Sunday evening and the Dragon Ride was slayed.  I managed a total time of 7 hours and 41 minutes (including feed stops and camera ops).
+
+Moving time on Strava was 7 hours 16 minutes.
+
+
+## Hydrate or die
+
+![Mini Electrolyte tube for 8 tablets](https://github.com/practicalli/graphic-design/blob/live/cycling/cycling-electrolyte-tables-size-8-tube.jpg?raw=true){align=right loading=lazy style="width:150px"}
+
+Electrolyte tablets are an important additive to water when riding. I add one table for each water bottle on every ride.
+
+On longer trips I take extra tables. They come in a large tube which can rattles on a ride when the tube isnt full.  The tablets need to be kept in some kind of protection, otherwise the tablets would dissolve.
+
+By cutting a depleted tube to a smaller size I can carry only the needed amount of tablets, reducing rattling and a little weight.
+
+
+### Cycling Kit
+
+The weather for the dragon ride looks positive, dry with temperatures between 15-24 Celsius.
+
+The temperature will decrease the higher the elevation, so at the top of each mountain it should be no more than 20 Celsius.
+
+I decided to take Spatzwear kit for almost everything, except mittens and merino short socks.
+
+I have a Spatzwear base layer, jersey (with extra pockets), cargo bib shorts with extra pockets, gilet and arm & leg warmers for extra warmth.
+
+In case of rain, I'm also taking the Gore Shakedry waterproof jacket that packs away and fits in the pocket of my jersey or gilet.
+
+![Dragon ride cycle kit, mostly spatzwear](https://github.com/practicalli/graphic-design/blob/live/cycling/cycling-kit-spatzwear-layed-out.jpg?raw=true){loading=lazy}
+
+The Spetzwear cycling kit is very high quality and very comfortable to wear.  Its also very aero which will help on a very long ride.
+
+The Spatzwear kit also packs down to a very small size.
+
+![Spatzwear kit packed up small](https://github.com/practicalli/graphic-design/blob/live/cycling/cycling-kit-packed.jpg?raw=true){loading=lazy}
+
+The kit and camping equipment packs nicely in the same rucksack that I bought for the Lands End to John O'Groats ride back in 2019.
+
+The tent is strapped to the side of the rucksack.
+
+![45km tactical rucksack for kit and camping equipment](https://github.com/practicalli/graphic-design/blob/live/cycling/cycling-rucksack-and-tent.jpg?raw=true){loading=lazy}
+
+
 ## Charity Rides
 
 My enthusiasm for long distance cycling started with charity rides.  Raising money for charity helped shape my motivation and ensured I actually turned up for the rides.

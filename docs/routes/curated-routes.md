@@ -2,7 +2,7 @@
 icon: lucide/map
 ---
 
-# Routes
+# Curated Routes
 
 A curated selection of routes that the Practicalli team recommends.
 
