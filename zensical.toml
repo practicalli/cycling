@@ -17,7 +17,7 @@ site_name = "Practicalli Cycling"
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "Practical advice for long didstance cycling and cycle maintenance"
+site_description = "Practical advice for long distance cycling and cycle maintenance"
 
 # The site_author attribute. This is used in the HTML head element.
 #
