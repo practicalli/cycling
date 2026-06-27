@@ -60,13 +60,13 @@ Use styled buttons for calls to action:
 - `{ .md-button .md-button--primary }` defines a primary button
 - `:material-rocket-launch:` emoji name to include an icon as part of the button name
 
-[Choose A Bike :material-rocket-launch:](bicycle-components/choosing-a-bike.md){ .md-button .md-button--primary }
+[Choose A Bike :material-rocket-launch:](index.md){ .md-button .md-button--primary }
 [GitHub Repository :fontawesome-brands-github:](https://github.com/practicalli/cycling){ .md-button }
 [Practicalli Website](https://practical.li/){ .md-button }
 
 ??? EXAMPLE "Styled buttons code"
     ```markdown
-    [Choose A Bike :material-rocket-launch:](choosing-a-bike.md){ .md-button .md-button--primary }
+    [Choose A Bike :material-rocket-launch:](index.md){ .md-button .md-button--primary }
     [GitHub Repository :fontawesome-brands-github:](https://github.com/practicalli/cycling){ .md-button }
     [Practicalli Website](https://practical.li/){ .md-button }
     ```
@@ -95,10 +95,10 @@ The API endpoint processes requests through multiple stages.
 
 ## Hyperlinks
 
-[Link with Preview](bicycle-components/bike-fit.md){ data-preview }. by adding `{ data-preview }` style after the URL
+[Link with Preview](index.md){ data-preview }  by adding `{ data-preview }` style after the URL
 
 ```markdown
-[Link with Preview](bicycle-components/bike-fit.md){ data-preview }
+[Link with Preview](index.md){ data-preview }
 ```
 
 
@@ -115,8 +115,8 @@ Use a reference style link where there are multiple links on a page for one URL.
 
 Our [data API][api-ref] and [metadata system][metadata-ref].
 
-[api-ref]: ../api/index.md
-[metadata-ref]: ../architecture/metadata/index.md
+[api-ref]: index.md
+[metadata-ref]: index.md
 
 
 ## Images
@@ -185,7 +185,7 @@ The ETL pipeline[^1] processes data from multiple international organizations[^2
     - OECD
     - National statistical agencies
 
-[^3]: Our REST API provides programmatic access to all OWID datasets. See the [API documentation](../api/index.md) for details.
+[^3]: Our REST API provides programmatic access to all OWID datasets. See the [API documentation](index.md) for details.
 
 
 ## Mermaid Diagrams

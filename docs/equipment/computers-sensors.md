@@ -4,23 +4,23 @@ icon: lucide/bluetooth
 
 # Computers and Sensors
 
-A bike computer can provide navigation based on [routes](../riding/route-planning.md) and present statistics in real time on your ride, e.g. speed, cadence, hill gradients, distance to go, etc.
+A bike computer can provide navigation based on [routes](../routes/index.md) and present statistics in real time on your ride, e.g. speed, cadence, hill gradients, distance to go, etc.
 
 Computers work with sensors fitted to the bike and the rider to provide highly accurate feedback and physical information about the rider (e.g. heart rate).
 
-## Practicalli Team Equipment
+## Team Rocket Equipment
 
 - Bike computer: Wahoo Roam 3 (previously Garmin 1030)
 - Coospo H9Z Rechargeable Hear Rate Monitor & chest strap (makes us look like iron man 🤭)
 - Coospo Cadence Sensor
-- Coospo  Speed sensor
+- Coospo Speed sensor
+
 
 ## Bike computers
 
-
 Computers with "dual band GPS" provide the most accurate navigation and route tracking.  Although any GPS system should be accurate enough to get you to a destination and home again.
 
-(used to have a Garmin Edge 1030 but the lugs snapped off – newer Garmins have replaceable lugs)
+(used to have a Garmin Edge 1030 but the connection lugs snapped off – newer Garmins have replaceable lugs)
 
 - Garmin
 - Wahoo
@@ -31,9 +31,11 @@ Computers with "dual band GPS" provide the most accurate navigation and route tr
 
 ## Heart rate monitor
 
-Chest strap heart rate monitors are considered the most accurate as they are closest to the heart.  They are more invoved to wear as they are worn next to the skin, under all your layers.  As a dedicated monitor, the battery should last a long time (6 months to a year for coin battery).
+Chest strap heart rate monitors are considered the most accurate as they are closest to the heart.  They are more involved to wear as they are worn next to the skin, under all your layers.
 
-Rechargeable chest strap monitors are more convenient that a coin battery.
+As a dedicated monitor, the battery should last a long time (6 months to a year for coin battery).
+
+Rechargeable chest strap monitors can be more convenient that a coin battery monitor.
 
 Wrist monitor, fitness trackers and smart watches can also provide accurate information, both on and off the bike.
 

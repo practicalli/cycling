@@ -120,7 +120,7 @@ A long and fun ride around a big part of the Kent coast.
 
 The route includes a ride along the sea wall on the North Kent coast from Herne Bay to Birchington-on-Sea.
 
-[Experience Report: Riding the Oasts & Coasts ride in 2013](/riding/experiences.md#oasts-and-coasts-300){target=_blank .md-button}
+[Experience Report: Riding the Oasts & Coasts ride in 2013](experiences.md#oasts-and-coasts-300){target=_blank .md-button}
 
 - Date: Sat, 25 Apr 2026
 - Time: 06:00 to finish by 02:00

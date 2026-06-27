@@ -20,7 +20,7 @@ With plenty of time to train the plan can start with easy and achievable riding,
 - distance (prepping for riding over 100 km)
 - ascent (climbing very steep and long hills)
 - endurance & recovery (especially for multi-day rides)
-- [bike fit](../bicycle-components/bike-fit.md) (to avoid aches and pains)
+- [bike fit](../equipment/bike-fit.md) (to avoid aches and pains)
 
 At the beginning of your training these aspects can be focused on separately, especially if one aspect is not a strength.
 

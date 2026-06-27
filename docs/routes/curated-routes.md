@@ -1,10 +1,10 @@
 ---
-icon: lucide/map
+icon: lucide/rocket
 ---
 
 # Curated Routes
 
-A curated selection of routes that the Practicalli team recommends.
+A curated selection of routes that Team Rocket recommends.
 
 The current focus covers [South East England](#south-east-england), especially [100km plus rides](#100-km-plus), [Seaside rides](#seaside) and [1 day tours](#one-day-tours)
 

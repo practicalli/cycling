@@ -10,7 +10,7 @@ Riding is a highly enjoyable way to keep healthy and explore the countryside (an
 
 With basic knowledge of bicycle maintenance, good quality clothes & a well fitted bike, many successful and trouble free rides can be enjoyed each and every year.
 
-Your cycling enthusiam may start with cycling to work and with a little investment of time can grow into a passionate hobby that will last you for the rest of your life.
+Your cycling enthusiasm may start with cycling to work and with a little investment of time can grow into a passionate hobby that will last you for the rest of your life.
 
 !!! INFO "Opinions in this book are my own"
     Practicalli Cycling book is not sponsored by any cycling related companies and all products have been bought at personal expense.
@@ -18,23 +18,27 @@ Your cycling enthusiam may start with cycling to work and with a little investme
 
 ## About
 
-Practicalli Cycling is written by Johnny Rocket who has been riding for over 30 years, growing [experience in long distance and multi-day rides](riding/experiences.md) over the last 20 years.
+Practicalli Cycling is written by Johnny Rocket who has been riding for over 30 years, growing [experience in long distance and multi-day rides](events/experiences.md) over the last 20 years.
 
 These experiences shape the advice and opinions offered on this website.
 
 Johnny Rocket is currently living in South East of England, so most of the experiences are from that area.
 
-- [Charity rides](riding/experiences.md#charity-rides) from London to Oxford & London to Cambridge
-- [Ride of the Falling Leaves](riding//experiences.md#ride-of-the-falling-leaves) a challenging 100km around the Kent Alps
-- [Audax.uk rides](riding/experiences.md#audax) of 50km to 600km or more, including [Oasts & Coasts](riding/experiences.md#oasts-and-coasts-300) an accidental 420km ride round the East coast of Kent
-- [British Cycling Sportive](riding/experiences.md#kent-tour-de-france-sportive) London to Canterbury a week before the 2007 Tour de France cyclists
-- [Lands End to John O'Groats](riding/experiences.md#lands-end-to-john-ogroats) 9 day trip covering 16,000 km # climbing 20,000 meters
-- [Dragon Ride 2026](riding/experiences.md#dragon-ride) 9 day trip covering 16,000 km # climbing 20,000 meters
+- [Charity rides](events/experiences.md#charity-rides) from London to Oxford & London to Cambridge
+- [Ride of the Falling Leaves](events//experiences.md#ride-of-the-falling-leaves) a challenging 100km around the Kent Alps
+- [Audax.uk rides](events/experiences.md#audax) of 50km to 600km or more, including [Oasts & Coasts](events/experiences.md#oasts-and-coasts-300) an accidental 420km ride round the East coast of Kent
+- [British Cycling Sportive](events/experiences.md#kent-tour-de-france-sportive) London to Canterbury a week before the 2007 Tour de France cyclists
+- [Lands End to John O'Groats](events/experiences.md#lands-end-to-john-ogroats) 9 day trip covering 16,000 km # climbing 20,000 meters
+- [Dragon Ride 2026](events/experiences.md#dragon-ride) 9 day trip covering 16,000 km # climbing 20,000 meters
 
 
 <!-- [Strava: Johnny Rocket](https://www.strava.com/athletes/31595960){.md-button} -->
 
 <!-- Strava Embedded Stats summary from Strava Profile page -->
+<!-- Requires login
 <iframe height='160' width='300' align='left' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/31595960/activity-summary/765645f13ee7c1f9fd2f6d9726e443f62193dc40'></iframe>
+-->
 
+<!-- Requires login
 <iframe height='454' width='300' align='right' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/31595960/latest-rides/765645f13ee7c1f9fd2f6d9726e443f62193dc40'></iframe>
+-->

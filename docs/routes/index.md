@@ -6,7 +6,11 @@ icon: lucide/bike
 
 Cycling allows you to explore much greater distances than walking or running.
 
-A good [route](routes.md) and a [cycle computer](../bicycle-components/computers-sensors.md) make exploring simple and enjoyable.
+A good [route](curated-routes.md) and a [cycle computer](../equipment/computers-sensors.md) make exploring simple and enjoyable.
+
+Routes can be found on [Ride With GPS](https://ridewithgps.com/), [Strava](https://www.strava.com/), [Komoot](https://www.komoot.com/), etc.
+
+Design your own routes using [Ride With GPS](https://ridewithgps.com/) and share them publicly or with friends.
 
 !!! TIP "Computers can take you home"
     Most cycling computers can generate a route on the fly to take you home or back to a designated place.
@@ -14,35 +18,10 @@ A good [route](routes.md) and a [cycle computer](../bicycle-components/computers
     If you get tired of a route or simply need to get home quickly, then this feature is very valuable.
 
 
-2026 Events
+[Curated Rides by Team Rocket](curated-routes.md){target=_blank .md-button}
 
-Upcoming
+[Route Planning Tips by Team Rocket](route-planning.md){target=_blank .md-button}
 
-2026
+[Cycling Events](../events/index.md){target=_blank .md-button}
 
-- July: [Mendips Sportive](#mendips-classic)
-- August: [The Cotswolds Classic](#the-cotswolds-classic)
-- September: [The Peaks Tour](#the-peaks-tour)
-- September: [The New Forest Tour](#the-new-forest-tour)
-- October: [Kent Classic](#kent-classic)
-
-2027
-
-- [Etape Loch Ness]() ride the entirety of the beautiful Loch Ness in Scotland
-- [Fred Whitton Challenge](#fred-whitton) in the Lake District, with the steepest climbs in England
-
-- [Ride London](#ride-london) - on indefinite pause
-
-Events over
-
-- 14 June: [Dragon Ride](experiences.md#dragon-ride) a popular ride through Breacon Beacons in Wales
-- [10 May 2026 - Sunday - Hop Gardens 100km](events/audax.md#hop-gardens-100km) - Meopham
-- [25 April 2026 - Oasts & Coasts 300km](events/audax.md#oasts-coasts-300km) - Meopham
-- [12 April 2026 - Sunday - The Shark](events/audax.md#the-shark) - Greenwich
-- [8 March 2026 - Sunday - Kent Invicta Grimpeur 100](events/audax.md#kent-invicta-grimpeur-100) - Otford
-- February: [Wiltshire Classic](events/sportive.md#wiltshire-classic)
-
-
-[Cycling Events](/riding/events/index.md){target=_blank .md-button}
-
-[Practicalli Experiences](/riding/experiences.md){target=_blank .md-button}
+[Team Rocket Experiences](../events/experiences.md){target=_blank .md-button}
