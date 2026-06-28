@@ -4,17 +4,67 @@ icon: lucide/bike
 
 # Choosing a Bicycle
 
+The first decision should be what kind of cycling do you want to do, essentially the kind of terrain that will be cycled upon:
 
-- Road
-- Hybrid
-- Gravel
-- Mountain
-
-
-## Materials
+- Road - racing or endurance rides on tarmac
+- Hybrid - commuting or casual riding on roads and cycle lanes
+- Gravel - following off-road adventures on gravel or semi-rough terrain
+- Mountain - navigating rough and dirty terrain
 
 
-- Carbon
-- Alloy / Aluminium
-- Titanium
-- Steel
+
+## Frame Material
+
+Materials used to create the frame and forks determines the weight, durability and to some extent comfort.  The material can greatly effect the overall cost of the bicycle.
+
+The budget available for the bike will drive which material is right for you, for the type of cycling to be done.
+
+Common types of bike frame are:
+
+- **Carbon Fibre** - light and strong material at medium cost
+- **Alloy / Aluminium** - good strength and durability, relatively low cost
+- **Titanium** - most durable material, heaviest option and most expensive
+- **Steel** - strong and durable, at low cost but susceptible to corrosion if not actively maintained
+
+Most mid-range and premium road bicycles are made from carbon.
+
+Entry level road bicycles are mostly made from Alloy, optionally with carbon forks for greater comfort.  Some Asian companies are starting to create entry level carbon bicycles for their own markets and internationally.
+
+
+??? INFO "Carbon Fibre Variants"
+
+    A 'carbon' frame is a composite material with resins used to bond carbon fibres together into sheets.  The Carbon sheets are layered to create the frame, with either dry carbon sheets or sheets already impregnated with resin (prepreg carbon fibre).
+
+    The most common carbon fiber types used in cycling components are T700, T800, and T1000, all developed by Toray, one of the world’s leading carbon fiber manufacturers. These labels indicate tensile strength and modulus, two critical performance indicators.
+
+    - T700 an entry level carbon fiber, with high tensile strenght and more compliant for flexibility. The heaviest of the variants.
+    - T800 increased tensile strength whilst reducing weight, used on high end products
+    - T1000 provides extremely high tensile strength, use to create lightweight frames where performance is key and comfort is low priority.
+
+    Frame designers use the different variants throughout a frame to balance strength, compliance and weight.
+
+    [Bianchi](https://bianchi.co.uk/){target=_blank} Countervail is a patented composite vibration-cancelling material, combining visco-elastic compounds with specially developed carbon fibre to reduce vibration and rider fatigue and create a frame that is 20% lighter.
+
+    [Gusto](https://www.gustobike.uk/){target=_blank} uses a Latex, Innegra and T1000 carbon fibre composite material, making their frames remarkably rigid, light, and compliant. Latex enhances the absorption properties of the frame.
+
+    [State of Composite materials in the bicycle industry](https://www.addcomposites.com/post/the-current-state-of-composite-materials-in-the-bicycle-industry){target=_blank .md-button}
+
+
+## Frame Size
+
+Bicycle frames are manufactured in roughly the same sizes, from extra small (XS) through to extra large (XL). A frame can also be defined in centimeters (typically from 47 to 61), indicating the length of the seat tube.
+
+The frame size is an important first measure of size, although the [frame geometry](bike-fit.md#frame-geometry) can greatly affect the size of frame suitable for a specific person.
+
+Bicycle frame geometry refers to the lengths and angles of the tubes of a bicycle frame, which significantly affect how the bike performs and fits the rider. Key measurements include the head angle, seat angle, wheelbase, and fork offset, all of which influence handling and comfort.
+
+A bicycle is a good size for a rider if they are within the [fit window](bike-fit.md), meaning the bicycle can be adjusted without changing parts or components on the bicycle for an optimum position.
+
+![Bicycle Frame Geometry visual guide](https://github.com/practicalli/graphic-design/blob/live/cycling/bike-frame-geometry-explainer.png?raw=true){target=_blank}
+
+
+!!! TIP "Racing vs Endurance frames for road bicycles"
+
+    A Racing road bike typically has a longer top bar and lower head tube, placing the rider in a more 'aggressive' position, to enhance the speed the can atain especially when on the drops of the handlebars.
+
+    An Endurance road bike places the rider in more up-right position which is more comfortable over long distances.
