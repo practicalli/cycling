@@ -86,6 +86,7 @@ nav = [
     { "Overview" = "equipment/index.md" },
     { "Choosing a bike" = "equipment/choosing-a-bike.md" },
     { "Clothes" = "equipment/clothes.md" },
+    { "Kit Reviews" = "equipment/kit-reviews.md" },
     { "Lights" = "equipment/lights.md" },
     { "Computers & Sensors" = "equipment/computers-sensors.md" },
     { "Components" = "equipment/bike-components.md" },

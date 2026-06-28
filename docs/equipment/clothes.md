@@ -10,20 +10,22 @@ Make the most out of your kit by layering items, so that the same kit can be wor
 
 Many companies now produce environmentally friendly kit, using recycled materials.  These are just at good a quality as kit from virgin materials and are far kinder to the planet we all live on.
 
+Read the [Cycling Kit Reviews by Team Rocket](kit-reviews.md) for ideas about the different clothing products you can buy.
+
 ??? TIP "Look for End of season sales"
     Quality kit can be bought for significantly less from September onward, when the cycling season comes to an end and companies look to sell that years stock before new designs are released the next year.
 
     Black Friday and winter holiday sales have become more common.
 
 
-### Wash with care
+## Wash with care
 
 Wash clothes as soon as possible after a ride to remove sweat that can increase wear.
 
 Use wash bags as cycling kit can be quite delicate or have zips that may cause damage to other clothing.  A diligent use of wash bags for each item (or group of similar material items) will extend the life of your clothes.
 
 
-### Recommended Brands
+## Recommended Brands
 
 There are numerous brands that sell cycle clothing, from entry level to premium quality kit.  The more you ride the more its worth getting a high level of quality.
 
@@ -33,3 +35,6 @@ There are numerous brands that sell cycle clothing, from entry level to premium 
 
 
 !!! TIP "Buy quality clothes rather than just a brand name"
+
+
+[Cycling Kit Reviews by Team Rocket](kit-reviews.md){target=_blank .md-button}
