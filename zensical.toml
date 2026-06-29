@@ -99,6 +99,7 @@ nav = [
       { "Sportive" = "events/sportive.md" },
       { "Multi-Day" = "events/multi-day.md" },
       { "Ride experiences" = "events/experiences.md" },
+      { "Team Rocket Plans" = "events/team-rocket.md" },
     ]},
 
   { "Routes" = [
