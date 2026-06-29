@@ -97,13 +97,13 @@ nav = [
       { "Upcoming" = "events/index.md" },
       { "Audax" = "events/audax.md" },
       { "Sportive" = "events/sportive.md" },
+      { "Ride experiences" = "events/experiences.md" },
     ]},
 
   { "Routes" = [
     { "Overview" = "routes/index.md" },
     { "Planning" = "routes/route-planning.md" },
-    { "Curated Routes" = "routes/routes.md" },
-    { "Ride experiences" = "routes/experiences.md" },
+    { "Curated Routes" = "routes/curated-routes.md" },
     { "Hill Challenges" = "routes/hills.md" },
   ]},
 
