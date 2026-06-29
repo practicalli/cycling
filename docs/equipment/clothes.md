@@ -18,6 +18,37 @@ Read the [Cycling Kit Reviews by Team Rocket](kit-reviews.md) for ideas about th
     Black Friday and winter holiday sales have become more common.
 
 
+
+<div class="grid cards" markdown>
+
+-   __Essential Clothes__
+
+    ---
+
+    - Padded shorts
+    - Base layer
+    - Jersey
+    - Jacket
+    - Gloves
+    - Socks
+    - Glasses
+
+-   __Cold & Wet Weather Kit__
+
+    ---
+
+    - Knee & leg warmers
+    - Arm warmers
+    - Gilet
+    - Mid-layer fleece
+    - Winter base layer
+    - Winter gloves
+    - Over-socks
+    - Over-shoes
+    - Snood (neck warmer)
+
+</div>
+
 ## Wash with care
 
 Wash clothes as soon as possible after a ride to remove sweat that can increase wear.
@@ -29,12 +60,55 @@ Use wash bags as cycling kit can be quite delicate or have zips that may cause d
 
 There are numerous brands that sell cycle clothing, from entry level to premium quality kit.  The more you ride the more its worth getting a high level of quality.
 
-- [Spatzwear](https://www.lusso.bike/) is high quality kit especially for those cyclists that care about speed and aerodynamics.
-- [Lusso](https://www.lusso.bike/) is a United Kingdom manufacturer with a focus on sustainable clothing.
-- [Siroko](https://www.siroko.com/) is a European brand (Spain) with quality clothing at reasonable prices.
+- [SpatzWear website](https://www.spatzwear.com/){target=_blank} is high quality kit especially for those cyclists that care about speed and aerodynamics. Designed & Tested in the Lake District, United Kingdom.
+- [Lusso](https://www.lusso.bike/){target=_blank} is a United Kingdom manufacturer with a focus on sustainable clothing.
+- [Siroko](https://www.siroko.com/){target=_blank} is a European brand (Spain) with quality clothing at reasonable prices.
 
 
 !!! TIP "Buy quality clothes rather than just a brand name"
 
 
 [Cycling Kit Reviews by Team Rocket](kit-reviews.md){target=_blank .md-button}
+
+
+## All Season kit
+
+### Padded shorts
+
+
+### Base layer
+
+
+### Jersey
+
+
+### Jacket
+
+
+### Shoes & Cleats
+
+
+### Gloves
+
+
+### Socks
+
+
+### Glasses
+
+
+
+
+
+
+## Cold & Wet Weather Kit
+
+### Knee & leg warmers
+### Arm warmers
+### Gilet
+### Mid-layer fleece
+### Winter base layer
+### Winter gloves
+### Over-socks
+### Over-shoes
+### Snood (neck warmer)
