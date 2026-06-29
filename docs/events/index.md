@@ -29,6 +29,8 @@ Most cycling clubs have social rides that are welcoming to new or less experienc
 - July 04: [Middlesborough FC Captain Cook](https://velo29events.com/sportives/mfc-foundation-captain-cook/) 69-163km, 1,500 m ride through Teeside and North York Moors National Park.
 - July 11: [Ripon Sportive](https://velo29events.com/sportives/ripon-tour-sportive/) 80km-178km
 - July 11: [Mendips Sportive](sportive.md#mendips-classic)
+- July 12: [Ride Reigate 100km](https://worldracecalendar.com/event/ride-reigate-100k-50k-25k-family-route-july-2026/)
+- July 19: [Isle of Wight](https://www.europeancycleevents.com/tour/2026-isle-of-wight-sportive/) 125km 1,963m
 - July 25-26: [Dunwich Dynamo](https://www.dunwichdynamo.co.uk/) 180km to Norfolk coast (flat) [Travel Home booking](https://southwarkcyclists.org.uk/product/dunwich-dynamo-2026/) [Strava Route](https://www.strava.com/routes/465225)
 - August 15: [The Cotswolds Classic](sportive.md#the-cotswolds-classic)
 
@@ -41,12 +43,17 @@ Most cycling clubs have social rides that are welcoming to new or less experienc
 2027
 
 - February TBC: [Hell Of The Ashdown](https://www.helloftheashdown.cc/)
+- March 06: [York Leeds York](https://velo29events.com/sportives/york-leeds-york-sportive/) 74-176km
+- 13 March: [Daffodils Sportive]() Thirsk, North Yorkshire 54-137km
 - March TBC: [Kent Invicta Audax](https://www.audax.uk/)
 - March TBC: [Kentish Killer](https://kentishkiller.co.uk/) 100+ km challenging early-season ride by Team De Ver.
 - 25 April [Etape Loch Ness](https://www.etapelochness.com/) 106km ride around the beautiful Loch Ness in Scotland
 - 13 June: [Dragon Ride](https://www.dragonride.co.uk/) a popular ride through Breacon Beacons in Wales
 - April 18: [Spring Onion](https://www.thesportivecollection.com/tour/2027-spring-onion/)  108km 1237m
-- [Fred Whitton Challenge](sportive.md#fred-whitton) in the Lake District, with the steepest climbs in England
+- April TBC: [Somerset 100 Sportive](https://www.ukvelo.co.uk/somerset_sportive.html) 162km ride stunning landscapes of the Somerset and Mendip Hills (Cheddar Gorge)
+- May 09: [Fred Whitton Challenge](sportive.md#fred-whitton) in the Lake District, with the steepest climbs in England
+- July 03: [The Yorkshire Beast](https://velo29events.com/sportives/yorkshire-beast/) Thirst. 320km 5,274m
+
 - TBC: [Cobham Sportive](https://www.thesportivecollection.com/tour/2027-cobham-sportive/) 80km
 
 - The Cantii Way: A 145-mile (235 km) cycling route starting and ending in Wye, suitable for multi-day touring.
@@ -54,10 +61,13 @@ Most cycling clubs have social rides that are welcoming to new or less experienc
 
 Past Events
 
+- June 21: [Dartmoor Classic](https://www.dartmoorclassic.co.uk/) 173km 2,777m with gradients up to 25%
+- May 17 [Oban Sportive - Argyll](https://obansportive.co.uk/) Scottish Highlands
 - [10 May 2026 - Sunday - Hop Gardens 100km](audax.md#hop-gardens-100km) - Meopham
 - [25 April 2026 - Oasts & Coasts 300km](audax.md#oasts-coasts-300km) - Meopham
 - [12 April 2026 - Sunday - The Shark](audax.md#the-shark) - Greenwich
 - [8 March 2026 - Sunday - Kent Invicta Grimpeur 100](audax.md#kent-invicta-grimpeur-100) - Otford
+- April: [Dirty Reiver - Gravel](https://dirtyreiver.co.uk/) Hexham, Tyne Valley 65-200km
 - February: [Wiltshire Classic](sportive.md#wiltshire-classic)
 
 - [Ride London](sportive.md#ride-london) - on indefinite pause
