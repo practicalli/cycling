@@ -19,9 +19,21 @@ Dehydration is as common in the Winter months as Summer months, as the body stil
 
 ### Electrolytes
 
+![Electrolyte tubes normal and cut to size](https://github.com/practicalli/graphic-design/blob/live/cycling/cycling-electrolyte-tables-size-8-tube.jpg?raw=true){align=right loading=lazy style="width:180px"}
+
+
 Tablets and powder products can be added to water to help replace essential salts and minerals that the body consumes and sweats during a ride.
 
+One tablet per full water bottle is recommended.
+
+Carry extra tablets when on a longer ride that will require refilling the water bottle.
+
 High5 and SIS are popular brands and each have a range of flavours to suit different tastes.
+
+!!! TIP "Cut tablet tubes to carry just the number you need"
+    Once a tube of tables is empty, use a sharp or serrated kitchen knife (e.g. a bread knife) to cut the tube to a shorter length, just long enough to hold the required number of tablets and the cap to keep them in place.
+
+    A cut down tube reduces the space the space electrolytes take up in your back or jersey pocket.
 
 
 ### Water Bottles
