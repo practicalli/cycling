@@ -73,16 +73,25 @@ A bicycle is a good size for a rider if they are within the [fit window](bike-fi
 
 ## Brands and where to buy
 
-
 Bianchi, Bordman, Cannondale, Ribble, Specialised, Trek and Wilier are well established brands that provide a wide variety of bicycles.
 
 [Bianchi](https://bianchi.co.uk/){target=_blank} is a particular favorite of Team Rocket, due to their beautiful design and excellent performance.  Their Counterval technology adds vibration dampening to key parts of the Bianchi frame, providing a very smooth ride.
+
+![Bianchi Bianchi Infinito Pro Rival AXS 1](https://github.com/practicalli/graphic-design/blob/live/cycling/Bianchi-Infinito-Pro-Rival-AXS-1.png?raw=true){loading=lazy}
+
+[Ribble bicycles](https://www.ribblecycles.co.uk/) have been designed and built in Lancashire, England since 1897.  They have excellently designed range of bicycles available at very competitive prices. The Ribble website provides a build tool where each model can be customised to your needs.
+
+![Ribble Ultra Road in Damsen](https://github.com/practicalli/graphic-design/blob/live/cycling/ribble-ultra-road_damson_105.png?raw=true){loading=lazy}
+
+
+### Interesting new brands
 
 [Gusto](https://www.gustobike.uk/){target=_blank} and [Sunpeed](){target=_blank} are relative new comers with very interesting bicycle ranges.
 
 [Gusto](https://www.gustobike.uk/){target=_blank} is a recent entry in the international market, providing excellent value for money for mid to top of the range bicycles. Gusto frames are uniquely made with a latex and T1000 carbon fibre composite material to provide a compliant and comfortable riding experience.
 
+![Gusto Cobra Evo DB Elite](https://www.gustobike.uk/wp-content/uploads/2023/12/COBRA-EVO-ELITE-%E9%BB%91-scaled.jpg){loading=lazy}
+
 [Sunpeed](https://www.sunpeed.com/){target=_blank} offer a range of entry level to high performance carbon bicycles.  [VRide](https://vride.co.uk/){target=_blank} it their North London (United Kingdom) commercial shop, where you can take a free test ride of the Sunpeed bicyles.
 
-
-![Bianchi Bianchi Infinito Pro Rival AXS 1](https://github.com/practicalli/graphic-design/blob/live/cycling/Bianchi-Infinito-Pro-Rival-AXS-1.png?raw=true){loading=lazy}
+![Sunpeed Invincible Sport All Road](https://vride.co.uk/cdn/shop/files/Untitled_6048x4024px_-2025-11-16T165300.989.jpg?v=1763312310&width=2200){loading=lazy}
