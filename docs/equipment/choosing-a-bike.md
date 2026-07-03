@@ -68,3 +68,21 @@ A bicycle is a good size for a rider if they are within the [fit window](bike-fi
     A Racing road bike typically has a longer top bar and lower head tube, placing the rider in a more 'aggressive' position, to enhance the speed the can atain especially when on the drops of the handlebars.
 
     An Endurance road bike places the rider in more up-right position which is more comfortable over long distances.
+
+
+
+## Brands and where to buy
+
+
+Bianchi, Bordman, Cannondale, Ribble, Specialised, Trek and Wilier are well established brands that provide a wide variety of bicycles.
+
+[Bianchi](https://bianchi.co.uk/){target=_blank} is a particular favorite of Team Rocket, due to their beautiful design and excellent performance.  Their Counterval technology adds vibration dampening to key parts of the Bianchi frame, providing a very smooth ride.
+
+[Gusto](https://www.gustobike.uk/){target=_blank} and [Sunpeed](){target=_blank} are relative new comers with very interesting bicycle ranges.
+
+[Gusto](https://www.gustobike.uk/){target=_blank} is a recent entry in the international market, providing excellent value for money for mid to top of the range bicycles. Gusto frames are uniquely made with a latex and T1000 carbon fibre composite material to provide a compliant and comfortable riding experience.
+
+[Sunpeed](https://www.sunpeed.com/){target=_blank} offer a range of entry level to high performance carbon bicycles.  [VRide](https://vride.co.uk/){target=_blank} it their North London (United Kingdom) commercial shop, where you can take a free test ride of the Sunpeed bicyles.
+
+
+![Bianchi Bianchi Infinito Pro Rival AXS 1](https://github.com/practicalli/graphic-design/blob/live/cycling/Bianchi-Infinito-Pro-Rival-AXS-1.png?raw=true){loading=lazy}
