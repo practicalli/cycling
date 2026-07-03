@@ -42,9 +42,9 @@ High5 and SIS are popular brands and each have a range of flavours to suit diffe
 
 Water bottles are typically plastic (ensure they are BPA free).
 
-Stainless steel water bottles are slightly heavier, although usually offer thermal protection for the liquid (e.g. water doesn't get too cold to drink during a winter ride).
+Stainless steel water bottles are slightly heavier, usually offering thermal protection for the liquid (e.g. water doesn't get too cold to drink during a winter ride).
 
-Bottles made from metal rather than plastic should be better for the environment.
+Bottles made from metal rather than plastic should be better for the environment and less risk of micro-plastic contamination to the rider and environment.
 
 
 ### Water bladders
@@ -63,7 +63,7 @@ Replacement 2 Litre water bladders are easy to find online, although a bladder s
     By drinking the contents of the water bladder before water bottles on the bike, the rider experiences greater comfort.
 
 
-> NOTE: Spatzwear [Gravel Race Suit](https://www.spatzwear.com/products/spatzwear-fasta-gravel-race-suit) with an internal mesh pocket for a 2 litre water bladder.  The Jersey also has a slot for the bladder mouth piece of the feeding tube, to help keep the plumbing inside the jersey.
+> NOTE: Spatzwear [Gravel Race Suit](https://www.spatzwear.com/products/spatzwear-fasta-gravel-race-suit) has an internal mesh pocket to hold a 2 litre water bladder.  The Jersey also has a slot for the bladder drinking tube, to help keep the rider aerodynamic.
 
 
 ## Energy Bars
@@ -79,7 +79,7 @@ Energy bars tend to release energy over a long time period than the instant get 
 
 ## Gels
 
-An energy gel should only be used to top up fuel levels and only when there isnt time to digest real food.
+An energy gel should only be used to top up fuel levels and only when there isn't time to digest real food.
 
 A recommended use of gels is for climbing up very long ascents, e.g. mountain passes.
 
