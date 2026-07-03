@@ -42,7 +42,7 @@ jobs:
       - name: MegaLinter Run
         id: ml
         ## latest release of Practicalli Custom Megalinter flavor for Zensical
-        uses: ghcr.io/practicalli/megalinter-custom-flavor-zensical/megalinter-custom-flavor@v9.6.0
+        uses: practicalli/megalinter-custom-flavor-zensical-megalinter-custom-flavor@beta
         env:
           # ADD CUSTOM ENV VARIABLES OR DEFINE IN MEGALINTER_CONFIG file
           MEGALINTER_CONFIG: .github/config/megalinter.yaml
