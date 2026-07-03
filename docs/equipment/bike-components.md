@@ -47,9 +47,15 @@ Common Size Clincher Tyre ranges: 23C to 32C
 
 
 !!! TIP "Continental tyres mix performance with good puncture protection"
-    Consider Grand Prix 5000 for hight performance.  4 Season if conditions are changable or often wet. Gaterskin for maximum puncture protection, sacrificing a little performance.
+    Consider Continental Grand Prix 5000 for hight performance.  Continental 4 Season when conditions for wetter and colder climates and through winter or seasons when the weather is often wet. Gaterskin for maximum puncture protection, sacrificing only a small amount of performance.
 
     For club rides, any of these tyres would be suitable.
+
+
+!!! TIP "Thinvik Zarmor Zephyr alternative to GP5000"
+    The [Thinvik Zarmor Zephyr](https://thinvik.com/products/thinvik-360tpi-220g-235g-road-bike-tires-foldable-clincher-tyres) is significantly cheaper option to the Continental GP5000, although looks very similar in design and performance.
+
+    [ThinVik Zarmor Zephyr Tyre - AliExpress](https://www.aliexpress.com/item/1005011985604214.html){target=_blank .md-button}
 
 
 ### Tubeless tyres
