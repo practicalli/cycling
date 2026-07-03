@@ -111,6 +111,7 @@ The most significant measurements of a handlebar are:
 
 - width: inline with the riders shoulders
 - reach: the riders hands should can reach controls from any position on the handlebars
+- drop: distance the drop bars are from the top of the handlebars. A shallow drop requires less agressive bend of the upper body.
 
 
 ### Width
