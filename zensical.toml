@@ -44,41 +44,6 @@ Copyright &copy; 2026 Practicalli
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
-# nav = [
-#   { "Introduction" = "index.md" },
-#
-#   { "Cycling Clothes" = "clothes.md" },
-#
-#   # Bicycles and components
-#   # { "Choosing a bike" = "choosing-a-bike.md" },
-#   { "Components" = "components.md" },
-#   { "Lights" = "lights.md" },
-#   { "Computers & Sensors" = "computers-sensors.md" },
-#
-#   # Riding
-#   { "Route Planning" = "route-planning.md" },
-#   { "Routes" = "routes.md" },
-#   { "Ride experiences" = "experiences.md" },
-#   # { "Group Riding" = "group-riding.md" },
-#   { "Hills" = "hills.md" },
-#
-#   # Training
-#   { "Training" = "training.md" },
-#   { "Training Plan" = "training-plan.md" },
-#
-#   # Maintenance & Tools
-#   { "Toolbag" = "toolbag.md" },
-#   { "Maintenance" = "maintenance.md" },
-#
-#   { "First Aid" = "first-aid.md" },
-#
-#   # { "Markdown in 5min" = "markdown.md" },
-#   { "Zensical Tips" = "zensical-tips.md" },
-# ]
-
-# Navigation in sections
-
-
 nav = [
   { "Introduction" = "index.md" },
 
