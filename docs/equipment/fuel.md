@@ -49,9 +49,13 @@ Bottles made from metal rather than plastic should be better for the environment
 
 ### Water bladders
 
-[Camelbak Lobo Hydration Pack](https://uk.camelbak.com/product/lobo-hydration-pack-9l-with-2l-reservoir%C2%A0/38593.html) is a compact rucksack designed to hold a 2 Litre reservoir(water bladder).
+![Camelback compact hydration pack in red](https://github.com/practicalli/graphic-design/blob/live/cycling/camelbak-lobo-hydration-pack-red.png?raw=true){align=right loading=lazy style="width:150px"}
 
-I have used the Lobo on 200km rides and found it very comfortable to use.
+[Camelbak Lobo Hydration Pack](https://uk.camelbak.com/product/lobo-hydration-pack-9l-with-2l-reservoir%C2%A0/38593.html) is a compact rucksack designed to hold a 2 Litre reservoir (water bladder).  I have used the Lobo on 200km rides and found it very comfortable to use.
+
+The water bladder is held inside the rucksack whist providing easy access to a large filling cap. The drinking tube comes out of the top of either shoulder strap and can be attached to the left or right strap at the front so it does not move around when not in use.
+
+Replacement 2 Litre water bladders are easy to find online, although a bladder should last years if regularly cleaned and only used for water.
 
 !!! TIP "Drink from a water bladder first"
     The weight of the water bladder is typically carried by the rider back.
