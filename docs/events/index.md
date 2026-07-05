@@ -34,6 +34,7 @@ Most cycling clubs have social rides that are welcoming to new or less experienc
 - July 25-26: [Dunwich Dynamo](https://www.dunwichdynamo.co.uk/) 180km to Norfolk coast (flat) [Travel Home booking](https://southwarkcyclists.org.uk/product/dunwich-dynamo-2026/) [Strava Route](https://www.strava.com/routes/465225)
 - August 15: [The Cotswolds Classic](sportive.md#the-cotswolds-classic)
 
+- September 11: [Brands Hatch Cyclothon](https://www.missingpeople.org.uk/events/cyclothon) 8 hours cycling round the Brands Hatch track.
 - September 26 [Great Yorkshire Sportive](https://velo29events.com/sportives/great-yorkshire-sportive/) 70-170km from York to Scarborough and back again.
 - September 05: [The Peaks Tour](sportive.md#the-peaks-tour)
 - September 19: [The New Forest Tour](sportive.md#the-new-forest-tour)
