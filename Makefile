@@ -63,7 +63,7 @@ dependencies-update: ## Update all library dependencies and GitHub action
 # ------------------------------------------------ #
 
 # --- Documentation Generation  ------------------ #
-docs-install:  ## Install or upgrade Zensical in Python virtual environment
+docs-install:  ## Install or upgrade Zensical with Catppuccin theme plugin
 	uv tool install zensical --with catppuccin-zensical --upgrade
 
 docs:  ## Build and run docs in local server
