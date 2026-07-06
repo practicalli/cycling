@@ -1,16 +1,16 @@
-# ------------------------------------------
-# Practicalli: Makefile
+# ------------------------------------------------ #
+# Practicalli Makefile
 #
 # Consistent set of targets to support local book development
 #
 # `-` before a command ignores any errors returned
-# ------------------------------------------
+# ------------------------------------------------ #
 
 # Requirements
 # - python
 # - uv
 # - clojure & practicalli cli config (dependency check)
-# - docker
+# - docker (run megalinter locally)
 # - mega-linter-runner
 # ------------------------------------------------ #
 
@@ -35,7 +35,7 @@ OUTDATED_FILE := outdated-$(shell date +%y-%m-%d-%T).md
 # ------------------------------------------------ #
 
 # -- Code Quality -------------------------------- #
-pre-commit-check: lint ## Run format, lint and test targets
+pre-commit-check: lint ## Format and lint with Megalinter
 
 lint:  ## Run MegaLinter with custom configuration (node.js required)
 	$(info -- MegaLinter Runner ---------------------)
@@ -82,14 +82,10 @@ docs-debug:  ## Run local server in debug mode
 	$(info -- Local Server Debug --------------------)
 	$(DOCS_SERVER) -v
 
-mkdocs:  ## Build and run mkdocs in local server
-	$(info --------- Mkdocs Local Server ---------)
-	mkdocs serve --dev-addr localhost:7777
-
-dist: docs-build ## Build mkdocs website
+dist: docs-build ## Build Zensical website
 # ------------------------------------------------ #
 
-# ------- Version Control ------------------------ #
+# -- Version Control ----------------------------- #
 git-sr:  ## status list of git repos under current directory
 	$(info -- Multiple Git Repo Status --------------)
 	mgitstatus -e --flatten
