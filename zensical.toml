@@ -48,7 +48,7 @@ nav = [
   { "Introduction" = "index.md" },
 
   { "Equipment" = [
-    { "Equipment" = "equipment/index.md" },
+    "equipment/index.md",
     { "Choosing a bike" = "equipment/choosing-a-bike.md" },
     { "Bike Fit" = "equipment/bike-fit.md" },
     { "Clothes" = "equipment/clothes.md" },
@@ -56,11 +56,12 @@ nav = [
     { "Lights" = "equipment/lights.md" },
     { "Fuel" = "equipment/fuel.md" },
     { "Computers & Sensors" = "equipment/computers-sensors.md" },
+    # { "Tyres" = "equipment/tyres.md" },
     { "Components" = "equipment/bike-components.md" },
   ]},
 
   { "Events" = [
-      { "Events" = "events/index.md" },
+      "events/index.md",
       { "Audax" = "events/audax.md" },
       { "Sportive" = "events/sportive.md" },
       { "Multi-Day" = "events/multi-day.md" },
@@ -69,14 +70,14 @@ nav = [
     ]},
 
   { "Routes" = [
-    { "Routes" = "routes/index.md" },
+    "routes/index.md",
     { "Planning" = "routes/route-planning.md" },
     { "Curated Routes" = "routes/curated-routes.md" },
     { "Hill Challenges" = "routes/hills.md" },
   ]},
 
   { "Training" = [
-    { "Training" = "training/index.md" },
+    "training/index.md",
     { "Breathing" = "training/breathing.md" },
     { "Winter-Spring Plan" = "training/plan-winter-spring.md" },
     { "Hill Climbing" = "training/hill-climbing.md" },
@@ -86,7 +87,7 @@ nav = [
 
   # Maintenance & Tools
   { "Maintenance" = [
-    { "Maintenance" = "maintenance/index.md" },
+    "maintenance/index.md",
     { "Essentials" = "maintenance/essentials.md" },
     { "Toolbag" = "maintenance/toolbag.md" },
     { "Tyres" = "maintenance/tyres.md" },
