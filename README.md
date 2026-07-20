@@ -74,7 +74,7 @@ Publish book workflow installs Material for MkDocs version 9
 
 Zensical can be installed locally via vu or pip. Practicalli uses uv for simplicity.  Commands are wrapped in tasks defined within the `Makefile`.
 
-[Zensical - Practcialli Engineering Playbook](https://practical.li/engineering-playbook/technical-writing/static-site/zensical/){:target="_blank"}
+[Zensical - Practcialli Engineering Playbook](https://practical.li/engineering-playbook/technical-writing/static-site/zensical/)
 
 Clone the repository and change into the root of the project.
 
