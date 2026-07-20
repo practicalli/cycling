@@ -88,10 +88,23 @@ Install Zensical as a tool using `uv` (updating if there is a new version).
 make docs-install
 ```
 
+Or use the uv command:
+
+```shell
+uv tool install zensical --with catppuccin-zensical --upgrade
+```
+
+
 Build the website and serve locally at [http://localhost:8000](http://localhost:8000)
 
 ```shell
 make docs
+```
+
+Or use the zensical command:
+
+```shell
+zensical serve --dev-addr localhost:7777
 ```
 
 ---
