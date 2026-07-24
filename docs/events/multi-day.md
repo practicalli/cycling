@@ -7,8 +7,8 @@ icon: lucide/calendar-1
 
 ### Supported
 
-- [Ride Across Britain]() - Lands End to John O'Groats in 9 days
-- [Ride Cmryu]() - North Wales to Cardiff in 3 days
+- [Ride Across Britain](https://www.rideacrossbritain.com/){target=_blank} - Lands End to John O'Groats in 9 days (last event in 2024)
+- [Ride Cymru](https://www.ridecymru.co.uk/){target=_blank} - North Wales to Cardiff in 3 days
 
 
 ### Self Supported

@@ -47,7 +47,7 @@ With the wind protection panels, this jersey provides the added protection you w
 
 The [ShiftR jersey](https://www.spatzwear.com/products/spatzwear-shiftr-jersey-blue-or-hi-vis-red-utilitywithspeed){target=_blank} is also similar material to the base layer, with 3 large rear pockets.
 
-The [ShiftR 3]() is an upgrade that adds a large mesh pocket over the 3 rear pockets.  This extra pocket is ideal for layers removed due to warmer weather on a ride.
+The [ShiftR 3](https://www.spatzwear.com/products/spatzwear-shiftr-2-jersey-black-or-white-shiftr){target=_blank} is an upgrade that adds a large mesh pocket over the 3 rear pockets.  This extra pocket is ideal for layers removed due to warmer weather on a ride.
 
 > NOTE: I used the large mesh pocket to hold the large rider number label whilst on the Dragon Ride, saving the need to push safety pins through the Jersey itself.
 
@@ -58,7 +58,7 @@ The [ShiftR 3]() is an upgrade that adds a large mesh pocket over the 3 rear poc
 
 This winter I have been wearing the [Polar layer](https://www.spatzwear.com/products/polar-layer-base-layer){target=_blank}, a fleece gilet that keeps me toasty on very cold days.  It is breathable and I haven't overheated, even on a steep ascent.
 
-For the rest of the year, the [Burnr2 Gilet]() has been an excellent extra layer for colder Spring, Summer and Autumn rides.  Again a compression garment with excellent comfort and warmth where it is needed.
+For the rest of the year, the [Burnr2 Gilet](https://www.spatzwear.com/products/burnr2-gilet-with-pockets-copy) has been an excellent extra layer for colder Spring, Summer and Autumn rides.  Again a compression garment with excellent comfort and warmth where it is needed.
 
 I rode the Dragon Ride in Wales with this Gilet, keeping the wind off at over 60kmh on the mountain pass descents.
 

@@ -86,7 +86,7 @@ Bianchi, Bordman, Cannondale, Ribble, Specialised, Trek and Wilier are well esta
 
 ### Interesting new brands
 
-[Gusto](https://www.gustobike.uk/){target=_blank} and [Sunpeed](){target=_blank} are relative new comers with very interesting bicycle ranges.
+[Gusto](https://www.gustobike.uk/){target=_blank} and [Sunpeed](https://www.sunpeed.com/){target=_blank} are relative new comers with very interesting bicycle ranges.
 
 [Gusto](https://www.gustobike.uk/){target=_blank} is a recent entry in the international market, providing excellent value for money for mid to top of the range bicycles. Gusto frames are uniquely made with a latex and T1000 carbon fibre composite material to provide a compliant and comfortable riding experience.
 

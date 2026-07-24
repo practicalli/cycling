@@ -100,7 +100,7 @@ A charity ride from North London to central Cambridge.
 On 28 July 2019 my friend and I rode to Cambridge and back in the same day.  We had lunch at Doppleganger Burger, a lovely vegan restraint that let us put our bikes inside the shop as we muched on our burgers and curly fries.
 
 - [South London to Cambridge](https://www.strava.com/activities/2569621403){target=_blank}
-- [Cambridge to South London](){target=_blank}
+- [Cambridge to South London](https://www.strava.com/activities/2571279223){target=_blank}
 
 
 ## Ride of the falling leaves

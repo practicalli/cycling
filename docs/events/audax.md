@@ -25,13 +25,13 @@ An event designed for those who enjoy climbing or want to get better at hills.
 
 A GPS file of the route is available to those who sign up.  Or use the classic Audax "Route Sheet".
 
-A 50Km route that covers 6 large climbs along the Kent Alps, around the Sevenoaks area.  It is the first half of the [Kent Invicta Grimpeur 100]() and ideal for those riders who do not want to do all six hills in reverse.
+A 50Km route that covers 6 large climbs along the Kent Alps, around the Sevenoaks area.  It is the first half of the [Kent Invicta Grimpeur 100](https://www.audax.uk/event-details?id=14239){target=_blank} and ideal for those riders who do not want to do all six hills in reverse.
 
 The starting and end point is the Scout Hut in Otford where you collect your brevet card (stamped along the way to prove you did the route).
 
 Find the Scout hut just above the red brick bridge, on the right hand side as you ride up the hill past Otford station. It is at the end of a narrow side road.
 
-The shorter distance West Kent CTC run up and down the hills around. Entry fee ú9.00 for on the line entries.
+The shorter distance West Kent CTC run up and down the hills around. Entry fee 9.00 GBP for on the line entries.
 
 Free food and drink may be available at the start and finish.
 

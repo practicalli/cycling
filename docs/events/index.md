@@ -45,7 +45,7 @@ Most cycling clubs have social rides that are welcoming to new or less experienc
 
 - February TBC: [Hell Of The Ashdown](https://www.helloftheashdown.cc/)
 - March 06: [York Leeds York](https://velo29events.com/sportives/york-leeds-york-sportive/) 74-176km
-- 13 March: [Daffodils Sportive]() Thirsk, North Yorkshire 54-137km
+- 13 March: [Daffodils Sportive](https://velo29events.com/sportives/daffodils-sportive/) Thirsk, North Yorkshire 54-137km
 - March TBC: [Kent Invicta Audax](https://www.audax.uk/)
 - March TBC: [Kentish Killer](https://kentishkiller.co.uk/) 100+ km challenging early-season ride by Team De Ver.
 - 25 April [Etape Loch Ness](https://www.etapelochness.com/) 106km ride around the beautiful Loch Ness in Scotland
