@@ -28,7 +28,7 @@ env:
 
   # If APPLY_FIXES is used, defines if the fixes are directly committed (commit)
   # or posted in a PR (pull_request)
-  APPLY_FIXES_MODE: commit
+  APPLY_FIXES_MODE: pull_request
 
   # ADD CUSTOM ENV VARIABLES OR DEFINE IN MEGALINTER_CONFIG file
   MEGALINTER_CONFIG: .github/config/mega-linter.yaml
