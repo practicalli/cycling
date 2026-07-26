@@ -4,28 +4,24 @@ icon: lucide/circle
 
 # Maintaining Tyres
 
-
-- Check tyres for objects
-- Check wear on tyre (worn tyres will puncture easily)
-- Check general wear of tyre
-
+!!! IMPORTANT "Inflate tyres within Manufacturers recommended range"
+Before any ride, inflate tyres to within the manufacturers recommended pressure range, considering combined rider and bike weight.
 
 Regardless of the type of tyre, check for general wear on a regular basis (after every ride or not less than once a month).
 
-- Check for cuts in the tyre
+- Tyre wear indicators should still be visible
+- Check for excessive cuts and holes in the tyre (patch inside of tyre or replace if too many)
 - Remove foreign objects from the tyre
-- tyre wear indicators no longer visible
+- For deep cuts, consider adding patch on inside of tyre
 - worn side walls or with 'string' pealing off
 
 
 !!! TIP "Regularly getting punctures"
     The tyre may be very worn or have significant cuts from previous punctures.  Replace the tyre.
 
-    Ensure the tyre has been inflacted to the recommended tyre pressure, as stated on the manufactures website.
+    Ensure the tyre has been inflated to the recommended tyre pressure, as stated on the manufactures website.
 
     Ensure the correct sized innter tube was used with the tyre.
-
-
 
 
 ## Clincher (Inner tubes)
@@ -39,9 +35,9 @@ The larger the tyre size, the less pressure required, e.g. a very rough guide: 2
 
 Every type of inner tube specifies the size of tyre it can be used with.  If the tyre is the maximum size the tube can fit, consider getting the next size up.  e.g. for a 25C tyre use a 25-32C inner tube.
 
-Butyl tyres have a range of: 18-25, 25-32, etc
+Butyl inner tubes are designed for specific tyre sizes: 18-25, 25-32, etc
 
-TPU tubes have ranges of: 18-32C, etc
+TPU tubes usually have a wider tyre range: 18-32C, 32-47
 
 
 !!! WARNING "TPU tubes stretch to the size of the tyre"
