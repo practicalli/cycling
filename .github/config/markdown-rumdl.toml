@@ -69,7 +69,6 @@ reflow-mode = "default"  # Reflow mode: "default", "normalize", "sentence-per-li
 length-mode = "visual"  # How to count line length: "visual", "chars", or "bytes" (default: "visual")
 abbreviations = ["Assn", "Univ"]  # Add custom abbreviations for sentence-per-line mode
 require-sentence-capital = true  # Require uppercase after periods for sentence detection (default: true)
-atomic-spans = true  # Treat code/emphasis spans as atomic units during reflow (default: true)
 
 [MD022]
 lines-above = 2  # Blank lines required above headings (default: 1)
