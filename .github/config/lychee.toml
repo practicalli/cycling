@@ -1,5 +1,4 @@
-
-# ---------------------------------------- 
+# ----------------------------------------
 # Base URL or website root directory to check relative URLs.
 base = "https://practical.li/clojure/"
 
@@ -8,7 +7,11 @@ base = "https://practical.li/clojure/"
 # At the moment, we support http, https, file, and mailto.
 scheme = ["https"]
 
-# ---------------------------------------- 
+# https://www.whatismybrowser.com/guides/the-latest-user-agent/firefox
+# user_agent = ["curl/8.4.0"]
+user_agent = "Mozilla/5.0 (X11; Linux x86_64; rv:153.0) Gecko/20100101 Firefox/153.0"
+
+# ----------------------------------------
 # Exclusions
 
 # Exclude URLs and mail addresses from checking (supports regex).
@@ -24,4 +27,4 @@ exclude_all_private = true
 
 # Check mail addresses
 include_mail = false
-# ---------------------------------------- 
+# ----------------------------------------
