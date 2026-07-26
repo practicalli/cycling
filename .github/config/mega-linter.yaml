@@ -19,7 +19,7 @@
 
 PARALLEL: true  # Run linters in parallel
 
-EXCLUDED_DIRECTORIES: ".github/|CHANGELOG.md|README.md|"
+EXCLUDED_DIRECTORIES: ".github/|CHANGELOG.md|README.md|overrides/|docs/assets/"
 
 # Ignore all errors and return without error status, e.g. for CI
 # DISABLE_ERRORS: true
