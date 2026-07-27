@@ -15,13 +15,13 @@ Bicycle tyres are fall into several main categories and they all have their stre
 
 The type of riding surface (road, gravel, mountain bike) has a significant influence on tyre choice.  Rider confort and tyre maintenance are other major factors.
 
-- Clincher tyres that require an inner tube to hold the air pressure, used by the vast majority of cyclists.
-- Tubless tyres which use a thick bead on the edges of the tyre to create an air tight seal, use sealant to minimise the effect of punctures
-- Solid tyres that do not use air (no flat tyres)
+- [Clincher](#clincher-tyres): an inner tube holds the air pressure, used by the vast majority of cyclists.
+- [Tubeless](#tubeless-tyres): a thicker tyre edge bead with sealant creates an air tight seal and minimise air loss from punctures
+- [Solid](#solid-airless-tyres): no air involved so impossible to get a puncture, typically heavier and harder to fit & remove
 
-For good road conditions, the performance of Clincher (inner tube) tyres is hard to beat, especially when using TPU inner tubes and the tyre is inflated to the correct manufacturer recommended pressure.
+On good road conditions the simplicity and performance of [Clincher tyres](#clincher-tyres) is hard to beat, especially when used with TPU inner tubes and inflated to the manufacturer recommended pressure.
 
-Riders seeking to use lower pressures, 75 PSI or lower, may find comfort benefits with Tubless tyres especially where roads are littered with potholes and very poor surfaces. Greater benefits of Tubless come with Gravel riding and rougher terrains.
+Riders seeking to use lower pressures, 75 PSI or lower, may find comfort benefits with [Tubeless tyres](#tubeless-tyres) especially where roads are littered with potholes and very poor surfaces. Greater benefits of Tubeless come with Gravel riding and rougher terrains.
 
 ### Clincher tyres
 
@@ -53,7 +53,7 @@ Common Size Clincher Tyre ranges: 23C to 32C
 
 
 !!! TIP "Thinvik Zarmor Zephyr alternative to GP5000"
-    The [Thinvik Zarmor Zephyr](https://thinvik.com/products/thinvik-360tpi-220g-235g-road-bike-tires-foldable-clincher-tyres) is significantly cheaper option to the Continental GP5000, although looks very similar in design and performance.
+    The [Thinvik Zarmor Zephyr](https://thinvik.com/products/thinvik-360tpi-220g-235g-road-bike-tires-foldable-clincher-tyres) is lower cost option compared to the Continental GP5000, although looks very similar in design and performance.
 
     [ThinVik Zarmor Zephyr Tyre - AliExpress](https://www.aliexpress.com/item/1005011985604214.html){target=_blank .md-button}
 
@@ -66,11 +66,11 @@ A liquid sealant is added as the tyre is fitted to repair punctures whist the bi
 
 If a larger puncture occurs that the sealant cannot fix, the rider will need to stop for a repair.  A 'plug' can be inserted into the wheel to help the sealant completely block the hole, allowing the tyre to be fully inflated again.
 
-Tubeless tyres run at lower pressures (to avoid blowing off the wheel rim).  A lower pressure can give a more comfortable ride.
+Tubeless tyres run at lower pressures, deforming to give a more comfortable ride.
 
 A lower pressure is less effective at flicking away flint and other sharp objects that cause punctures, but the sealant should hopefully compensate and keep the need for road-side repair.
 
-Common Size tubeless tyre ranges: 30C upward (only limited by the size a frame can support)
+Common Size tubeless tyre ranges: 30C upward (maximum size only limited by frame geometry)
 
 ??? INFO "How to maintain tubeless tyres"
     <p style="text-align:center">
@@ -78,10 +78,16 @@ Common Size tubeless tyre ranges: 30C upward (only limited by the size a frame c
     </p>
 
 
+??? WARNING "Exceeding 73 PSI (5 bar) tyre pressure may violently detach tyres from Hookless Rims"
+    Wheels with hookless rims rely on pressure to keep the tyre securely attached.
+
+    Pressure exceeding 73 PSI (5 bar) generates lateral force on the bead seat, creating a high risk of the tyre violently detaching from the wheel.
+
+
 **Benefits**
 
 - run at lower pressures for comfort
-- automatically seal punctures (when sealant regularly maintained)
+- automatically seal most punctures (if sealant regularly maintained)
 
 **Challenges**
 
