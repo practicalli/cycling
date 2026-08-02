@@ -11,6 +11,40 @@ scheme = ["https"]
 # user_agent = ["curl/8.4.0"]
 user_agent = "Mozilla/5.0 (X11; Linux x86_64; rv:153.0) Gecko/20100101 Firefox/153.0"
 
+# Website timeout from connect to response finished.
+timeout = 10
+# ----------------------------------------
+
+# ----------------------------------------
+# Enable link caching to avoid checking the same links on multiple runs.
+cache = true
+
+# Discard all cached requests older than this duration.
+max_cache_age = "7d"
+
+# A list of status codes that will be ignored from the cache
+cache_exclude_status = "500.."
+# ----------------------------------------
+
+# ----------------------------------------
+# File to read and write cookies
+# cookie_jar = "cookie-jar"
+
+# Number of threads to utilize.
+# Defaults to number of cores available to the system if omitted.
+# threads = 2
+
+# Maximum number of allowed redirects.
+max_redirects = 1
+
+# Maximum number of allowed retries before a link is declared dead.
+max_retries = 1
+
+# Maximum number of concurrent link checks.
+max_concurrency = 3
+# ----------------------------------------
+
+
 # ----------------------------------------
 # Exclusions
 
@@ -18,7 +52,7 @@ user_agent = "Mozilla/5.0 (X11; Linux x86_64; rv:153.0) Gecko/20100101 Firefox/1
 exclude = ['^https://127.0.0.0', '^https://www\.linkedin\.com', '^https://web\.archive\.org/web/']
 
 # Exclude these filesystem paths from getting checked.
-exclude_path = ["mkdocs.yml", "overrides", "includes", ".github", ".git"]
+exclude_path = ["mkdocs.yml", "overrides", "includes", ".github", ".git", "zensical.toml"]
 
 # Exclude all private IPs from checking.
 # Equivalent to setting `exclude_private`, `exclude_link_local`, and
@@ -27,4 +61,17 @@ exclude_all_private = true
 
 # Check mail addresses
 include_mail = false
+# ----------------------------------------
+
+# ----------------------------------------
+# Search and suggest link replacements for all broken links
+suggest = true
+# ----------------------------------------
+
+# ----------------------------------------
+# Maximum simultaneous requests to the same host
+host_concurrency = 3
+
+# Minimum interval between requests to the same host
+host_request_interval = "250ms"
 # ----------------------------------------
