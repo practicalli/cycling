@@ -78,7 +78,7 @@ Beautiful scenery whist climbing some big hills.
 
 [Isle of Grain](https://ridewithgps.com/routes/52100178){target=_blank .md-button} - 145km, 500m
 
-[Whitstable](){target=_blank .md-button}
+[Whitstable](https://ridewithgps.com/routes/56359333){target=_blank .md-button}
 
 [Margate Coastal 2026](https://ridewithgps.com/routes/53850183){target=_blank .md-button} - 250km
 
