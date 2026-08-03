@@ -11,6 +11,8 @@ scheme = ["https"]
 # user_agent = ["curl/8.4.0"]
 user_agent = "Mozilla/5.0 (X11; Linux x86_64; rv:153.0) Gecko/20100101 Firefox/153.0"
 
+header = { "accept" = "text/html", "x-custom-header" = "value" }
+
 # Website timeout from connect to response finished.
 timeout = 10
 # ----------------------------------------
@@ -21,9 +23,6 @@ cache = true
 
 # Discard all cached requests older than this duration.
 max_cache_age = "7d"
-
-# A list of status codes that will be ignored from the cache
-cache_exclude_status = "500.."
 # ----------------------------------------
 
 # ----------------------------------------
@@ -71,7 +70,4 @@ suggest = true
 # ----------------------------------------
 # Maximum simultaneous requests to the same host
 host_concurrency = 3
-
-# Minimum interval between requests to the same host
-host_request_interval = "250ms"
 # ----------------------------------------
