@@ -11,7 +11,8 @@ scheme = ["https"]
 # user_agent = ["curl/8.4.0"]
 user_agent = "Mozilla/5.0 (X11; Linux x86_64; rv:153.0) Gecko/20100101 Firefox/153.0"
 
-header = { "accept" = "text/html", "x-custom-header" = "value" }
+# "Accept: */*"
+header = { "accept" = "text/html", "accept" = "application/json" }
 
 # Website timeout from connect to response finished.
 timeout = 10
