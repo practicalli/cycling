@@ -9,19 +9,22 @@ I have worn many different brands over the last two decades, starting with padde
 
 The quality clothing I obtained has lasted a longest time and has been well worth the investment.
 
+!!! TIP "Always buy quality kit and look for end of season sales"
+
 
 ## SpatzWear
 
-[SpatzWear](https://www.spatzwear.com/){target=_blank}  produce premium quality kit, designed in detail to give high performance and used by professional cycling teams.  Their kit is tested in the Yorkshire Dales (United Kingdom) and so designed for the most challenging rides.
+[SpatzWear](https://www.spatzwear.com/){target=_blank} produce premium quality kit, designed in detail to give high performance and used by professional cycling teams.  Their kit is tested in the Yorkshire Dales (United Kingdom) and so designed for the most challenging rides.
 
-The products are pricey but when treated with care they will last years and be well worth the investment.
+The SpatzWear kit feels like a second skin and provides excellent aerodynamic performance (no flapping around of clothes).  Garments designed with compression ease fatigue in muscles especially on longer rides.
 
-The SpatzWear kit I've bought feels so good to cycle in and is very aerodynamic.  Most of the kit acts with compression, helping ease fatigue in muscles.
+The products are at the higher end price range, but when treated with care they will last years and should be considered as a worthy investment.
+
 
 !!! TIP "The kit is designed for performance, so has a close fit"
-    Most garments are meant to be tight, so if you can fit into them without damaging the garment, they they should be the right size for you.
+    Most Spatzwear garments are meant to be a close fit, so if you can fit into them without damaging the garment, them they should be the right size for you.
 
-    Base layers are very streatchy, but Jerseys and Gilets with windproofed panels may not be as forgiving.
+    Base layers are streatchy, but Jerseys and Gilets with windproofed panels may not be as forgiving for larger body frames.
 
     If you are not of a shape similar to a pro-cyclist you may need a larger size.  SpatzWear will allow you to exchange the garment via their service portal, although this can take a 2-3 weeks to complete (especially during the height of the season).
 
@@ -33,13 +36,14 @@ The SpatzWear kit I've bought feels so good to cycle in and is very aerodynamic.
 
 ![Spatzwear Race Layer Baselayer](https://www.spatzwear.com/cdn/shop/files/black3.jpg?v=1756712196){align=right loading=lazy style="height:150px;width:150px"}
 
-The [Race Layer Short Sleeve Baselayer](https://www.spatzwear.com/products/spatzwear-race-layer-short-sleeve-black-baselayer-racelayer){target=_blank} for most of the last 5 years, except for the hottest summer rides.  The base layer does an excellent job of wicking away sweat and is very comfortable on all day rides.
+The [Race Layer Short Sleeve Baselayer](https://www.spatzwear.com/products/spatzwear-race-layer-short-sleeve-black-baselayer-racelayer){target=_blank} for most of the last 5 years, except for the hottest summer rides.  The base layer does an excellent job of wicking away sweat and is comfortable on all day rides.
 
-On colder days I wear the [Basez 2](https://www.spatzwear.com/products/spatzwear-basez-2-black-baselayer-basez2){target=_blank} a long sleeve base layer with high neck line.  The sleeves are long and stretch over the palms of the hands, with a hold to pass through the thumb, keeping out chill very effectively.
+On colder days I wear the [Basez 2](https://www.spatzwear.com/products/spatzwear-basez-2-black-baselayer-basez2){target=_blank} a long sleeve base layer with high neck line.  The sleeves are long and stretch over the palms of the hands, with a hold to pass through the thumb, keeping out chill effectively.
+
 
 ### Jersey
 
-The 4-season jersey has the same enjoyable feel as the base layers, with wind protection at the top of the chest and over the shoulders.  It is a very snug fit when putting it on, but once on it feels very comfortable.
+The 4-season jersey has the same enjoyable feel as the base layers, with wind protection at the top of the chest and over the shoulders.  A snug fit when putting on the jersey, but once on it feels lovely and comfortable.
 
 The 2 rear pockets can seem fiddly to use at first, but making space in them with a hand make it easier to put items in there.  The latest version of this jersey also has a larger mesh pocket in the center.
 
@@ -69,7 +73,7 @@ I rode the Dragon Ride in Wales with this Gilet, keeping the wind off at over 60
 
 The [Glovez](https://www.spatzwear.com/products/spatz-glovz-race-gloves-with-hidden-wind-blocking-layer-glovz){target=_blank} are full finger gloves that are good for most seasons (except really hot days).
 
-There is a unique fold-out wind-block design that wraps the fingers with a extra layer to keep them warm. It turns 4 separate fingers into 2 that can feel a little strange at first, like having crab hands.  After a few rides I got used to my fingers being wrapped up a little more and was very thankful for the extra warmth on cold days.
+The unique fold-out wind-block design wraps the fingers with a extra layer to keep them warm.  It turns 4 separate fingers into 2 that can feel a little strange at first, like having crab hands.  After a few rides I got used to my fingers being wrapped up a little more and was grateful for the extra warmth on cold days.
 
 Riding in 5-10 Celsius weather and windy condition my hands were kept warm, unfolding the wind-block covers as the temperature dropped.  The covers take a bit of getting used to but are easier than wearing 2 pairs of gloves or much thicker gloves.
 
@@ -80,7 +84,7 @@ I have worn these gloves comfortably in temperatures up to 15 Celsius.
 
 Unsurprisingly, the leg and arm warmers are the same excellent material as the base layer, offering compression as well as warmth.
 
-I found the arm warmers to be a little too snug when first putting them on.  However once on they were very comfortable and there was no chance of air turbulence from wrinkled warmers 😆
+I found the arm warmers to be a little too snug when first putting the arm warmers on (and taking them off).  Once on the arm and leg warmers were most comfortable with no air turbulence from wrinkled warmers 😆
 
 The leg warmers were much easier to put on and have stayed in place even on all day rides.
 
@@ -91,9 +95,20 @@ Both warmers have kept me riding when weather is as low as 5 Celsius and up to 2
 
 [Hotsokz Long Winter Merino](https://www.spatzwear.com/products/hotsokz){target=_blank} socks fit up to just below the knee, ensuring the calves stay as warm as ankles and feet.
 
-These feel like very premium socks and have kept me warm during the cold winter months, without the feeling of getting sweaty.
+These feel like premium socks and have kept me warm during the cold winter months, without the feeling of getting sweaty.
 
-I have had the socks a year and they seem very durable.
+I have had the socks a year and they remain in good condition.
+
+
+### Bibshorts
+
+The Convoy and Convoy Lite bib shorts have a lovely quality material, with comfy silicon grips to keep the legs in place and straps that don't feel like they are there.
+
+The Convoy bib short has a perforated pad that has a bit of a squish to it.  The pad was comfy for 50-100km rides, although on a 154km sportive I was feeling more tender than expected.
+
+The Convoy Lite bib short has a thin and firm pad that kept me comfy on a 130km lumpy ride, even though it was over 32 Celsius outside at times.
+
+Both versions of the bib shorts have rear pockets which are a convenient place to keep less used items secure.  I put my cleat covers in one pocket and phone in the other.  The thigh pocket gives me easy access to a few energy bars whist on the move, so I don't need to stop to fuel up.
 
 
 ## Lusso
@@ -110,4 +125,4 @@ The Lusso winter socks have kept my feel warm this winter without ever feeling h
 
 They are a long sock that comes up to the bottom of the knee, providing extra warmth around the calves.
 
-The material feels soft to the skin and so far has been very durable.
+The material feels soft to the skin and so far has been quite durable.
