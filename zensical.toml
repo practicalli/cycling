@@ -63,6 +63,7 @@ nav = [
   { "Events" = [
       "events/index.md",
       { "Audax" = "events/audax.md" },
+      { "Clubs" = "events/cycling-clubs.md" },
       { "Sportive" = "events/sportive.md" },
       { "Multi-Day" = "events/multi-day.md" },
       { "Ride experiences" = "events/experiences.md" },
