@@ -158,3 +158,76 @@ Event Information
 - Body: Gravesend CTC
 - Audax Points: 1
 - Event No: 26-205
+
+
+
+## Aberdeenshire
+
+
+### Insch by Insch 200
+
+212Km cycling event starting from Insch, near Aberdeen.
+
+[Signup: 5th September 2026](https://www.audax.uk/event-details?id=13889)
+
+Speed: 15-30 km/h
+Climb: 3179m (2,740 m)
+AAA: 2.75
+Category: BRM
+Body: [Insch Cycling Club](https://inschcyclingclub.wordpress.com/page/2/)
+Audax Points: 2
+
+Time: 07:30 to finish by 21:00
+
+[RideWithGPS route](https://ridewithgps.com/routes/56765640){target=_blank .md-button}
+
+
+### Highland Pony
+
+104km cycling event, starting at Ballater. Control at Braemar, checkpoint at Red Lodge and 2 information controls.
+
+Follow in the path of Queen Victoria, around Royal Deeside and enjoy 55km of gravel estate roads.
+
+Checkpoint refreshments, a prize draw and a souvenir from a charitable organisation included in the entry fee.
+
+[Signup: Highland Pony - 3 October 2026](https://www.audax.uk/event-details?id=14046){target=_blank}
+
+Speed: 15-30 km/h
+Climb: 3179m
+AAA: 2.75
+Category: BRM
+Body: Insch Cycling Club
+Audax Points: 2
+Event No: 26-976
+
+
+### Strathdon Road Route
+
+ 105km cycling event from Ballater.
+
+[Signup: Strathdon Road Route - 3 October 2026](https://www.audax.uk/event-details?id=14425#details){target=_blank}
+
+ A magnificent road route exploring the Snow Roads and Upper Strathdon. Take a peaceful back road to Balmoral Castle, climb the rugged moorlands up to Corgarff and explore remote upper Donside.
+
+ Descend to Aboyne and relax on the Deeside Way cycle path back to Ballater.
+
+ Services on the route include a traditional Highland cafe 32km, a village shop 42km, and a wonderful pub with light meals and hot puddings 77km.
+
+ Excellent public toilets at start/finish, 13, 42 and 77km. This route features 1450m of climbing, but avoids the steepest and most renowned sections of the Snow Roads.
+
+ Take your time and enjoy the stunning mountain views and the opportunity to explore some of the small hidden gems of the Cairngorms, including stone circles, remote churches and beautiful bridges.
+
+A prize draw and a souvenir from a charitable organisation are included in the entry fee. You should have a bicycle, spare clothing and tools suitable for dealing with the terrain. A spare tyre, warm layer and cycling shoes you can walk in are recommended. This is a remote area.
+
+This Audax is part of the Ballater weekend rides, which will explore the challenging climbs, history and culinary highlights of Royal Deeside and the surrounding area. Plenty of nearby accommodation: bothies, campsites and hotels.
+
+Ballater Hostel is reserved for Audax UK club members on Friday 2 October and Saturday 3 October.
+
+
+Speed: 11-25 km/h
+Climb: 1450m
+AAA: 0
+Category: BP
+Body: Four Corners
+Audax Points: 1
+Event No: 26-1022
