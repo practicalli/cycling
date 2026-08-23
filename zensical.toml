@@ -56,8 +56,8 @@ nav = [
     { "Lights" = "equipment/lights.md" },
     { "Fuel" = "equipment/fuel.md" },
     { "Computers & Sensors" = "equipment/computers-sensors.md" },
-    # { "Tyres" = "equipment/tyres.md" },
-    { "Components" = "equipment/bike-components.md" },
+    { "Tyres" = "equipment/tyres.md" },
+    { "Other Components" = "equipment/bike-components.md" },
   ]},
 
   { "Events" = [

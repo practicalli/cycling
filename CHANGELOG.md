@@ -5,6 +5,7 @@
 ### Updated
 
 - docs(equipment): 📝 update tyres description
+- refactor(equipment): 📝 separate tyres into their own page
 
 
 ## 2026-08-23
