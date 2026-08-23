@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Added
+
+- build(github): 🔧 prevent jekyll build of static site during CI deployment
+
 ### Updated
 
 - dev: update GitHub actions via `make dependencies-update`
