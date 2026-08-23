@@ -5,6 +5,7 @@
 ### Updated
 
 - docs(equipment): 📝 update tyres description
+- docs(readme): ✏️ remove star history information (requires read/write token)
 - docs(readme): 🔧 update megalinter and publish book sheilds
 - refactor(equipment): 📝 separate tyres into their own page
 
