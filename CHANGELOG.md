@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+### Updated
+
+- docs(equipment): 📝 update tyres description
+
+
 ## 2026-08-23
 
 ### Added
