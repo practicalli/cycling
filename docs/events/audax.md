@@ -170,12 +170,12 @@ Event Information
 
 [Signup: 5th September 2026](https://www.audax.uk/event-details?id=13889)
 
-Speed: 15-30 km/h
-Climb: 3179m (2,740 m)
-AAA: 2.75
-Category: BRM
-Body: [Insch Cycling Club](https://inschcyclingclub.wordpress.com/page/2/)
-Audax Points: 2
+- Speed: 15-30 km/h
+- Climb: 3179m (2,740 m)
+- AAA: 2.75
+- Category: BRM
+- Body: [Insch Cycling Club](https://inschcyclingclub.wordpress.com/page/2/)
+- Audax Points: 2
 
 Time: 07:30 to finish by 21:00
 
@@ -192,13 +192,12 @@ Checkpoint refreshments, a prize draw and a souvenir from a charitable organisat
 
 [Signup: Highland Pony - 3 October 2026](https://www.audax.uk/event-details?id=14046){target=_blank}
 
-Speed: 15-30 km/h
-Climb: 3179m
-AAA: 2.75
-Category: BRM
-Body: Insch Cycling Club
-Audax Points: 2
-Event No: 26-976
+- Speed: 15-30 km/h
+- Climb: 3179m
+- AAA: 2.75
+- Category: BRM
+- Body: Insch Cycling Club
+- Audax Points: 2
 
 
 ### Strathdon Road Route
@@ -223,11 +222,29 @@ This Audax is part of the Ballater weekend rides, which will explore the challen
 
 Ballater Hostel is reserved for Audax UK club members on Friday 2 October and Saturday 3 October.
 
+- Speed: 11-25 km/h
+- Climb: 1450m
+- AAA: 0
+- Category: BP
+- Body: Four Corners
+- Audax Points: 1
 
-Speed: 11-25 km/h
-Climb: 1450m
-AAA: 0
-Category: BP
-Body: Four Corners
-Audax Points: 1
-Event No: 26-1022
+
+### The Faithful Servant
+
+56Km cycling event starting from Ballater.
+
+Explore the autumnal splendour of Royal Deeside and places associated with John Brown, Queen Victorias most famous highland servant. 25km of estate roads.
+
+Ballater Hostel is recommended, and reserved for Audax UK and Rough Stuff Fellowship club members on Friday 2 October and Saturday 3 October.
+
+[Signup: The Faithful Servand - 4 October 2026](https://www.audax.uk/event-details?id=14047){target=_blank .md-button}
+
+- Speed: 10-25 km/h
+- Climb: 582m
+- AAA: 0
+- Category: BP
+- Body: Four Corners Audax
+- Audax Points: 0.5
+
+Time: 10:30 to finish by 16:06
