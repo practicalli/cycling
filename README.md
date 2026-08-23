@@ -11,9 +11,8 @@
 
 ## Book status
 
-[![MegaLinter](https://github.com/practicalli/cycling/actions/workflows/megalinter.yaml/badge.svg)](https://github.com/practicalli/cycling/actions/workflows/megalinter.yaml)
-[![Publish Book](https://github.com/practicalli/cycling/actions/workflows/publish-book.yaml/badge.svg)](https://github.com/practicalli/cycling/actions/workflows/publish-book.yaml)
-[![pages-build-deployment](https://github.com/practicalli/cycling/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/practicalli/cycling/actions/workflows/pages/pages-build-deployment)
+[![MegaLinter](https://github.com/practicalli/cycling/actions/workflows/mega-linter.yml/badge.svg)](https://github.com/practicalli/cycling/actions/workflows/mega-linter.yml)
+[![Publish Zensical Docs](https://github.com/practicalli/cycling/actions/workflows/docs.yml/badge.svg)](https://github.com/practicalli/cycling/actions/workflows/docs.yml)
 
 ![Ideas & issues](https://img.shields.io/github/issues/practicalli/cycling?label=content%20ideas&logo=github)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/practicalli/cycling?label=pull%20requests&logo=github)

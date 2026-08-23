@@ -5,8 +5,8 @@
 ### Updated
 
 - docs(equipment): 📝 update tyres description
+- docs(readme): 🔧 update megalinter and publish book sheilds
 - refactor(equipment): 📝 separate tyres into their own page
-
 
 ## 2026-08-23
 
