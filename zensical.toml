@@ -97,7 +97,6 @@ nav = [
 
   { "First Aid" = "first-aid.md" },
 
-  # { "Markdown in 5min" = "markdown.md" },
   { "Zensical Tips" = "zensical-tips.md" },
 ]
 
@@ -331,29 +330,29 @@ features = [
 # ----------------------------------------------------------------------------
 [[project.theme.palette]]
 scheme = "catppuccin-mocha"
-primary = "custom"
-accent = "custom"
+primary = "yellow"
+accent = "orange"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to Macchiato"
 
 [[project.theme.palette]]
 scheme = "catppuccin-macchiato"
-primary = "custom"
-accent = "custom"
+primary = "yellow"
+accent = "orange"
 toggle.icon = "lucide/cloud-moon"
 toggle.name = "Switch to Frappé"
 
 [[project.theme.palette]]
 scheme = "catppuccin-frappe"
-primary = "custom"
-accent = "custom"
+primary = "yellow"
+accent = "orange"
 toggle.icon = "lucide/cloud-sun"
 toggle.name = "Switch to Latte"
 
 [[project.theme.palette]]
 scheme = "catppuccin-latte"
-primary = "custom"
-accent = "custom"
+primary = "yellow"
+accent = "orange"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to Mocha"
 
@@ -371,16 +370,7 @@ repo = "lucide/bike"
 text = "Ubuntu"
 code = "Ubuntu Mono"
 
-# ----------------------------------------------------------------------------
-# In the "palette" subsection you can configure options for the color scheme.
-# You can configure different color schemes, e.g., to turn on dark mode,
-# that the user can switch between. Each color scheme can be further
-# customized.
-#
-# Read more:
-# - https://zensical.org/docs/setup/colors/
-# ----------------------------------------------------------------------------
-
+# ------------------------
 [project.theme.icon.admonition]
 
 # note = "octicons/tag-16"
