@@ -57,6 +57,8 @@ nav = [
     { "Fuel" = "equipment/fuel.md" },
     { "Computers & Sensors" = "equipment/computers-sensors.md" },
     { "Tyres" = "equipment/tyres.md" },
+    # { "Wheels" = "equipment/wheels.md" },
+    # { "Gear train" = "equipment/gear-train.md" },
     { "Other Components" = "equipment/bike-components.md" },
   ]},
 
