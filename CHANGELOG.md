@@ -8,6 +8,7 @@
 - docs(readme): ✏️ remove star history information (requires read/write token)
 - docs(readme): 🔧 update megalinter and publish book sheilds
 - refactor(equipment): 📝 separate tyres into their own page
+- build(zensical): 🔧 move choosing a bike and bike fit to intro section
 
 ## 2026-08-23
 
