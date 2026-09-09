@@ -47,6 +47,7 @@ Copyright &copy; 2026 Practicalli
 nav = [
   { "Introduction" = [
     "index.md",
+    { "Why Cycle" = "introduction/why-cycle.md" },
     { "Choosing a bike" = "introduction/choosing-a-bike.md" },
     { "Bike Fit" = "introduction/bike-fit.md" },
   ]},
