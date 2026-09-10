@@ -10,6 +10,7 @@
 - refactor(equipment): 📝 separate tyres into their own page
 - build(zensical): 🔧 move choosing a bike and bike fit to intro section
 - docs(intro): 📝 start page on why a person should cycle
+- ci(docs): 🔧 use uv to manage and run zensical package
 
 ## 2026-08-23
 
