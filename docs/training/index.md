@@ -12,15 +12,15 @@ Create a rough plan well in advance to avoid rushing your training. Without a pl
 
 With plenty of time to train the plan can start with easy and achievable riding, gradually build up to more challenging rides and ascents.
 
-[Winter/Spring training plan](plan-winter-spring.md){.md-button}
+[Training plan - winter to spring](plan-winter-spring.md){target=_blank .md-button}
 
 
 ## Aspects of training
 
 - distance (prepping for riding over 100 km)
-- ascent (climbing very steep and long hills)
+- ascent (ascending steep and long hills)
 - endurance & recovery (especially for multi-day rides)
-- [bike fit](../equipment/bike-fit.md) (to avoid aches and pains)
+- [bike fit](../introduction/bike-fit.md) (to avoid aches and pains)
 
 At the beginning of your training these aspects can be focused on separately, especially if one aspect is not a strength.
 

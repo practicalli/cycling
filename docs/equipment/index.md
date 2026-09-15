@@ -4,9 +4,11 @@ icon: lucide/bike
 
 # Cycling Equipment
 
-[Find a bike](choosing-a-bike.md) suitable for the type of riding you will do and of the right size.  Most cycle shops now offer a [mini bike fit](bike-fit.md) to identify the right size.
+[Find a bike](../introduction/choosing-a-bike.md) suitable for the type of riding you will do and of the right size.  Most cycle shops now offer a [mini bike fit](../introduction/bike-fit.md) to identify the right size.
 
-Essential [clothes (kit)](clothes.md) improve the enjoyment of riding by adding comfort on the main rider touch-points, e.g. padded cycling shorts for comfort on the saddle, a nice fitting jersey that wicks away sweat, and gloves that provide grip on warm days (or warmth on cold days).
+Essential [clothes (kit)](clothes.md) improve the enjoyment of riding by adding comfort on the main rider touch-points.
+
+Padded cycling shorts for comfort on the saddle, a nice fitting jersey that wicks away sweat, gloves that provide grip on warm days and warmth on cold days.
 
 Build up your collection of essentials as the amount of cycling grows.  Look out for end of season sales and special offers.
 
