@@ -15,25 +15,46 @@ The first decision should be what kind of cycling do you want to do, essentially
 
 ## Frame Material
 
-Materials used to create the frame and forks determines the weight, durability and to some extent comfort.  The material can greatly effect the overall cost of the bicycle.
+Materials used to create the frame and forks determines the weight, durability and to some extent comfort. The material can greatly effect the overall cost of the bicycle.
 
 The budget available for the bike will drive which material is right for you, for the type of cycling to be done.
 
 Common types of bike frame are:
 
-- **Carbon Fibre** - light and strong material at medium cost
-- **Alloy / Aluminium** - good strength and durability, relatively low cost
-- **Titanium** - most durable material, heaviest option and most expensive
-- **Steel** - strong and durable, at low cost but susceptible to corrosion if not actively maintained
+- **Carbon Fibre** - light and strong material at medium cost, for speed and climbing.
+- **Alloy / Aluminium** - good strength and durability, lowest cost bike for those starting out.
+- **Titanium** - most durable material, more expensive initial cost. Excellent for touring and off-road, or for a 'lifetime' investment.
+- **Steel** - strong and durable, at low cost but potential for corrosion if not maintained. Used for classic design road bikes.
 
 Most mid-range and premium road bicycles are made from carbon.
 
-Entry level road bicycles are mostly made from Alloy, optionally with carbon forks for greater comfort.  Some Asian companies are starting to create entry level carbon bicycles for their own markets and internationally.
+Entry level road bicycles are mostly made from Alloy, optionally with carbon forks for greater comfort. Some Asian companies are starting to create entry level carbon bicycles for their own markets and internationally.
+
+??? INFO "Steel Vs Titainium"
+    Titanium is materially lighter than Steel, but Steel has greater rigidity than Titanium.
+
+    Whether a Steel or Titainium bike depends heavily on the design and final rider weight limit for the frame.
+
+    Titanium bikes are more popular for off-road and touring, so tend to be heavier as they are designed to take more punishment. Extra material is required to create strenght and rigidity, adding weight to the bike frame.
+
+
+??? INFO "Ribble Cycles Frame Material Weight Comparison"
+
+    Road bikes from Ribble provide one example of frame weight.
+
+    Carbon is by far the lightest option, with the other materials of closer weights.
+
+    | Frame Material |   Frame Weight |
+    | -------------- | -------------- |
+    | Carbon         | 0.90 - 1.06 kg |
+    | Aluminium      |        1.65 kg |
+    | Titanium       |        1.70 kg |
+    | Steel          |        2.10 kg |
 
 
 ??? INFO "Carbon Fibre Variants"
 
-    A 'carbon' frame is a composite material with resins used to bond carbon fibres together into sheets.  The Carbon sheets are layered to create the frame, with either dry carbon sheets or sheets already impregnated with resin (prepreg carbon fibre).
+    A 'carbon' frame is a composite material with resins used to bond carbon fibres together into sheets. The Carbon sheets are layered to create the frame, with either dry carbon sheets or sheets already impregnated with resin (prepreg carbon fibre).
 
     The most common carbon fiber types used in cycling components are T700, T800, and T1000, all developed by Toray, one of the world’s leading carbon fiber manufacturers. These labels indicate tensile strength and modulus, two critical performance indicators.
 
