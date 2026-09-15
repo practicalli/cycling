@@ -22,7 +22,8 @@ Practicalli Cycling is written by Johnny Rocket who has been riding for over 30 
 
 These experiences shape the advice and opinions offered on this website.
 
-Johnny Rocket is currently living in South East of England, so most of the experiences are from that area.
+![Ride Across Britain half way pit stop](https://github.com/practicalli/graphic-design/blob/live/cycling/lejog-2019-halfwaythere-relaxedpose.png?raw=true){loading=lazy}
+
 
 - [Charity rides](events/experiences.md#charity-rides) from London to Oxford & London to Cambridge
 - [Ride of the Falling Leaves](events//experiences.md#ride-of-the-falling-leaves) a challenging 100km around the Kent Alps
