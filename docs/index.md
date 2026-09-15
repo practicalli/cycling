@@ -24,6 +24,7 @@ These experiences shape the advice and opinions offered on this website.
 
 ![Ride Across Britain half way pit stop](https://github.com/practicalli/graphic-design/blob/live/cycling/lejog-2019-halfwaythere-relaxedpose.png?raw=true){loading=lazy}
 
+Johnny Rocket mostly rides in South East of England which influences the experiences shared.
 
 - [Charity rides](events/experiences.md#charity-rides) from London to Oxford & London to Cambridge
 - [Ride of the Falling Leaves](events//experiences.md#ride-of-the-falling-leaves) a challenging 100km around the Kent Alps
