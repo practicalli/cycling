@@ -8,6 +8,10 @@ Notable cycling events ridden by Johnny Rocket over the last few decades.
 
 ## Dragon Ride
 
+![Dragon Ride Logo](https://www.dragonride.co.uk/wp-content/themes/dragon-ride/assets/images/dragon-ride-logo.png
+){align=right loading=lazy}
+
+
 The Dragon ride is considered one of the most challenging 'sportives' in the United Kingdom.  Not surprisingly as even the least challenging route climbs 2 mountain passes.
 
 Tuesday I organised my kit and necessities for the Dragon Ride trip.
