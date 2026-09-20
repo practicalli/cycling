@@ -90,6 +90,13 @@ Build up to breathing in for 4 seconds, holding for 4 seconds and breathing out 
 Good times to practice this are first thing in the morning, before a ride or anytime energy levels are feeling lower.
 Deliberate breathing is also a useful technique for recovery whilst riding, e.g. after a long ascent
 
+[:fontawesome-brands-youtube: Dynamic Cyclist YouTube Channel](https://www.youtube.com/@dynamiccyclist){target=_blank .md-button}
+
+[:fontawesome-brands-youtube: Emma Forever Yoga YouTube Channel](https://www.youtube.com/@EmmaForeverYoga){target=_blank .md-button}
+
+[:fontawesome-brands-youtube: Yoga with Adriene YouTube Channel](https://www.youtube.com/@yogawithadriene){target=_blank .md-button}
+
+
 
 ## Regular riding
 Regular riding supports endurance and helps your body recovery quickly (especially your legs & posterior)
