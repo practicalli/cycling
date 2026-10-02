@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Added
+
+- build(zensical): 🔧 add common practicalli social links to footer
+
 ### Updated
 
 - docs(equipment): 📝 update tyres description
