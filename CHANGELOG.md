@@ -11,6 +11,7 @@
 - build(zensical): 🔧 move choosing a bike and bike fit to intro section
 - docs(intro): 📝 start page on why a person should cycle
 - ci(docs): 🔧 use uv to manage and run zensical package
+- build(zensical): 🔗 use central zensical tips page
 
 ## 2026-08-23
 

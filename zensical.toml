@@ -102,7 +102,7 @@ nav = [
 
   { "First Aid" = "first-aid.md" },
 
-  { "Zensical Tips" = "zensical-tips.md" },
+  { "Zensical Tips" = "https://practical.li/zensical-tips/" },
 ]
 
 
