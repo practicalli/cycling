@@ -5,6 +5,7 @@
 ### Added
 
 - build(zensical): 🔧 add common practicalli social links to footer
+- docs(routes): 📝 cafe routes melias place
 
 ### Updated
 

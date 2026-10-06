@@ -79,6 +79,7 @@ nav = [
     "routes/index.md",
     { "Planning" = "routes/route-planning.md" },
     { "Curated Routes" = "routes/curated-routes.md" },
+    { "Cafe" = "routes/cafe.md" },
     { "Hill Challenges" = "routes/hills.md" },
   ]},
 
