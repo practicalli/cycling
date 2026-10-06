@@ -8,6 +8,9 @@
 - docs(routes): 📝 cafe routes melias place
 - build(zensical): only one dark and light palette
 - docs(cycling): 📝 speedgate farm cafe
+- build(make): 🔧 `deps-update` & `deps-upgrade` tasks
+
+Simplify dependency update tasks and emulate naming from Debian Linux
 
 ### Updated
 
