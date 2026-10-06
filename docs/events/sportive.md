@@ -98,7 +98,9 @@ All three routes showcase the High Weald AONB for its rolling hills, diverse lan
 
 The Long route makes its way to the most South-Easterly reaches of the Kent Downs as it loops up and around Sevenoaks before crossing over the Bough Beech reservoir and returning back to Lingfield.
 
-[Kent Classic Long Route - Ride With GPS](https://ridewithgps.com/routes/53666326){target=_blank .md-button}
+[:globe_with_meridians: Kent Classic](https://www.ukcyclingevents.co.uk/products/the-kent-classic-cycling-event-2026){target=_blank .md-button}
+
+[:lucide-map-pin-pen: Long Route - RideWithGPS](https://ridewithgps.com/routes/53666326){target=_blank .md-button}
 
 
 ### Fred Whitton
