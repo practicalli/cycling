@@ -79,3 +79,22 @@ Along Pilgrms way through Kemsing, turning left down into Otford.
 A steady climb out of Otford and up Pollhil, before a speedy decent past Knockholt Station and on to the A21 for a quick blast home.
 
 ---
+
+## Speedgate Farm
+
+A nice selection of drinks and cakes.
+
+A farm shop next door sells products for horse grooming and horse riding clothing.
+
+[:lucide-map-pin-pen: RideWithGPS](https://ridewithgps.com/routes/57456882){target=_blank .md-button}
+
+A fast ride to down Poll Hill, along Pilgrims way, up over Secret Bridge.
+
+A steady climb on the main road and then a long undulating segment along London Road.
+Turning right for Speedgate cafe, passing Brands hatch racing circuit on the left hand side.
+
+Outdoor seating is at the front and rear of the Cafe, with plenty of room to leave bicycles.
+
+A small country lane starts the journey home (this can get muddy after heavy rain).
+Climbing up to Crockenham and to the East of Orpington (missing most of the traffic).
+A nice steady decent from Chelsfield and navigating the A21 roundabout to head up to Farnborough village.

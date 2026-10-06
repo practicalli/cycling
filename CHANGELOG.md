@@ -6,6 +6,8 @@
 
 - build(zensical): 🔧 add common practicalli social links to footer
 - docs(routes): 📝 cafe routes melias place
+- build(zensical): only one dark and light palette
+- docs(cycling): 📝 speedgate farm cafe
 
 ### Updated
 
