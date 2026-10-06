@@ -339,21 +339,21 @@ scheme = "catppuccin-mocha"
 primary = "yellow"
 accent = "orange"
 toggle.icon = "lucide/moon"
-toggle.name = "Switch to Macchiato"
-
-[[project.theme.palette]]
-scheme = "catppuccin-macchiato"
-primary = "yellow"
-accent = "orange"
-toggle.icon = "lucide/cloud-moon"
-toggle.name = "Switch to Frappé"
-
-[[project.theme.palette]]
-scheme = "catppuccin-frappe"
-primary = "yellow"
-accent = "orange"
-toggle.icon = "lucide/cloud-sun"
 toggle.name = "Switch to Latte"
+
+# [[project.theme.palette]]
+# scheme = "catppuccin-macchiato"
+# primary = "yellow"
+# accent = "orange"
+# toggle.icon = "lucide/cloud-moon"
+# toggle.name = "Switch to Frappé"
+#
+# [[project.theme.palette]]
+# scheme = "catppuccin-frappe"
+# primary = "yellow"
+# accent = "orange"
+# toggle.icon = "lucide/cloud-sun"
+# toggle.name = "Switch to Latte"
 
 [[project.theme.palette]]
 scheme = "catppuccin-latte"
