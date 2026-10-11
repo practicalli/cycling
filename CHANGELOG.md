@@ -17,6 +17,7 @@ Simplify dependency update tasks and emulate naming from Debian Linux
 - docs(equipment): 📝 update tyres description
 - docs(readme): ✏️ remove star history information (requires read/write token)
 - docs(readme): 🔧 update megalinter and publish book sheilds
+- docs(intro): ✏️ update choosing a bicycle advice
 - refactor(equipment): 📝 separate tyres into their own page
 - build(zensical): 🔧 move choosing a bike and bike fit to intro section
 - docs(intro): 📝 start page on why a person should cycle

@@ -6,11 +6,11 @@ icon: lucide/bike
 
 The first decision should be what kind of cycling do you want to do, essentially the kind of terrain that will be cycled upon:
 
-- Road - racing or endurance rides on tarmac
-- Hybrid - commuting or casual riding on roads and cycle lanes
-- Gravel - following off-road adventures on gravel or semi-rough terrain
-- Mountain - navigating rough and dirty terrain
-
+- Road - racing or endurance rides on tarmac (mostly Carbon frames)
+- Hybrid - commuting or casual riding on roads and cycle lanes (modern alloy or classic steel frames)
+- Gravel - following off-road adventures on gravel or semi-rough terrain (alloy or titanium)
+- Mountain - navigating rough and dirty terrain (alloy or titanium)
+- Social riding, e.g. club rides on tarmac (any bike will do, so long as its mechanically sound)
 
 
 ## Frame Material
@@ -21,21 +21,29 @@ The budget available for the bike will drive which material is right for you, fo
 
 Common types of bike frame are:
 
-- **Carbon Fibre** - light and strong material at medium cost, for speed and climbing.
+- **Carbon Fibre** - light and strong material at medium cost, for speed and climbing on the road.
 - **Alloy / Aluminium** - good strength and durability, lowest cost bike for those starting out.
-- **Titanium** - most durable material, more expensive initial cost. Excellent for touring and off-road, or for a 'lifetime' investment.
+- **Titanium** - most durable material (fatigue resistance), more expensive initial cost. Excellent for touring and off-road, or for a 'lifetime' investment.
 - **Steel** - strong and durable, at low cost but potential for corrosion if not maintained. Used for classic design road bikes.
 
 Most mid-range and premium road bicycles are made from carbon.
 
 Entry level road bicycles are mostly made from Alloy, optionally with carbon forks for greater comfort. Some Asian companies are starting to create entry level carbon bicycles for their own markets and internationally.
 
+??? WARN "Not all Carbon frames are durable"
+    A branded carbon frame bicycle should easily last a decade or two (my Bianchi 928 is 20 years old). Both Western and Chinese/Asian brands are quite reliable.
+
+    Be wary of unbranded carbon frames and bicycles or those that have a price far lower than comparable bicyles.
+
+    There are lots of bicycle review websites and YouTube channels to consult if you are unsure about a bicycle.
+
+
 ??? INFO "Steel Vs Titainium"
-    Titanium is materially lighter than Steel, but Steel has greater rigidity than Titanium.
+    Titanium is materially lighter than Steel, but Steel has greater rigidity than Titanium. Extra titanium material is required to create strength and rigidity which adds weight to the bike frame.
 
-    Whether a Steel or Titainium bike depends heavily on the design and final rider weight limit for the frame.
+    A Titainium frame in theory should be lighter than a Steel frame, but only if designed to be ligher. Manufacturing techniques for titanium frames also affect the overall weight and these techniques continue to evolve.
 
-    Titanium bikes are more popular for off-road and touring, so tend to be heavier as they are designed to take more punishment. Extra material is required to create strenght and rigidity, adding weight to the bike frame.
+    Titanium bikes are more popular for off-road and touring, so tend to be heavier as they are designed to tackle harsher conditions.
 
 
 ??? INFO "Ribble Cycles Frame Material Weight Comparison"
