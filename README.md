@@ -34,8 +34,6 @@ Practical guides to cycling route planning, training and essential maintenance.
 
 ## Contributing
 
-Issues and pull requests are most welcome although it is the maintainers discression as to if they are applicable.  Please detail issues as much as you can.  Pull requests are simpler to work with when they are specific to a page or at most a section.  The smaller the change the quicker it is to review and merge.
-
 Please read the [detailed Practicalli contributing page](https://practical.li/contributing/) before raising an issue or pull request to avoid disappointment.
 
 * [Current Issues](https://github.com/practicalli/cycling/issues)
@@ -50,7 +48,7 @@ By submitting content ideas and corrections you are agreeing they can be used in
 
 All sponsorship funds are used to support the continued development of [Practicalli series of books and videos](https://practical.li/), although most work is done at personal cost and time.
 
-Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.br/) and a wide range of other [sponsors](https://github.com/sponsors/practicalli-johnny#sponsors) for your continued support.
+Thanks to my [current GitHub sponsors](https://github.com/sponsors/practicalli-johnny#sponsors) for their continued support
 
 
 ## GitHub Actions
