@@ -32,3 +32,18 @@ Johnny Rocket mostly rides in South East of England which influences the experie
 - [British Cycling Sportive](events/experiences.md#kent-tour-de-france-sportive) London to Canterbury a week before the 2007 Tour de France cyclists
 - [Lands End to John O'Groats](events/experiences.md#lands-end-to-john-ogroats) 9 day trip covering 16,000 km # climbing 20,000 meters
 - [Dragon Ride 2026](events/experiences.md#dragon-ride) 9 day trip covering 16,000 km # climbing 20,000 meters
+
+
+## Navigate the book
+
+Use the links in the footer of each page or built-in key bindings to navigate the pages of the book.
+
+- ++"n"++ or ++period++ : go to next page
+- ++"p"++ or ++comma++ : go to previous page
+
+Use the search box to quickly find a specific topic
+
+- ++slash++ or ++ctrl+"k"++: open search dialog
+- ++arrow-down++  ++arrow-up++ : select next / previous search result
+- ++esc++ or ++tab++ : close search dialog
+- ++enter++ : follow selected result

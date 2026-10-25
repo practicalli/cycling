@@ -25,6 +25,7 @@ Simplify dependency update tasks and emulate naming from Debian Linux
 - build(zensical): 🔗 use central zensical tips page
 - ci(zensical): update uv to 10.2.0
 - ci(zensical): 🔧 rename site publishing workflow to standard docs name
+- docs(intro): ✏️ update navigation keys information
 
 ## 2026-08-23
 
