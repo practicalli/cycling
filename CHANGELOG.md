@@ -27,6 +27,7 @@ Simplify dependency update tasks and emulate naming from Debian Linux
 - ci(zensical): 🔧 rename site publishing workflow to standard docs name
 - docs(intro): ✏️ update navigation keys information
 - docs(routes): ✏️ create hills section
+- build(zensical): 🔧 disable left side navigation sections
 
 ## 2026-08-23
 
