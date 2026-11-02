@@ -28,6 +28,7 @@ Simplify dependency update tasks and emulate naming from Debian Linux
 - docs(intro): ✏️ update navigation keys information
 - docs(routes): ✏️ create hills section
 - build(zensical): 🔧 disable left side navigation sections
+- docs(routes) ✏️ tools for finding and climbing hills
 
 ## 2026-08-23
 
