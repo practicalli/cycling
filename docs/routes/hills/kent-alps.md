@@ -230,7 +230,7 @@ The gradient levels out for the final 100 meters.
 - Steepest gradient: 19 per cent
 
 
-### Westerham Hill
+## Westerham Hill
 
 ??? WARNING "AVOID: Heavy traffic climb on major road"
 
