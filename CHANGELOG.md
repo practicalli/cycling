@@ -9,6 +9,7 @@
 - build(zensical): only one dark and light palette
 - docs(cycling): 📝 speedgate farm cafe
 - build(make): 🔧 `deps-update` & `deps-upgrade` tasks
+- docs(routes): ✏️ add list of cafes and ridewithgps collection
 
 Simplify dependency update tasks and emulate naming from Debian Linux
 

@@ -2,7 +2,6 @@
 icon: lucide/coffee
 ---
 
-
 ![Rocket Cafe banner](https://github.com/practicalli/graphic-design/blob/live/cycling/rocket-cafe-banner.png?raw=true){ loading=lazy }
 
 # Cafe Routes
@@ -10,6 +9,59 @@ icon: lucide/coffee
 Visit well known venues known to be Cycling friendly for drinks and cakes.
 
 [:lucide-map-pin-pen: Rocket Cafe Collection on RideWithGPS](https://ridewithgps.com/collections/10811016){target=_blank .md-button}
+
+
+- Archive Cafe (inside bike racks & sofa's)
+- Chiddingstone Village Cafe (delicious cakes)
+- Duddleswell Cafe, Fairwarp. (amazing food)
+- East Peckham (small cake portions)
+- Green Fingers Cafe, Fairwarp.
+- Hadlow Weathered & Worn (cozy rear garden)
+- Ridings Cafe, Hildenborough
+- Old Post Office Cafe, Marden  (inside/outside seating)
+- Malabar Cafe, Riverhill  (Himalayan Gardens)
+- Melias Place, Borough Green (nice range of cakes, friendly)
+- Nuttery Cafe, Ryarsh  (small and out of the way)
+- Porcupine Palace Cafe, Penhurst
+- Red Barn, Lingfield
+- Speedgate Farm Cafe, Speedgate.
+- Teapot Island, Yalding.
+- Waterside Cafe, East Peckham.
+- Velobarn, Westerham.
+
+
+![Rocket Cafe Rides on Ride With GPS](https://ridewithgps.com/collections/10811016){loading=lazy}
+
+!!! WARNING "Cafe descriptions are work in progress"
+
+
+## Archive Cafe
+
+A cosy cafe with indoor bicycle racks and comfy sofa and chairs.
+
+
+## Duddleswell Cafe
+
+Open Wednesday to Sunday,  09:00-16:00
+
+A popular venue in the western side of Kent South Downs.
+
+A superb range of dishes available at Duddleswell Cafe makes the longer journey well worth taking. There is plenty of space in the large lawn out front for bicycles and lots of tables to enjoy the food.
+
+A counter service café menu changes daily, including breakfast, brunch, lunch, cakes and scones all freshly made on site, including gluten-friendly and plant-based options made using high quality ingredients sourced from local suppliers.
+
+Barista made coffees (using local artisan caffeinated and decaf coffee beans and organic milks), leaf teas, matcha, chai and organic soft drinks.
+
+Payment can be made by card or contactless device (but not Amex).
+
+[Duddleswell Cafe: GSG Seal -> PoohCorner Sundridge](https://ridewithgps.com/routes/57767115){target=_blank .md-button}
+
+[Duddleswell Cafe: GSG -> PoohCorner ToysHill SundridgeHill](https://ridewithgps.com/routes/57412284){target=_blank .md-button}
+
+> [Green Fingers Cafe](#green-fingers-cafe) is 0.5 km North of Duddleswell Cafe.
+
+## Green Fingers Cafe
+
 
 
 ## Melia's Place
