@@ -30,6 +30,7 @@ Simplify dependency update tasks and emulate naming from Debian Linux
 - docs(routes): ✏️ create hills section
 - build(zensical): 🔧 disable left side navigation sections
 - docs(routes) ✏️ tools for finding and climbing hills
+- ci(docs): 🔧 update setup-uv to 10.3.3 release
 
 ## 2026-08-23
 
