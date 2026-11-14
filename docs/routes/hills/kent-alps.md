@@ -9,6 +9,25 @@ Most large hills can be found in the "Kent Alps", the unofficial name for the No
 
 The hill descriptions are ordered in assumed popularity.
 
+## Nash Lane to Croydon Road
+
+A quiet country lane ride out towards Clarks Lane, via Croydon Road.
+
+Nash Lane is 1.6km long, climbing 58 meters and includes the steepest parts of the climb.
+
+8.7km long and ascending 170 meters when including Layhams Road, Skid Hill Lane, Park Road, Fairchildes Road, Chelsham Court Road and Beech Farm road ending at Croydon Road.
+
+![Nash Lane to Croydon Road elevation](https://github.com/practicalli/graphic-design/blob/live/cycling/hill-nash-to-croydon-road-elevation.png?raw=true){loading=lazy}
+
+
+## Cudham Lane
+
+6.4km distance, climbing 159km from Green Street Green to Grays Road Junction.
+
+A fast decent all the way down to Green Street Green roundabout.
+
+![Cudham Lane elevation](https://github.com/practicalli/graphic-design/blob/live/cycling/hill-cudham-elevation.png?raw=true){loading=lazy}
+
 
 ## PolHill
 
