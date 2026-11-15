@@ -28,7 +28,7 @@ HELP-DESCRIPTION-SPACING := 24
 # SHELL := /usr/bin/zsh
 
 # Tool variables
-MEGALINTER_RUNNER := npx mega-linter-runner --flavor documentation --env "'MEGALINTER_CONFIG=.github/config/megalinter.yaml'" --env "'VALIDATE_ALL_CODEBASE=true'"  --remove-container
+MEGALINTER_RUNNER := npx mega-linter-runner --flavor documentation --env "'MEGALINTER_CONFIG=.github/config/megalinter.yaml'" --env "'VALIDATE_ALL_CODEBASE=true'" --remove-container
 DOCS_SERVER := zensical serve --dev-addr localhost:7777
 DEPS_UPDATE_REPORT := deps-update-report-$(shell date +%y-%m-%d-%T).md
 # ------------------------------------------------ #
