@@ -11,6 +11,7 @@
 - build(make): 🔧 `deps-update` & `deps-upgrade` tasks
 - docs(routes): ✏️ add list of cafes and ridewithgps collection
 - docs(maintenance): add track, hand and electric pump details and links
+- docs(intro): ✏️ add practicalli sponsor section
 
 Simplify dependency update tasks and emulate naming from Debian Linux
 
