@@ -53,9 +53,9 @@ A bag with pockets is useful to keep smaller items like patches and wedges.
 
 ## My Top Bag
 
-I regularly ride long distance routes, so carry a few more tools in the top bar bag.  This helps distribute the weight to the front of the bicycle.
+I regularly ride long distance routes, so carry a few more tools in the top bar bag which distributes weight to the front of the bicycle.
 
-- Coospo X1 Mini Electric pump with extension pipe (creates a tight seal)
+- [Coospo X1 Mini Electric pump](https://www.aliexpress.com/item/1005009348410886.html){target=_blank} with extension pipe (creates a tight seal)
 - Hand pump (when electric pump runs out of battery)
 - Rear derailleur hanger, specific to my bicycle frame (highly recommended for long distance riding, multi-day trips)
 - Mini Allen key ratchet set (removing thru-axels, adjusting handlebars, seat post, saddle, etc.)
@@ -104,13 +104,61 @@ TPU Inner tubes are considerably lighter, between 19 to 50 grams. TPU tubes with
 
 ## Pump
 
-Hand pumps that fit in a top-tube bag or attach securely to the bike are convenient options.  A jersey or jacket pocket can also be used.
+Three types of pumps relative to bicycles
 
-An Electric pump with pressure setting & display are increasing in popularity.  They way a little more than than a typical hand pump, but require very little effort to inflate a tyre to the correct pressure.
+- Track (floor) pump (vertical standing pump to quickly inflate tyres at home or events)
+- Hand pump (highly reliable way to inflate dubes)
+- Electric pump (a quick and convenient alternative to a hand pump)
 
-!!! TIP "Carry a small hand pump even with an electric pump"
+A mini hand pump and/or electric pump is an essential tool for any journey, regardless of tube or tubeless tyres. A mini pump typically weights between 80-150 grams.
+
+[West Biking 100PSI Mini Bike pump](https://www.aliexpress.com/item/1005005412619578.html){target=_blank .md-button}
+[Coospo X1 Mini Electric pump](https://www.aliexpress.com/item/1005009348410886.html){target=_blank .md-button}
+
+[Topeak JoeBlow floor pump](https://www.halfords.com/cycling/bike-maintenance/bike-pumps/topeak-joeblow-max-ii-floor-pump-347218.html){target=_blank .md-button}
+
+
+??? WARNING "CO2 inflation not recommended"
+    Although CO2 cartridges seem convenient, incorrect use causes brittle valves and skin burns.
+
+> Using solid tyres, a pump is not required.
+
+### Hand Pump
+
+A good hand pump should be able to inflate a tyre to at least 60 PSI to easily get you home (or 80+ PSI if you break a little sweat).
+
+A pump with an 'air hose' makes it easier to inflate the tube without putting strain on the tube value. The 'air hose' usually fits in the middle of the hand pump for compactness.
+
+A mini hand pump that fits in a top-tube bag or attaches securely to the bike is most convenient. A jersey or jacket pocket can also be used but a pump by itself can feel a little awkward.
+
+[West Biking 100PSI Mini Bike pump](https://www.aliexpress.com/item/1005005412619578.html){target=_blank .md-button}
+
+### Electric pump
+
+An Electric pump can weight about the same as typical hand pump, although limited to 1-2 inflations of 80-90 PSI (3 or 4 inflations up to 60 PSI).
+
+Pumps with displays allow the PSI to be set to a maximum, the pump will automatically switch off when it reaches that pressure. The display shows the current pressure as the tyre inflates.
+
+The small electric motor is powerful, generating a noticeable amount of noise (not deafening though). Part of the pump around the motor can become hot to the touch during use, but the pump should indicate hot areas.
+
+Using an 'air hose' with a screw thread makes a tight seal with the inner tube value, ensuring the high pressure air from the pump is not wasted (and battery lasts longer).
+
+Recommended Features:
+
+- air hose with screw fastening (tight seal)
+- 100 PSI or greater
+- 500 mAh battery
+- Pressure display
+- automatic pressure cut-off
+
+[Coospo X1 Mini Electric pump](https://www.aliexpress.com/item/1005009348410886.html){target=_blank .md-button}
+
+> If you keep your electric pump in a jersey pocket, a silicon cover can help protect from the heat of the pump after use.
+
+??? TIP "Carry a small hand pump even with an electric pump"
     A hand pump is a reliable backup for an electric pump, should the battery run out (or was not charged recently).
 
+    On longer trips, use a hand pump to inflate the first 40 PSI and use the electric pump to do the hardest work.
 
 ## Mini Tool Kit
 
