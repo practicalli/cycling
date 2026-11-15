@@ -401,7 +401,7 @@ quote = "fontawesome/solid/quote-left"
 # Redirection
 # ----------------------------------------------------------------------------
 [project.plugins.redirects.redirect_maps]
-"maintenance/bike-toolbag.md" = "equipment/bike-toolbag.md"
+"maintenance/toolbag.md" = "equipment/bike-toolbag.md"
 # ----------------------------------------------------------------------------
 
 # ----------------------------------------------------------------------------
