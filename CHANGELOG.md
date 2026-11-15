@@ -16,6 +16,7 @@ Simplify dependency update tasks and emulate naming from Debian Linux
 
 ### Updated
 
+- docs(equipment)!: ♻️ update toolbag details and move to equipment section
 - docs(equipment): 📝 update tyres description
 - docs(readme): ✏️ remove star history information (requires read/write token)
 - docs(readme): 🔧 update megalinter and publish book sheilds

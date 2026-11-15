@@ -44,7 +44,7 @@ A bag with pockets is useful to keep smaller items like patches and wedges.
 
 - 2 TPU inner tubes – RiderNow 36G tubes which fit 18C-32C tyres
 - 4 TPU specific patches (came with RiderNow tubes)
-- 1 RideNow Bicycle Tyre Lever – fancy tyre lever to help fit very stubborn tyres
+- 1 RideNow Bicycle Tyre Lever – fancy tyre lever to help fit stubborn tyres
 - 2 Standard tyre lever (as a back up of the fancy ones – maybe superfluous)
 - 2 Disc break piston wedges (keep disk brake pads open when the wheel is off)
 
@@ -82,7 +82,7 @@ Carry at least one spare inner tube on a ride for an efficient way to repair a p
 
     Most tubes can be patched within a few minutes. Inflate the tube enough to find the hole and apply a patch to repair the inner tube.
 
-Butyl rubber inner tubes have been used for decades and are cost effective.  A typical tube weighs around 130 grams.
+Butyl rubber inner tubes have been used for decades and are cost effective. A typical tube weighs around 130 grams.
 
 TPU Inner tubes are considerably lighter, between 19 to 50 grams. TPU tubes with an aluminium valve stem are more durable than a plastic stem.
 
@@ -119,7 +119,7 @@ A mini hand pump and/or electric pump is an essential tool for any journey, rega
 
 
 ??? WARNING "CO2 inflation not recommended"
-    Although CO2 cartridges seem convenient, incorrect use causes brittle valves and skin burns.
+    Although CO2 cartridges seem convenient, [incorrect use causes brittle valves and skin burns](#tools-to-avoid).
 
 > Using solid tyres, a pump is not required.
 
@@ -183,11 +183,11 @@ A mini tool kit should include a range of sizes suitable for your bike, typicall
 
 ## Quick Links
 
-Modern chains are joined together with a quick link (also known as a split link).  The quick link allows joining of a chain without the need of tools.
+Modern chains are joined together with a quick link (also known as a split link). The quick link allows joining a chain without the need of tools.
 
-Fit the chain (of correct length) to the bicycle and insert the two parts of the quick link to each end of the chain.  The force of the peddle should be sufficient to fully engage the quick link.
+Fit the chain (of correct length) to the bicycle and insert the two parts of the quick link to each end of the chain. The force of the peddle should be sufficient to fully engage the quick link.
 
-Removing a chain is very easy, with a pair of quick link Pliers (or small tipped pliers).
+A pair of quick link Pliers (or small tipped pliers) will open the quick link.
 
 Quick link pliers can also be used to join a quick link.
 
@@ -198,28 +198,34 @@ If a chain should break when riding, then one of the existing links may need rem
 
 The chain splitter removes the pin that connects two links.
 
-The chain splitter can also insert a pin in between two links if there isn't a quick link available.  Fitting an existing pin is a very tricky process and the pin has to be lined up accurately.
+The chain splitter can also insert a pin in between two links if there isn't a quick link available. Fitting an existing pin is a tricky process and the pin has to be lined up accurately.
 
-[ZTTO Mini chain splitter](https://ztto.net/products/ztto-mtb-road-bike-chain-cutter-remove-tool-high-strength-aluminum-alloy-steel-pin-splitter-bicycle-link-breaker-patent-cc01){target=_blank} is a very small tool, although it does require 2 Allen keys or similar shaped tool to work
+[ZTTO Mini chain splitter](https://ztto.net/products/ztto-mtb-road-bike-chain-cutter-remove-tool-high-strength-aluminum-alloy-steel-pin-splitter-bicycle-link-breaker-patent-cc01){target=_blank} is a small tool, although it does require 2 Allen keys or similar shaped tool to work
 
 
 ## Rear Derailleur Hanger
 
 The rear derailleur hanger is designed to bend or break during a serious accident, to prevent the frame or derailleur becoming damaged (which would be harder to repair and a lot more expensive).
 
-Although every bicycle has a hanger, there is little standardisation between bike manufacturers and even models of bicycles.
+Carrying a spare hanger in your tool bag will get you back on the road in 10 minutes should the fitted hanger snap.
 
-It is highly unlikely that a bike shop will have a spare hanger that fits your bicycle and ordering a new hanger can take a few days or more.
+Until recently there were many different designs across bicycle manufacturers. A specific hanger from your manufacturer would be required, as a local bike shop may need to order the specific part leaving your bike off the road for several days.
 
-Hangers do not take up much space, so carrying a specific hanger will help you get going again should the original hanger become damaged.
+The [Universal Derailleur Hanger (UDH) standard](https://www.universalderailleurhanger.com/){target=_blank} is a recent standardize for one derailleur hanger design across all bicycle and gear set manufacturers.
 
+The UDH design offers excellent derailleur protection and integrates with the throu-axel design of disc brake bicycles.
+
+When buying a new bicycle, look for the UDH logo on the hanger, avoiding the need to keep buying a spare hanger for each bicycle.
+
+[Universal Derailleur Hanger (UDH) standard](https://www.universalderailleurhanger.com/){target=_blank .md-button}
+
+[SRAM Universal Derailleur Hanger](https://www.sram.com/en/sram/mountain/products/udh){target=_blank .md-button}
 
 ## Spoke Wrench
 
 A spoke wrench or spoke key is a small wrench or tool used to adjust the tension in the spokes of a tension-spoked wheel. A spoke wrench is sometimes called a nipple wrench, as it is the spoke nipple – not the spoke – that is turned in the process of changing the tension of a spoke.
 
-
-Wheel spokes are held in place on the wheel with a 'nipple'.  Wheel manufacturers do not use a common standard size of nipple, although most road bikes will uses a similar size.
+Wheel spokes are held in place on the wheel with a 'nipple'. Wheel manufacturers do not use a common standard size of nipple, although most road bikes will uses a similar size.
 
 Bicycle nipple tool sizes vary, the most common are 3.23mm (for 14g spokes), 3.45mm (13g), and 3.96mm (e-bike/cargo bike/Shimano systems), with variations like 3.3mm for black brass nipples; you need to measure the nipple's square part (across flats) with calipers to find the precise size, as some nipples have specific diameters for different brands or spoke gauges.
 
@@ -238,14 +244,15 @@ How to Find Your Size
 - Consider Brand: Shimano, DT Swiss, and others have specific sizes.
 
 
-## Miscellaneous
+## Headphones
 
 Bone conducting headphones can help with motivation of the toughest part of rides and help keep motivation on long distance rides.
 
-Shockz headphones are the high end brand for bone conducting headphones.  Lower cost alternatives can be found on Amazon, Temu and AliExpress.
+Open style headphones ensure that traffic and other riders can easily be heard whist riding.
 
-– PARAMITA Dv68 Pro New Night Running Sports Headphones (21 GBP AliExpress)
-– Sanag A5X True Bone Conduction Headphones (15 GBP from Temu)
+Shockz headphones are the high end brand for bone conducting headphones. Lower cost alternatives can be found on Amazon, Temu and AliExpress.
+
+[Lenovo S102 Bone Conductor headphones (16.59 GBP AliExpress)](https://www.aliexpress.com/item/1005013410849259.html){target=_blank .md-button}
 
 
 !!! TIP "Music when needed most"
@@ -254,14 +261,16 @@ Shockz headphones are the high end brand for bone conducting headphones.  Lower 
     Playing music when approaching the base of an ascent can help with motivation for a significant climb.
 
 
-!!! INFO "Original AfterShocks headphones lasted over 6 years"
-    The original Shockz headphones were called AfterShockz.  My pair were used several times a week and worked flawlessly for over 6 years.
+??? INFO "Original AfterShocks headphones lasted over 6 years"
+    The original Shockz headphones were called AfterShockz. A pair I owned were used several times a week and worked flawlessly for over 6 years.
 
 
 ## Tools to avoid
 
-C02 canisters are very ineffective ways to refill tyres and very bad for the environment.  If used incorrectly a C02 canister can cause physical injuries such as freeze burns. Incorrectly fitted canisters can fly off and cause serious injuries.
+CO2 canisters are an ineffective way to refill tyres with a negative effect on our environment.
+
+If used incorrectly a CO2 canister can cause physical injuries, e.g. freeze burns, or fly off and cause serious injuries.
 
 A C02 canister can rapidly fill an inner tube but this also means it is harder to manage the resulting air pressure in the tyre.
 
-There is a high risk of valve damage, especially with TPU and Latex inner tubes.  As the C02 is released the air becomes very cold, which can weaken a valve.  Using a pump after a C02 canister can cause the valve to snap.
+A valve can become brittle as the CO2 gas is released the air is freezing cold. Several attempts to inflate a tube can cause the valve to snap.

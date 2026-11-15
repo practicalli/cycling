@@ -54,6 +54,7 @@ nav = [
 
   { "Equipment" = [
     "equipment/index.md",
+    { "Bike Toolbag" = "equipment/bike-toolbag.md" },
     { "Clothes" = "equipment/clothes.md" },
     { "Kit Reviews" = "equipment/kit-reviews.md" },
     { "Lights" = "equipment/lights.md" },
@@ -409,6 +410,14 @@ bug = "fontawesome/solid/robot"
 example = "fontawesome/solid/flask"
 quote = "fontawesome/solid/quote-left"
 # exercise = "fontawesome/solid/pencil"
+
+
+# ----------------------------------------------------------------------------
+# Redirection
+# ----------------------------------------------------------------------------
+[project.plugins.redirects.redirect_maps]
+"maintenance/bike-toolbag.md" = "equipment/bike-toolbag.md"
+# ----------------------------------------------------------------------------
 
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
