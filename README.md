@@ -8,6 +8,7 @@
 ██║     ██║  ██║██║  ██║╚██████╗   ██║   ██║╚██████╗██║  ██║███████╗███████╗██║
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═╝   ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝
 ```
+> [Ascii Art Generator](https://patorjk.com/software/taag/#p=display&f=ANSI%20Shadow&t=Practicalli%205)
 
 ## Book status
 
@@ -21,6 +22,10 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/practicalli/cycling?style=for-the-badge&label=github%20contributors)
 
 
+# Overview
+
+Practical guides to cycling route planning, training and essential maintenance.
+
 ## Creative commons license
 
 <div style="width:95%; margin:auto;">
@@ -28,9 +33,6 @@
   This work is licensed under a Creative Commons Attribution 4.0 ShareAlike License (including images & stylesheets).
 </div>
 
-# Overview
-
-Practical guides to cycling route planning, training and essential maintenance.
 
 ## Contributing
 
