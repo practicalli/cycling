@@ -13,6 +13,7 @@
 - docs(maintenance): add track, hand and electric pump details and links
 - docs(intro): ✏️ add practicalli sponsor section
 - build(license): ✨ add creative commons license
+- docs(intro): ✨ RideWithGPS statistics widget
 
 Simplify dependency update tasks and emulate naming from Debian Linux
 

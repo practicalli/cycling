@@ -16,6 +16,24 @@ Your cycling enthusiasm may start with cycling to work and with a little investm
     Practicalli Cycling book is not sponsored by any cycling related companies and all products have been bought at personal expense.
 
 
+## Johnny Rocket Activity
+
+<!-- RideWithGPS widget showing stats for johnny-rocket -->
+
+<a class="rwgps-widget" href="https://ridewithgps.com/users/1730364" data-rwgps-metric="1" data-rwgps-user-id="1730364" data-rwgps-include="week month year">Activities for JohnnyRocket</a>
+<script>
+(function(d,s) {
+  if(!d.getElementById('rwgps-sdk')) {
+    var el = d.getElementsByTagName(s)[0],
+        js = d.createElement(s);
+    js.id = 'rwgps-sdk';
+    js.src = "//ridewithgps.com/javascripts/sdk.js?1795045026728";
+    el.parentNode.insertBefore(js, el);
+  }
+})(document, 'script');
+</script>
+
+
 ## About
 
 Practicalli Cycling is written by Johnny Rocket who has been riding for over 30 years, growing [experience in long distance and multi-day rides](events/experiences.md) over the last 20 years.
