@@ -94,6 +94,7 @@ nav = [
     { "Winter-Spring Plan" = "training/plan-winter-spring.md" },
     { "Hill Climbing" = "training/hill-climbing.md" },
     { "Long Distance" = "training/long-distance.md" },
+    { "Winter Riding" = "training/winter.md" },
     # { "Group Riding" = "training/group-riding.md" },
   ]},
 

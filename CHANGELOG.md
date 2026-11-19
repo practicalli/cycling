@@ -14,6 +14,7 @@
 - docs(intro): ✏️ add practicalli sponsor section
 - build(license): ✨ add creative commons license
 - docs(intro): ✨ RideWithGPS statistics widget
+- docs(training): ✨ start winter page
 
 Simplify dependency update tasks and emulate naming from Debian Linux
 
