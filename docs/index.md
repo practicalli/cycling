@@ -6,7 +6,7 @@ icon: lucide/bike
 
 Practical guides to cycling, covering bicycle maintenance, route planning, bike tools, training plans, etc.
 
-Riding is a highly enjoyable way to keep healthy and explore the countryside (and lots of Cafe').  Joining a local cycling club is an excellent way to socialise with other people who enjoy cycling and support you on rides.
+Riding is a highly enjoyable way to keep healthy and explore the countryside (and many Cafe').  Joining a local cycling club is an excellent way to socialise with other people who enjoy cycling and support you on rides.
 
 With basic knowledge of bicycle maintenance, good quality clothes & a well fitted bike, many successful and trouble free rides can be enjoyed each and every year.
 
