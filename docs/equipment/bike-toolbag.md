@@ -160,6 +160,11 @@ Recommended Features:
 
     On longer trips, use a hand pump to inflate the first 40 PSI and use the electric pump to do the hardest work.
 
+??? WARNING "Batteries are less efficient in very cold weather"
+    The battery power in an electric pump may half when temperatures drop to 5 Celsius or lower.
+
+    Keeping the electric pump in a jersey pocket may help to diminish the power loss.
+
 ## Mini Tool Kit
 
 A mini tool kit or multi-tool is used to remove wheels (throu-axels), adjust saddle hight, and generally tighten bolts that are loose.

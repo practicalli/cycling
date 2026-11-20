@@ -16,6 +16,7 @@
 - docs(intro): ✨ RideWithGPS statistics widget
 - docs(training): ✨ start winter page
 - build(zensical): 🔧 enable repository edit & view of markdown from page
+- docs(equipment): ✏️ add warning of low battery power in cold conditions
 
 Simplify dependency update tasks and emulate naming from Debian Linux
 
