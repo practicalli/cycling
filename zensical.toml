@@ -29,6 +29,10 @@ site_author = "Johnny Rocket"
 # Read more: https://zensical.org/docs/setup/basics/#site_url
 site_url = "https://practical.li/cycling"
 
+# Set to include edit/view repository buttons on each page,
+# to access the Markdown of the page.
+repo_url = "https://github.com/practicalli/cycling"
+
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
 #
