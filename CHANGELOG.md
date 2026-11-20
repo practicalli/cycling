@@ -15,6 +15,7 @@
 - build(license): ✨ add creative commons license
 - docs(intro): ✨ RideWithGPS statistics widget
 - docs(training): ✨ start winter page
+- build(zensical): 🔧 enable repository edit & view of markdown from page
 
 Simplify dependency update tasks and emulate naming from Debian Linux
 
